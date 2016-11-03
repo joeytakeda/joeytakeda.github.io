@@ -9,12 +9,9 @@
     xmlns:hcmc="http://hcmc.uvic.ca/ns"
     xmlns:saxon="http://saxon.sf.net/"
     >
-    <xd:doc>
-        
-    </xd:doc>
     
     <xsl:template match="cv">
-       
+       <xsl:message>Creating XHTML5 CV.</xsl:message>
             <html>
                 <head>
                     <title><xsl:value-of select="name"/>: CV</title>
@@ -44,7 +41,7 @@
     
     <xsl:template match="publication | award | job | reference |degree">
         <div class="para">
-            <xsl:apply-templates select="@*|node()"/>
+            <xsl:apply-templates select="node()|@*"/>
         </div>
     </xsl:template>
   
