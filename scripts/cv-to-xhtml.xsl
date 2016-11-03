@@ -15,7 +15,7 @@
             <html>
                 <head>
                     <title><xsl:value-of select="name"/>: CV</title>
-                    <script src="css/CV.css"/>
+                    <script src="../css/CV.css"/>
                 </head>
                 <body>
                     <h1><xsl:value-of select="name"/></h1>
@@ -30,7 +30,7 @@
     <xsl:template match="cv/email | cv/name"/>
     
     <xsl:template match="education|awards|publications|conferences|teaching|employment|service|references">
-        <div class="para">
+        <div class="section">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
@@ -40,7 +40,7 @@
     </xsl:template>
     
     <xsl:template match="publication | award | job | reference |degree">
-        <div class="para">
+        <div class="item">
             <xsl:apply-templates select="node()|@*"/>
         </div>
     </xsl:template>
