@@ -29,8 +29,8 @@
         
     </xsl:template>
     
-    <xsl:template match="name">
-    </xsl:template>
+<!--    We manipulate those throughout.-->
+    <xsl:template match="cv/email | cv/name"/>
     
     <xsl:template match="education|awards|publications|conferences|teaching|employment|service|references">
         <div>
