@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cv date="2016-10-02">
+<cv xmlns="http://joeytakeda.github.io/ns/" date="2016-10-02">
     <name>Joseph Takeda</name>
     <email>joey.takeda@gmail.com</email>
     <education>
-        <grad start="2016">
+        <grad from="2016">
             <institution>University of British Columbia</institution>
             <degree>Masters of Arts: English (Science and Technology Research Stream)</degree>
         </grad>
-        <undergrad start="2012" end="2016">
+        <undergrad from="2012" to="2016">
             <institution>University of Victoria</institution>
             <degree>Bachelor of Arts (Honours), with distinction: English and Women's Studies
                 (minor)</degree>
@@ -29,16 +29,105 @@
             <award when="2012">Dogwood Bursary</award>
     </awards>
     <publications>
+        <publication>“Making the RA Matter: Pedagogy, Interface, and Practices.” Co-authored with Janelle Jenstad. <title level="m">Making Humanities Matter</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: 2017.</publication>
+        
+        <publication>“The MoEML Finding Aid to the Bills of Mortality.” <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</publication>
+        
+        <publication>Project documentation and numerous encyclopedia articles on London places authored, co-authored, and edited for The Map of Early Modern London, including: “Applications for Encoders,” “Barbican,” “Wood Street,” and “The MoEML Guide to Editorial Style.” For a full list of my contributions to MoEML, see <ref target="http://mapoflondon.uvic.ca/TAKE1.htm">http://mapoflondon.uvic.ca/TAKE1.htm</ref>.</publication>
         
     </publications>
     <conferences>
         
     </conferences>
     <teaching>
-       
+        <job when="2016-02-24">
+            <class>XPath Workshop</class>
+            <role>Instructor</role>
+        </job>
+        <job when="2016-02-03">
+            <class>ENGL 362, "Popular Literature in the Renaissance"</class>
+            <role>Guest Lecturer</role>
+        </job>
+        <job when="2015-01-29">
+           <class>SLST 481, "Existence and Anxiety in Dostoevsky"</class>
+            <role>Guest Lecturer</role>
+       </job>
     </teaching>
-    <employment> </employment>
-
-    <service> </service>
-    <references> </references>
+    <employment>
+        <job from="2016-05">
+            <workplace>Endings</workplace>
+            <job_title>Junior Programmer/Research Assistant</job_title>
+            <supervisor>Martin Holmes</supervisor>
+            <location>Victoria, BC</location>
+            <desc>Using digital humanities projects as case studies, the Endings partnership project attempts to develop workflows and best practices for finishing and archiving digital projects</desc>
+        </job>
+        <job from="2015-05">
+            <workplace>The Map of Early Modern London</workplace>
+            <job_title>Junior Programmer</job_title>
+            <supervisor>Martin Holmes and Janelle Jenstad</supervisor>
+            <desc>
+                <list>
+                    <item>Worked in a variety of programming languages and dialects (XQuery, Java, Javascript, ANT) to manipulate large XML datasets to render and maintain the MoEML site</item>
+                    <item>Wrote project Praxis documentation and emended project schemas</item>
+                    <item>Manipulated and created large datasets in various programming languages and dialects (XML, TEI, XHTML, JSON)</item>
+                    <item>Collaborated with a team of programmers, designers, researchers, and other encoders to identify problems, fix bugs, and implement feature requests</item>
+                    <item>Wrote code to generate the static version of MoEML, primarily using XSLT and ANT</item>
+                    <item>Translated project specific TEI to customized dialects of TEI, such as TEI Simple and TEI Lite</item>
+                    <item>Collaboratively designed programmatic methods to convert Julian dates to proleptic Gregorian</item>
+                </list>
+            </desc>
+        </job>
+        <job from="2016-02" to="2016-05">
+            <workplace>Scene Performance Journal, Internet Shakespeare Editions</workplace>
+            <supervisor>Janelle Jenstad</supervisor>
+        </job>
+        <job from="2014-08" to="2016-02">
+            <workplace>The Internet Shakespeare Editions</workplace>
+            <job_title>Junior Programmer</job_title>
+            <supervisor>Michael Best</supervisor>
+        </job>
+        <job from="2015-01" to="2015-04">
+            <workplace>The Map of Dostoevsky's St. Petersburg</workplace>
+            <job_title>Encoder</job_title>
+            <supervisor>Megan Swift and Martin Holmes</supervisor>
+        </job>
+    </employment>
+    <service>
+        <job from="2015" to="2016">
+           <job_title>Editor-in-chief</job_title>
+            <workplace>The Albatross English Undergraduate Journal</workplace>
+        </job>
+        <job from="2015" to="2016">
+            <job_title>Executive Editor</job_title>
+            <workplace>The Warren Undergraduate Review</workplace>
+        </job>
+        <job from="2014" to="2015">
+            <job_title>Vice-President of Academic Affairs</job_title>
+            <workplace>English Students' Association</workplace>
+        </job>
+        <job from="2014" to="2015">
+            <job_title>Criticism Editor</job_title>
+            <workplace>The Warren Undergraduate Review</workplace>
+        </job>
+    </service>
+    <references>
+        <reference>
+            <name>Janelle Jenstad</name>
+            <byline>Assistant Professor, English, University of Victoria</byline>
+            <email>jenstad@uvic.ca</email>
+            <phone>250-721-7245</phone>
+        </reference>
+        <reference>
+            <name></name>
+            <byline></byline>
+            <email></email>
+            <phone></phone>
+        </reference>
+        <reference>
+            <name></name>
+            <byline></byline>
+            <email></email>
+            <phone></phone>
+        </reference>
+    </references>
 </cv>
