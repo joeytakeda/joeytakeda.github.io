@@ -33,7 +33,7 @@
     <xsl:template match="cv/email | cv/name"/>
     
     <xsl:template match="education|awards|publications|conferences|teaching|employment|service|references">
-        <div>
+        <div class="para">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
@@ -42,9 +42,9 @@
         <h2><xsl:value-of select="."/></h2>
     </xsl:template>
     
-    <xsl:template match="publication | award | job |reference |degree">
+    <xsl:template match="publication | award | job | reference |degree">
         <div class="para">
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="@*|node()"/>
         </div>
     </xsl:template>
   
