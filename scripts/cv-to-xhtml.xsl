@@ -38,7 +38,7 @@
         </div>
     </xsl:template>
     
-    <xsl:template match="title">
+    <xsl:template match="cv/*/title">
         <h2><xsl:value-of select="."/></h2>
     </xsl:template>
     
@@ -54,6 +54,14 @@
     
     <xsl:template match="@from">
         <span class="data"><xsl:value-of select="."/><xsl:if test="parent::*/@to">–<xsl:value-of select="parent::*/@to"/></xsl:if></span>
+    </xsl:template>
+    
+    <xsl:template match="publication/title">
+        <span class="title_{@level}"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="ref[@target]">
+        <a href="{@target}"><xsl:apply-templates/></a>
     </xsl:template>
     
 <!--    Elements to suppress-->
