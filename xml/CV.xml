@@ -4,15 +4,15 @@
     <email>joey.takeda@gmail.com</email>
     <education>
         <title>Education</title>
-        <grad from="2016">
+        <degree from="2016">
             <institution>University of British Columbia</institution>
-            <degree>Masters of Arts: English (Science and Technology Research Stream)</degree>
-        </grad>
-        <undergrad from="2012" to="2016">
+            <byline>Masters of Arts: English (Science and Technology Research Stream)</byline>
+        </degree>
+        <degree from="2012" to="2016">
             <institution>University of Victoria</institution>
-            <degree>Bachelor of Arts (Honours), with distinction: English and Women's Studies
-                (minor)</degree>
-        </undergrad>
+            <byline>Bachelor of Arts (Honours), with distinction: English and Women's Studies
+                (minor)</byline>
+        </degree>
     </education>
     <awards>
         <title>Awards</title>

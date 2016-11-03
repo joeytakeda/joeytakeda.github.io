@@ -39,4 +39,21 @@
         </div>
     </xsl:template>
     
+    <xsl:template match="publication | award | job |reference |degree">
+        <div type="para">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+  
+  <xsl:template match="@when">
+      <span class="date"><xsl:value-of select="."/></span>
+  </xsl:template>
+    
+    <xsl:template match="@from">
+        <span class="data"><xsl:value-of select="."/><xsl:if test="parent::*/@to">–<xsl:value-of select="parent::*/@to"/></xsl:if></span>
+    </xsl:template>
+    
+<!--    Elements to suppress-->
+    <xsl:template match="@to"/>
+    
 </xsl:stylesheet>
