@@ -17,14 +17,19 @@
        
             <html>
                 <head>
-                    <title>Joseph Takeda: CV</title>
+                    <title><xsl:value-of select="name"/>: CV</title>
                     <script src="css/CV.css"/>
                 </head>
                 <body>
+                    <h1><xsl:value-of select="name"/></h1>
+                    <span class="email"><a href="mailto:{email}"><xsl:value-of select="email"/></a></span>
                     <xsl:apply-templates/>
                 </body>
             </html>
         
+    </xsl:template>
+    
+    <xsl:template match="name">
     </xsl:template>
     
     <xsl:template match="education|awards|publications|conferences|teaching|employment|service|references">
