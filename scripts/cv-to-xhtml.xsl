@@ -15,7 +15,7 @@
             <html>
                 <head>
                     <title><xsl:value-of select="name"/>: CV</title>
-                    <script src="../css/CV.css" type="text/css"/>
+                    <link rel="stylesheet" src="../css/CV.css" type="text/css"/>
                 </head>
                 <body>
                     <h1><xsl:value-of select="name"/></h1>
