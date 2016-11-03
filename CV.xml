@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv date="2016-10-02">
+    <name>Joseph Takeda</name>
+    <email>joey.takeda@gmail.com</email>
+    <education>
+        <grad start="2016">
+            <institution>University of British Columbia</institution>
+            <degree>Masters of Arts: English (Science and Technology Research Stream)</degree>
+        </grad>
+        <undergrad start="2012" end="2016">
+            <institution>University of Victoria</institution>
+            <degree>Bachelor of Arts (Honours), with distinction: English and Women's Studies
+                (minor)</degree>
+        </undergrad>
+    </education>
+    <awards>
+            <award when="2016">Department of English Medal of Excellence</award>
+            <award when="2016">SSHRC CGS-M (UBC) </award>
+            <award when="2015">Frank Hori Foundation Scholarship</award>
+            <award when="2015">Allardice Lancaster Scholarship</award>
+            <award when="2015">Jamie Cassels Undergraduate Research Award</award>
+            <award when="2015">Purves-Cordonier Prize</award>
+            <award when="2014">Frank Hori Foundation Scholarship</award>
+            <award when="2014">Grant McOrmond Scholarship in English</award>
+            <award when="2014">John Peter Memorial Scholarship</award>
+            <award when="2012">University of Victoria Excellence Scholarship</award>
+            <award when="2012">Come to Campus Grant</award>
+            <award when="2012">Passport to Education</award>
+            <award when="2012">Dogwood Bursary</award>
+    </awards>
+    <publications>
+        
+    </publications>
+    <conferences>
+        
+    </conferences>
+    <teaching>
+       
+    </teaching>
+    <employment> </employment>
+
+    <service> </service>
+    <references> </references>
+</cv>
