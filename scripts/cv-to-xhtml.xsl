@@ -34,9 +34,12 @@
     
     <xsl:template match="education|awards|publications|conferences|teaching|employment|service|references">
         <div>
-            <h2><xsl:value-of select="title"/></h2>
             <xsl:apply-templates/>
         </div>
+    </xsl:template>
+    
+    <xsl:template match="title">
+        <h2><xsl:value-of select="."/></h2>
     </xsl:template>
     
     <xsl:template match="publication | award | job |reference |degree">
