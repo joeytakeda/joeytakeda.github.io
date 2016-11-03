@@ -43,7 +43,7 @@
     </xsl:template>
     
     <xsl:template match="publication | award | job |reference |degree">
-        <div type="para">
+        <div class="para">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
