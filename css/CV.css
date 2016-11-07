@@ -57,3 +57,9 @@ a:hover{
 .title_m{
     font-style:italic;
 }
+
+#revision {
+    font-size:.7em;
+    font-style:italic;
+    border-top: solid 1px black;
+}

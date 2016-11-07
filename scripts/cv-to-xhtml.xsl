@@ -8,6 +8,7 @@
     xpath-default-namespace="http://joeytakeda.github.io/ns/"
     xmlns:hcmc="http://hcmc.uvic.ca/ns"
     xmlns:saxon="http://saxon.sf.net/"
+    xmlns:jt="http://joeytakeda.github.io/ns/"
     >
     
     <xsl:template match="cv">
@@ -22,7 +23,7 @@
                     <h1><xsl:value-of select="name"/></h1>
                     <span class="email"><a href="mailto:{email}"><xsl:value-of select="email"/></a></span>
                     <xsl:apply-templates/>
-                    <div class="revision">
+                    <div id="revision">
                         <p>Last revision: <xsl:value-of select="format-date(current-date(),'[MNn] [D1o], [Y0001]')"/></p>
                     </div>
                 </body>
@@ -110,5 +111,14 @@
     
 <!--    Elements to suppress-->
     <xsl:template match="@to"/>
+    
+    <xsl:function name="jt:formatDate">
+        <xsl:param name="inDate" as="xs:date+"/>
+        <xsl:choose>
+            <xsl:when test="count($inDate)=1">
+                <xsl:value-of select="format-date($inDate,'[MNn] [D1o], [Y0001]')"/>
+            </xsl:when>
+        </xsl:choose>
+    </xsl:function>
     
 </xsl:stylesheet>
