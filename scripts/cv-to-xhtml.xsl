@@ -74,8 +74,15 @@
         
     
     
-    <xsl:template match="publication | award | job | reference |degree">
+    <xsl:template match="publication | job | reference |degree">
         <div class="item">
+            <xsl:apply-templates select="@*"/>
+            <xsl:apply-templates select="node()"/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="award">
+        <div class="award">
             <xsl:apply-templates select="@*"/>
             <xsl:apply-templates select="node()"/>
         </div>
