@@ -71,7 +71,7 @@ a:hover{
 	color:#999999;
 }
 
-#date {
+.date {
     float:right;
     clear:both;
 }
