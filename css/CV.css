@@ -48,6 +48,7 @@ a:hover{
 .date {
     float:right;
     clear:both;
+    display:block;
 }
 
 .item {

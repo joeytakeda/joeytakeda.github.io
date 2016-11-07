@@ -77,14 +77,14 @@
     <xsl:template match="publication | job | reference |degree | conference">
         <div class="item">
             <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates select="node()"/>
+            <p><xsl:apply-templates select="node()"/></p>
         </div>
     </xsl:template>
     
     <xsl:template match="award">
         <div class="award">
             <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates select="node()"/>
+            <p><xsl:apply-templates select="node()"/></p>
         </div>
     </xsl:template>
     
