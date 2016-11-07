@@ -63,6 +63,18 @@
             <xsl:apply-templates select="node()"/>
         </div>
     </xsl:template>
+    
+    <xsl:template match="list">
+        <ul>
+            <xsl:apply-templates/>
+        </ul>
+    </xsl:template>
+    
+    <xsl:template match="list/item">
+        <li>
+            <xsl:apply-templates/>
+        </li>
+    </xsl:template>
   
   <xsl:template match="@when">
       <span class="date"><xsl:value-of select="."/></span>
