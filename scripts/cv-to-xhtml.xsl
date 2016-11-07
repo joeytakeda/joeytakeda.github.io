@@ -34,7 +34,12 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    
+        
+    <xsl:template match="desc">
+        <div class="desc">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
     <xsl:template match="cv/*/title">
         <h2><xsl:value-of select="."/></h2>
     </xsl:template>

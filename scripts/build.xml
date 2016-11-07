@@ -32,9 +32,14 @@
     <target name="pdf">
         <echo message="${echo.separator}"/>
         <echo message="Creating PDF version of the CV"/>
+        <java classname="net.sf.saxon.Transform" classpath="../utilities/saxon9he.jar">
+            <arg value="-s:../xml/CV.xml"/>
+            <arg value="-xsl:cv-to-pdf.xsl"/> 
+            <arg value="-o:../docs/CV.fo"/>
+            <arg value="--suppressXsltNamespaceCheck:on"/>
+        </java>
         <fop format="application/pdf"
-            xmlfile="../xml/CV.xml"
-            xsltfile="cv-to-pdf.xsl"
+            fofile="../docs/CV.fo"
             outfile="../docs/CV.pdf" />
     </target>
     
