@@ -43,7 +43,7 @@
     
     <xsl:template match="references">
         <div class="section">
-            <h2>references</h2>
+            <xsl:apply-templates select="title"/>
             <p>References available upon request.</p>
         </div>
     </xsl:template>
@@ -54,7 +54,7 @@
         </div>
     </xsl:template>
     <xsl:template match="cv/*/title">
-        <h2><xsl:value-of select="lower-case(.)"/></h2>
+        <h2><xsl:value-of select="upper-case(.)"/></h2>
     </xsl:template>
     
     <xsl:template match="workplace | job_title | location | class | role| institution | byline">
