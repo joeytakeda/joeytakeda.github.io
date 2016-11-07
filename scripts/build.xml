@@ -42,6 +42,7 @@
             fofile="../docs/CV.fo"
             outfile="../docs/CV.pdf" />
     </target>
+ 
     
     <target name="pushToGit">
         <exec executable="/bin/bash">
