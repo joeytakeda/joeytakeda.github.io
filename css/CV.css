@@ -53,3 +53,7 @@ a:hover{
 .item {
     padding: .5em 0;    
 }
+
+.title_m{
+    font-style:italic;
+}
