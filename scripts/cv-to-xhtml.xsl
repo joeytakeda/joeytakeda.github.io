@@ -61,7 +61,7 @@
   </xsl:template>
     
     <xsl:template match="@from">
-        <span class="data"><xsl:value-of select="."/><xsl:if test="parent::*/@to">–<xsl:value-of select="parent::*/@to"/></xsl:if></span>
+        <span class="date"><xsl:value-of select="."/><xsl:if test="parent::*/@to">–<xsl:value-of select="parent::*/@to"/></xsl:if></span>
     </xsl:template>
     
     <xsl:template match="publication/title">
