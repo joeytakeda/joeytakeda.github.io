@@ -45,9 +45,15 @@
         <h2><xsl:value-of select="."/></h2>
     </xsl:template>
     
-    <xsl:template match="workplace | job_title | supervisor | location | class | role| institution | byline">
+    <xsl:template match="workplace | job_title | location | class | role| institution | byline">
         <div class="desc">
             <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="supervisor">
+        <div class="desc">
+            Supervisor: <xsl:apply-templates/>
         </div>
     </xsl:template>
     
