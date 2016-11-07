@@ -44,6 +44,12 @@
         <h2><xsl:value-of select="."/></h2>
     </xsl:template>
     
+    <xsl:template match="workplace | job_title | supervisor">
+        <span class="{local-name()}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
     <xsl:template match="publication | award | job | reference |degree">
         <div class="item">
             <xsl:apply-templates select="node()"/><xsl:apply-templates select="@*"/>
