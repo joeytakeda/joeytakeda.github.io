@@ -15,6 +15,7 @@
             <html>
                 <head>
                     <title><xsl:value-of select="name"/>: CV</title>
+                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600' rel='stylesheet' type='text/css'/>
                     <link rel="stylesheet" href="../css/CV.css" type="text/css"/>
                 </head>
                 <body>
