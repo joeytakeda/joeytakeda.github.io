@@ -73,5 +73,6 @@ a:hover{
 
 #date {
     float:right;
+    clear:both;
 }
 
