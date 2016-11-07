@@ -30,9 +30,15 @@
 <!--    We manipulate those throughout.-->
     <xsl:template match="cv/email | cv/name"/>
     
-    <xsl:template match="education|awards|publications|conferences|teaching|employment|service|references">
+    <xsl:template match="education|awards|publications|conferences|teaching|employment|service">
         <div class="section">
             <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="references">
+        <div class="section">
+            <p>References available upon request.</p>
         </div>
     </xsl:template>
         
@@ -56,6 +62,11 @@
             Supervisor: <xsl:apply-templates/>
         </div>
     </xsl:template>
+    
+<!--    Suppress-->
+    <xsl:template match="job/desc"/>
+        
+    
     
     <xsl:template match="publication | award | job | reference |degree">
         <div class="item">
