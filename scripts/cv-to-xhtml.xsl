@@ -35,7 +35,7 @@
 <!--    We manipulate those throughout.-->
     <xsl:template match="cv/email | cv/name"/>
     
-    <xsl:template match="education|awards|publications|conferences|teaching|employment|service">
+    <xsl:template match="education|awards|publications|conferences|teaching|employment|service|conferences">
         <div class="section">
             <xsl:apply-templates/>
         </div>
@@ -74,7 +74,7 @@
         
     
     
-    <xsl:template match="publication | job | reference |degree">
+    <xsl:template match="publication | job | reference |degree | conference">
         <div class="item">
             <xsl:apply-templates select="@*"/>
             <xsl:apply-templates select="node()"/>
