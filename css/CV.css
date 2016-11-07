@@ -6,33 +6,7 @@
 	font-family:capitals;
 	src:url(Vollkorn-Regular.ttf);
 }
-#name{
-   font-family:capitals;
-   font-weight: 300;
-   font-size:300%;
-   margin-bottom:-10px;
-}
 
-.workplace{
-	display:block;
-	margin-right:5em;
-}
-
-.workplace span{ 
-	display:block;
-	float:right;
-	
-}
-#references{
-	border-top:4px double black;
-
-}
-#revision{
-	text-align:center;
-	font-weight:700;
-	font-size:60%;
-	color:#E2E2E2;
-}
 
 body{
 	font-family:'Open Sans';
@@ -76,3 +50,6 @@ a:hover{
     clear:both;
 }
 
+.item {
+    padding: .5em 0;    
+}
