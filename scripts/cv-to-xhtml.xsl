@@ -22,7 +22,11 @@
                     <h1><xsl:value-of select="name"/></h1>
                     <span class="email"><a href="mailto:{email}"><xsl:value-of select="email"/></a></span>
                     <xsl:apply-templates/>
+                    <div class="revision">
+                        <p>Last revision: <xsl:value-of select="format-date(current-date(),'[MNn] [D1o], [Y0001]')"/></p>
+                    </div>
                 </body>
+                
             </html>
         
     </xsl:template>
@@ -38,6 +42,7 @@
     
     <xsl:template match="references">
         <div class="section">
+            <h2>References</h2>
             <p>References available upon request.</p>
         </div>
     </xsl:template>
