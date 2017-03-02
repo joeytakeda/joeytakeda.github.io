@@ -2,6 +2,7 @@
 <project basedir="." name="Build CV" default="all">
   
   <property name="echo.separator" value="*****************************"/>
+  <property name="message" value="Updating CV."/>
     
     <property name="fop.home" value="../utilities/fop-2.0"/>
     
@@ -46,7 +47,7 @@
     
     <target name="pushToGit">
         <exec executable="/bin/bash">
-            <arg line="git.sh"/>
+            <arg line="git.sh ${message}"/>
         </exec>
     </target>
     
