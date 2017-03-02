@@ -47,11 +47,9 @@ a:hover{
 }
 
 .date {
-    float:left;
+    float:right;
     clear:both;
     display:block;
-    margin-right:1em;
-    margin-bottom:1em;
 }
 
 .item {
