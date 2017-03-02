@@ -55,6 +55,7 @@
     </xsl:template>
     <xsl:template match="cv/*/title">
         <h2><xsl:value-of select="upper-case(.)"/></h2>
+        <hr/>
     </xsl:template>
     
     <xsl:template match="workplace | job_title | location | class | role| institution | byline">
