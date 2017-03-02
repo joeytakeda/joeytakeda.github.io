@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MESSAGE=$1;
+MESSAGE="$1";
 
 cd ~/site/joeytakeda.github.io/;
 git pull .;
