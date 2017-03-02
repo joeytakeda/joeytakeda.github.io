@@ -41,6 +41,8 @@
     </publications>
     <conferences>
         <title>Conference Presentations</title>
+<!--        TODO: DH, ILSA.-->
+        <conference when="2017-01-28">“Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>.” Qualicum History conference. Parksville, British Columbia.</conference>
         <conference when="2016-11-03">"How To Do Things with 6000 Toponyms." Co-authored with Janelle Jenstad and Tye Landels-Gruenewald. How To Do Things with Millions Of Words conference. University of British Columbia.</conference>
     </conferences>
     <teaching>
@@ -59,18 +61,18 @@
        </job>
     </teaching>
     <employment>
-        <title>Relevant Employment</title>
+        <title>Research Experience</title>
         <job from="2016-05">
             <workplace>Endings</workplace>
             <job_title>Junior Programmer/Research Assistant</job_title>
             <supervisor>Martin Holmes</supervisor>
-            <desc>Using digital humanities projects as case studies, the Endings partnership project attempts to develop workflows and best practices for finishing and archiving digital projects</desc>
+            <!--<desc>Using digital humanities projects as case studies, the Endings partnership project attempts to develop workflows and best practices for finishing and archiving digital projects</desc>-->
         </job>
         <job from="2015-05">
             <workplace>The Map of Early Modern London</workplace>
             <job_title>Junior Programmer</job_title>
             <supervisor>Martin Holmes and Janelle Jenstad</supervisor>
-            <desc>
+<!--            <desc><title level="m">The Map of Early Modern London</title>
                 <list>
                     <item>Worked in a variety of programming languages and dialects (XQuery, Java, Javascript, ANT) to manipulate large XML datasets to render and maintain the MoEML site</item>
                     <item>Wrote project Praxis documentation and emended project schemas</item>
@@ -80,15 +82,16 @@
                     <item>Translated project specific TEI to customized dialects of TEI, such as TEI Simple and TEI Lite</item>
                     <item>Collaboratively designed programmatic methods to convert Julian dates to proleptic Gregorian</item>
                 </list>
-            </desc>
+            </desc>-->
         </job>
         <job from="2016-02" to="2016-05">
             <workplace>Scene Performance Journal, Internet Shakespeare Editions</workplace>
+            <job_title>Assistant to the Coordinating Editor</job_title>
             <supervisor>Janelle Jenstad</supervisor>
         </job>
         <job from="2014-08" to="2016-02">
             <workplace>The Internet Shakespeare Editions</workplace>
-            <job_title>Junior Programmer</job_title>
+            <job_title>Research Assistant</job_title>
             <supervisor>Michael Best</supervisor>
         </job>
         <job from="2015-01" to="2015-04">
@@ -98,7 +101,11 @@
         </job>
     </employment>
     <service>
-        <title>Relevant Service</title>
+        <title>Service</title>
+        <job from="2016" to="2017">
+            <job_title>Co-organizer</job_title>
+            <workplace>Endnotes Graduate Conference</workplace>
+        </job>
         <job from="2015" to="2016">
            <job_title>Editor-in-chief</job_title>
             <workplace>The Albatross English Undergraduate Journal</workplace>
