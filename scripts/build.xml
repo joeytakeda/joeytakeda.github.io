@@ -2,7 +2,7 @@
 <project basedir="." name="Build CV" default="all">
   
   <property name="echo.separator" value="*****************************"/>
-  <property name="message" value="Updating CV."/>
+  <property name="message" value="'Updating CV.'"/>
     
     <property name="fop.home" value="../utilities/fop-2.0"/>
     
