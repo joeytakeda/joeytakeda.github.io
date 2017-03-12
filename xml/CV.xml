@@ -19,19 +19,19 @@
     </education>
     <awards>
         <title>Awards</title>
-            <award when="2016">Department of English Medal of Excellence</award>
-            <award when="2016">SSHRC CGS-M (UBC) </award>
-            <award when="2015">Frank Hori Foundation Scholarship</award>
-            <award when="2015">Allardice Lancaster Scholarship</award>
-            <award when="2015">Jamie Cassels Undergraduate Research Award</award>
-            <award when="2015">Purves-Cordonier Prize</award>
-            <award when="2014">Frank Hori Foundation Scholarship</award>
-            <award when="2014">Grant McOrmond Scholarship in English</award>
-            <award when="2014">John Peter Memorial Scholarship</award>
-            <award when="2012">University of Victoria Excellence Scholarship</award>
-            <award when="2012">Come to Campus Grant</award>
-            <award when="2012">Passport to Education</award>
-            <award when="2012">Dogwood Bursary</award>
+        <award when="2016">Department of English Medal of Excellence</award>
+        <award when="2016">SSHRC CGS-M (UBC) </award>
+        <award when="2015">Frank Hori Foundation Scholarship</award>
+        <award when="2015">Allardice Lancaster Scholarship</award>
+        <award when="2015">Jamie Cassels Undergraduate Research Award</award>
+        <award when="2015">Purves-Cordonier Prize</award>
+        <award when="2014">Frank Hori Foundation Scholarship</award>
+        <award when="2014">Grant McOrmond Scholarship in English</award>
+        <award when="2014">John Peter Memorial Scholarship</award>
+        <award when="2012">University of Victoria Excellence Scholarship</award>
+        <award when="2012">Come to Campus Grant</award>
+        <award when="2012">Passport to Education</award>
+        <award when="2012">Dogwood Bursary</award>
     </awards>
     <publications>
         <title>Publications</title>
@@ -44,7 +44,7 @@
     </publications>
     <conferences>
         <title>Conference Presentations</title>
-<!--        TODO: DH, ILSA.-->
+        <!--        TODO: DH, ILSA.-->
         <conference><ref target="#me">Takeda, Joseph</ref>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</conference>
         <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</conference>
     </conferences>
@@ -59,75 +59,68 @@
             <role>Guest Lecturer</role>
         </job>
         <job when="2015-01-29">
-           <class>SLST 481, "Existence and Anxiety in Dostoevsky"</class>
+            <class>SLST 481, "Existence and Anxiety in Dostoevsky"</class>
             <role>Guest Lecturer</role>
-       </job>
+        </job>
     </teaching>
     <employment>
         <title>Research Experience</title>
         <job from="2016-05">
-            <workplace>Endings</workplace>
             <job_title>Junior Programmer/Research Assistant</job_title>
+            <workplace><title level="m"><ref target="http://github.com/projectEndings/Endings">Endings</ref></title></workplace>
             <supervisor>Martin Holmes</supervisor>
-            <!--<desc>Using digital humanities projects as case studies, the Endings partnership project attempts to develop workflows and best practices for finishing and archiving digital projects</desc>-->
+            <desc>Using four digital humanities projects as case studies, the Endings partnership project attempts to develop workflows and best practices for finishing and archiving digital projects. At Endings, I developed tools and workflows for producing archivable, static projects from long-running projects.</desc>
         </job>
         <job from="2015-05">
-            <workplace>The Map of Early Modern London</workplace>
-            <job_title>Junior Programmer</job_title>
+            <job_title>Junior Programmer/Consultant</job_title>
+            <workplace><title level="m"><ref target="http://mapoflondon.uvic.ca">The Map of Early Modern London</ref></title></workplace>
             <supervisor>Martin Holmes and Janelle Jenstad</supervisor>
-<!--            <desc><title level="m">The Map of Early Modern London</title>
-                <list>
-                    <item>Worked in a variety of programming languages and dialects (XQuery, Java, Javascript, ANT) to manipulate large XML datasets to render and maintain the MoEML site</item>
-                    <item>Wrote project Praxis documentation and emended project schemas</item>
-                    <item>Manipulated and created large datasets in various programming languages and dialects (XML, TEI, XHTML, JSON)</item>
-                    <item>Collaborated with a team of programmers, designers, researchers, and other encoders to identify problems, fix bugs, and implement feature requests</item>
-                    <item>Wrote code to generate the static version of MoEML, primarily using XSLT and ANT</item>
-                    <item>Translated project specific TEI to customized dialects of TEI, such as TEI Simple and TEI Lite</item>
-                    <item>Collaboratively designed programmatic methods to convert Julian dates to proleptic Gregorian</item>
-                </list>
-            </desc>-->
+            <desc>My work at the <title level="m">The Map of Early Modern London</title> involved working in a variety of programming language and dialects (mostly XML based) to maintain the TEI-XML run website.
+            </desc>
         </job>
         <job from="2016-02" to="2016-05">
-            <workplace>Scene Performance Journal, Internet Shakespeare Editions</workplace>
             <job_title>Assistant to the Coordinating Editor</job_title>
+            <workplace><title level="m">Scene Performance Journal</title>, <title level="m"><ref target="http://ise.uvic.ca">The Internet Shakespeare Editions</ref></title></workplace>
             <supervisor>Janelle Jenstad</supervisor>
+            <desc>Reporting to the Coordinating Editor, I liased with contributors, copy-edited reviews of performances of Shakespeare, and worked with XWiki and B2Evo blogging platforms.</desc>
         </job>
         <job from="2014-08" to="2016-02">
-            <workplace>The Internet Shakespeare Editions</workplace>
             <job_title>Research Assistant</job_title>
+            <workplace><title level="m"><ref target="http://ise.uvic.ca">The Internet Shakespeare Editions</ref></title></workplace>
             <supervisor>Michael Best</supervisor>
+            <desc>At the ISE, I worked added to and correct the ISE's performance database, developed and maintained metadata (both a specialized vocabular and Dublin Core), and assisted with proofing for editions of <title level="m">Hamlet</title>, <title level="m">Twelfth Night</title>, and <title level="m">King Lear</title>. </desc>
         </job>
         <job from="2015-01" to="2015-04">
-            <workplace>The Map of Dostoevsky's St. Petersburg</workplace>
             <job_title>Encoder</job_title>
+            <workplace><title level="m">The Map of Dostoevsky's St. Petersburg</title></workplace>
             <supervisor>Megan Swift and Martin Holmes</supervisor>
         </job>
     </employment>
     <service>
         <title>Service</title>
         <job from="2016" to="2017">
-            <workplace>Endnotes Graduate Conference</workplace>
             <job_title>Co-organizer</job_title>
+            <workplace>Endnotes Graduate Conference</workplace>
             
         </job>
         <job from="2015" to="2016">
+            <job_title>Editor-in-chief</job_title>
             <workplace>The Albatross English Undergraduate Journal</workplace>
-           <job_title>Editor-in-chief</job_title>
             
         </job>
         <job from="2015" to="2016">
-            <workplace>The Warren Undergraduate Review</workplace>
             <job_title>Executive Editor</job_title>
-            
-        </job>
-        <job from="2014" to="2015">
-            <workplace>English Students' Association</workplace>
-            <job_title>Vice-President of Academic Affairs</job_title>
-            
-        </job>
-        <job from="2014" to="2015">
             <workplace>The Warren Undergraduate Review</workplace>
+            
+        </job>
+        <job from="2014" to="2015">
+            <job_title>Vice-President of Academic Affairs</job_title>
+            <workplace>English Students' Association</workplace>
+            
+        </job>
+        <job from="2014" to="2015">
             <job_title>Criticism Editor</job_title>
+            <workplace>The Warren Undergraduate Review</workplace>
             
         </job>
     </service>

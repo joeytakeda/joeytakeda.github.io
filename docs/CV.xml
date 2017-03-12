@@ -8,7 +8,7 @@
             <title>Joseph Takeda's CV</title>
          </titleStmt>
          <publicationStmt>
-            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2017-03-11.</p>
+            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2017-03-12.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital; source: <ref target="../xml/CV.xml">CV.xml</ref>
@@ -76,7 +76,7 @@
                </listBibl>
                <listBibl xml:id="CV_conferences">
         
-
+        
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</bibl>
                   <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</bibl>
@@ -102,15 +102,15 @@
                      <list>
         
                         <item>
-                           <p>Junior Programmer/Research Assistant at Endings.Supervised by Martin Holmes. (<date from="2016-05" to="2017-03-11">2016-05 to present.
+                           <p>Junior Programmer/Research Assistant at Endings.Supervised by Martin Holmes. (<date from="2016-05" to="2017-03-12">2016-05 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Junior Programmer at The Map of Early Modern London.Supervised by Martin Holmes and Janelle Jenstad. (<date from="2015-05" to="2017-03-11">2015-05 to present.
+                           <p>Junior Programmer/Consultant at The Map of Early Modern London.Supervised by Martin Holmes and Janelle Jenstad. (<date from="2015-05" to="2017-03-12">2015-05 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Assistant to the Coordinating Editor at Scene Performance Journal, Internet Shakespeare Editions.Supervised by Janelle Jenstad. (<date from="2016-02" to="2016-05">2016-02-2016-05</date>)</p>
+                           <p>Assistant to the Coordinating Editor at Scene Performance Journal, The Internet Shakespeare Editions.Supervised by Janelle Jenstad. (<date from="2016-02" to="2016-05">2016-02-2016-05</date>)</p>
                         </item>
                         <item>
                            <p>Research Assistant at The Internet Shakespeare Editions.Supervised by Michael Best. (<date from="2014-08" to="2016-02">2014-08-2016-02</date>)</p>

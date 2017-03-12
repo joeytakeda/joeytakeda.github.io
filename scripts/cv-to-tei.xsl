@@ -97,6 +97,8 @@
         <bibl><xsl:apply-templates/></bibl>
     </xsl:template>
     
+<!--    I borrow elements from TEI/bibl structure for publication and conference,
+    so I just need to switch the namespace.-->
     <xsl:template match="publication/* | conference/*">
         <xsl:element name="{local-name()}">
             <xsl:copy-of select="@*"/>

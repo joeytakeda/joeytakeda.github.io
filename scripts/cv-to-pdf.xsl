@@ -66,14 +66,14 @@
     <!--Each section-->
     
     <xsl:template match="title[not(@level='m')]">
-        <block font-weight="600" font-size="16pt" padding=".5em 0">
-            <xsl:value-of select="."/>
+        <block font-weight="600" font-size="14pt" padding=".5em 0" keep-with-next.within-page="always">
+            <xsl:value-of select="upper-case(.)"/>
         </block>
     </xsl:template>
     
     <!--Make these tables-->
     <xsl:template match="education | awards | teaching | service | employment">
-        <block page-break-inside="avoid">
+        <block>
         <xsl:apply-templates select="title"/>
         <!--Switch for if the dates should be on the left 
             or right-->
@@ -105,7 +105,7 @@
     <!--Table rows-->
     <xsl:template match="award | degree | job">
         <xsl:param name="dateCol"/>
-        <table-row>
+        <table-row page-break-inside="avoid">
             <xsl:variable name="content">
                 <table-cell>
                     <block padding-top="{if (self::award) then .175 else .25}em" padding-right=".5em" padding-bottom="{if (self::award) then .175 else .25}em">
@@ -142,7 +142,7 @@
     
     <xsl:template match="employment/job/job_title">
         <block>
-            <xsl:text>Job title: </xsl:text><xsl:apply-templates/>
+         <!--   <xsl:text>Job title: </xsl:text>--><xsl:apply-templates/>
         </block>
     </xsl:template>
     
@@ -153,8 +153,14 @@
     </xsl:template>
     
     <xsl:template match="supervisor">
-        <block>
+<!--        <block>
             <xsl:text>Supervisor</xsl:text><xsl:if test="contains(.,' and ')">s</xsl:if>: <xsl:apply-templates/>
+        </block>-->
+    </xsl:template>
+    
+    <xsl:template match="job/desc">
+        <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">
+            <xsl:apply-templates/>
         </block>
     </xsl:template>
     
