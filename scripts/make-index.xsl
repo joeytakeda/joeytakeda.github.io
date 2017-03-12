@@ -12,7 +12,7 @@
     <xsl:param name="date"/>
     
     <xsl:template match="/">
-        <xsl:result-document href="../CV_index.html">
+        <xsl:result-document href="CV_index.html">
             <html xmlns="http://www.w3.org/1999/xhtml">
                 <head>
                     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
