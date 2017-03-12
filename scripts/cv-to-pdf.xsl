@@ -18,7 +18,7 @@
         <root font-family="CormorantGaramond">
             <layout-master-set>
                 <simple-page-master master-name="A4-portrait"
-                    page-height="11.00in" page-width="8.50in" margin="1in">
+                    page-height="11.00in" page-width="8.50in" margin=".5in">
                     <region-body/>
                 </simple-page-master>
             </layout-master-set>
