@@ -5,13 +5,15 @@
     <education>
         <title>Education</title>
         <degree from="2016">
-            <institution>University of British Columbia</institution>
             <byline>Masters of Arts: English (Science and Technology Research Stream)</byline>
+            <institution>University of British Columbia, Vancouver, British Columbia</institution>
+            
         </degree>
         <degree from="2012" to="2016">
-            <institution>University of Victoria</institution>
             <byline>Bachelor of Arts (Honours), with distinction: English and Women's Studies
                 (minor)</byline>
+            <institution>University of Victoria, Victoria, British Columbia</institution>
+            
         </degree>
     </education>
     <awards>
@@ -125,23 +127,6 @@
     </service>
     <references>
         <title>References</title>
-        <reference>
-            <name>Janelle Jenstad</name>
-            <byline>Assistant Professor, English, University of Victoria</byline>
-            <email>jenstad@uvic.ca</email>
-            <phone>250-721-7245</phone>
-        </reference>
-        <reference>
-            <name></name>
-            <byline></byline>
-            <email></email>
-            <phone></phone>
-        </reference>
-        <reference>
-            <name></name>
-            <byline></byline>
-            <email></email>
-            <phone></phone>
-        </reference>
+        <!--Not available through GitHub repo. Please contact me if you would like to see full references.-->
     </references>
 </cv>

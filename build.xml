@@ -41,7 +41,9 @@
         </java>
         <fop format="application/pdf"
             fofile="docs/CV.fo"
-            outfile="docs/CV.pdf" />
+            outfile="docs/CV.pdf"
+            userconfig="utilities/fop-2.0/conf/fop.xconf"
+        />
     </target>
  
     

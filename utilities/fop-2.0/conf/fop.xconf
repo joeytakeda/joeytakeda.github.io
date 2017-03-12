@@ -18,6 +18,9 @@ the location of this file.
   <!-- Base URL for resolving relative URLs -->
   <base>.</base>
   
+  
+  
+  
   <!-- Source resolution in dpi (dots/pixels per inch) for determining the size of pixels in SVG and bitmap images, default: 72dpi -->
   <source-resolution>72</source-resolution>
   <!-- Target resolution in dpi (dots/pixels per inch) for specifying the target resolution for generated bitmaps, default: 72dpi -->
@@ -44,6 +47,8 @@ the location of this file.
       </filterList>
 
       <fonts>
+        
+       
         <!-- embedded fonts -->
         <!--
         This information must exactly match the font specified
@@ -77,6 +82,19 @@ the location of this file.
           <font-triplet name="ArialMT" style="normal" weight="bold"/>
         </font>
         -->
+        <directory>../../../fonts</directory>
+        <font kerning="yes" embed-url="Garamond-Regular.ttf" embedding-mode="subset">
+          <font-triplet name="Garamond" style="normal" weight="normal"/>
+          
+        </font>
+        <font kerning="yes" embed-url="fonts/Garamond-Bold.ttf" embedding-mode="subset">
+          <font-triplet name="Garamond" style="normal" weight="bold"/>
+          
+        </font>
+        <font kerning="yes" embed-url="fonts/Garamond-Italic.ttf" embedding-mode="subset">
+          <font-triplet name="Garamond" style="italic" weight="normal"/>
+          
+        </font>
 
         <!-- auto-detect fonts -->
         <auto-detect/>
