@@ -27,6 +27,7 @@
         <echo message="${echo.separator}"/>
         <echo message="Cleaning up old versions of the build."/>
         <delete dir="docs"/>
+        <delete file="CV_index.html"/>
         <mkdir dir="docs"/>
     </target>
     
@@ -90,6 +91,7 @@
     </target>
     
     <target name="all">
+        <antcall target="init"/>
         <antcall target="xhtml"/>
         <antcall target="tei"/>
         <antcall target="pdf"/>
