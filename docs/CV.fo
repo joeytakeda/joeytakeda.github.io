@@ -29,15 +29,18 @@
         <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joseph Takeda</inline> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</block>
     </block>
     <block><block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">TEACHING</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-            <block>XPath Workshop</block>
             <block>Instructor</block>
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>XPath Workshop</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">February 24, 2016</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Guest Lecturer</block>
             <block>ENGL 362, "Popular Literature in the Renaissance"</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">February 03, 2016</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Guest Lecturer</block>
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>SLST 481, "Existence and Anxiety in Dostoevsky"</block>
-            <block>Guest Lecturer</block>
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row></table-body></table></block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">January 29, 2015</inline></block></table-cell></table-row></table-body></table></block>
     <block><block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">RESEARCH EXPERIENCE</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Junior Programmer/Research Assistant</block>
             <block><inline font-style="italic"><basic-link external-destination="http://github.com/projectEndings/Endings" text-decoration="underline">Endings</basic-link></inline></block>

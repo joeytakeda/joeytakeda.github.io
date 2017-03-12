@@ -116,7 +116,17 @@
               <xsl:variable name="dateCell">
                   <table-cell>
                     <block padding=".1em 0" text-align="left">
-                        <inline text-align="left"><xsl:apply-templates select="@when|@to|@from"/></inline>
+                        <inline text-align="left">
+                            <xsl:choose>
+                                <xsl:when test="parent::teaching and self::job[matches(@when,'\d{4}-\d{2}-\d{2}')]">
+                                    <xsl:value-of select="format-date(@when,'[MNn] [D01], [Y0001]')"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:apply-templates select="@when|@to|@from"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            
+                        </inline>
                     </block>
                 </table-cell>
               </xsl:variable>

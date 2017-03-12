@@ -51,16 +51,19 @@
     <teaching>
         <title>Teaching</title>
         <job when="2016-02-24">
-            <class>XPath Workshop</class>
             <role>Instructor</role>
+            <class>XPath Workshop</class>
+            
         </job>
         <job when="2016-02-03">
-            <class>ENGL 362, "Popular Literature in the Renaissance"</class>
             <role>Guest Lecturer</role>
+            <class>ENGL 362, "Popular Literature in the Renaissance"</class>
+            
         </job>
         <job when="2015-01-29">
-            <class>SLST 481, "Existence and Anxiety in Dostoevsky"</class>
             <role>Guest Lecturer</role>
+            <class>SLST 481, "Existence and Anxiety in Dostoevsky"</class>
+            
         </job>
     </teaching>
     <employment>
