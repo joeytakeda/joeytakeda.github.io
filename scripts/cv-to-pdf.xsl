@@ -108,7 +108,7 @@
         <table-row page-break-inside="avoid">
             <xsl:variable name="content">
                 <table-cell>
-                    <block padding-top="{if (self::award) then .175 else .25}em" padding-right=".5em" padding-bottom="{if (self::award) then .175 else .25}em">
+                    <block padding-top="{if (self::award) then .1 else .25}em" padding-right=".5em" padding-bottom="{if (self::award) then .1 else .25}em">
                         <xsl:apply-templates/>
                     </block>
                 </table-cell>
