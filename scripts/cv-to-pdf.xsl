@@ -50,7 +50,7 @@
     
     <!--Header stuff-->
     <xsl:template match="cv/name">
-        <block font-size="24pt">
+        <block font-size="26pt" font-weight="600">
             <xsl:value-of select="."/>
         </block>
     </xsl:template>
