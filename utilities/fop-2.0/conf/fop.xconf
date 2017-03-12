@@ -19,6 +19,9 @@ the location of this file.
   <base>.</base>
   
   
+  <font-base>../../../fonts</font-base>
+  
+  
   
   
   <!-- Source resolution in dpi (dots/pixels per inch) for determining the size of pixels in SVG and bitmap images, default: 72dpi -->
@@ -82,23 +85,75 @@ the location of this file.
           <font-triplet name="ArialMT" style="normal" weight="bold"/>
         </font>
         -->
-        <directory>../../../fonts</directory>
-        <font kerning="yes" embed-url="Garamond-Regular.ttf" embedding-mode="subset">
-          <font-triplet name="Garamond" style="normal" weight="normal"/>
+        
+        <font kerning="yes" embed-url="CormorantGaramond-Regular.ttf" embedding-mode="subset">
+          <font-triplet name="CormorantGaramond" style="normal" weight="normal"/>
           
         </font>
-        <font kerning="yes" embed-url="fonts/Garamond-Bold.ttf" embedding-mode="subset">
-          <font-triplet name="Garamond" style="normal" weight="bold"/>
+        <font kerning="yes" embed-url="CormorantGaramond-Bold.ttf" embedding-mode="subset">
+          <font-triplet name="CormorantGaramond" style="normal" weight="bold"/>
           
         </font>
-        <font kerning="yes" embed-url="fonts/Garamond-Italic.ttf" embedding-mode="subset">
-          <font-triplet name="Garamond" style="italic" weight="normal"/>
+        <font kerning="yes" embed-url="CormorantGaramond-Italic.ttf" embedding-mode="subset">
+          <font-triplet name="CormorantGaramond" style="italic" weight="normal"/>
           
         </font>
+        
+        <font kerning="yes" embed-url="CormorantGaramond-SemiBold.ttf" embedding-mode="subset">
+          <font-triplet name="CormorantGaramond" style="normal" weight="600"/>
+          
+        </font>
+        
+        
+        <font kerning="yes" embed-url="CormorantGaramond-SemiBoldItalic.ttf" embedding-mode="subset">
+          <font-triplet name="CormorantGaramond-SB" style="italic" weight="normal"/>
+          
+        </font>
+        
+        
+        <font kerning="yes" embed-url="CormorantGaramond-Bold.ttf" embedding-mode="subset">
+          <font-triplet name="CormorantGaramond-SB" style="normal" weight="bold"/>
+          
+        </font>
+       
+        
+        <font kerning="yes" embed-url="OpenSans-Regular.ttf" embedding-mode="subset">
+          <font-triplet name="OpenSans" style="normal" weight="normal"/>
+          
+        </font>
+        <font kerning="yes" embed-url="OpenSans-SemiBold.ttf" embedding-mode="subset">
+          <font-triplet name="OpenSans" style="normal" weight="600"/>
+          
+        </font>
+        <font kerning="yes" embed-url="OpenSans-Bold.ttf" embedding-mode="subset">
+          <font-triplet name="OpenSans" style="normal" weight="bold"/>
+          
+        </font>
+        <font kerning="yes" embed-url="OpenSans-Italic.ttf" embedding-mode="subset">
+          <font-triplet name="OpenSans" style="italic" weight="normal"/>
+          
+        </font>
+        
+        <font kerning="yes" embed-url="Lora-Regular.ttf" embedding-mode="subset">
+          <font-triplet name="Lora" style="normal" weight="normal"/>
+          
+        </font>
+        <font kerning="yes" embed-url="Lora-Bold.ttf" embedding-mode="subset">
+          <font-triplet name="Lora" style="normal" weight="bold"/>
+          
+        </font>
+        <font kerning="yes" embed-url="Lora-Italic.ttf" embedding-mode="subset">
+          <font-triplet name="Lora" style="italic" weight="normal"/>
+          
+        </font>
+        
+        <font kerning="yes" embed-url="EBGaramond-Regular.ttf" embedding-mode="subset">
+          <font-triplet name="EBGaramond" style="normal" weight="normal"/>
+        </font>
+        
 
         <!-- auto-detect fonts -->
-        <auto-detect/>
-
+      
       </fonts>
 
       <!-- This option lets you specify additional options on an XML handler -->

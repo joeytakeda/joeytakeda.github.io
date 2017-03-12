@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cv xmlns="http://joeytakeda.github.io/ns/">
-    <name>Joseph Takeda</name>
+    <name id="me">Joseph Takeda</name>
     <email>joey.takeda@gmail.com</email>
     <education>
         <title>Education</title>
         <degree from="2016">
-            <byline>Masters of Arts: English (Science and Technology Research Stream)</byline>
+            <degree_name>Masters of Arts</degree_name>
+            <discipline>English (Science and Technology Research Stream)</discipline>
             <institution>University of British Columbia, Vancouver, British Columbia</institution>
             
         </degree>
         <degree from="2012" to="2016">
-            <byline>Bachelor of Arts (Honours), with distinction: English and Women's Studies
-                (minor)</byline>
+            <degree_name>Bachelor of Arts (Honours with distinction)</degree_name>
+            <discipline>English and Women's Studies (minor)</discipline>
             <institution>University of Victoria, Victoria, British Columbia</institution>
             
         </degree>
@@ -34,18 +35,18 @@
     </awards>
     <publications>
         <title>Publications</title>
-        <publication>“Making the RA Matter: Pedagogy, Interface, and Practices.” Co-authored with Janelle Jenstad. <title level="m">Making Humanities Matter</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: 2017.</publication>
+        <publication>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Humanities Matter</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: 2017.</publication>
         
-        <publication>“The MoEML Finding Aid to the Bills of Mortality.” <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</publication>
+        <publication><ref target="#me">Takeda, Joseph</ref>. "The MoEML Finding Aid to the Bills of Mortality." <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</publication>
         
-        <publication>Project documentation and numerous encyclopedia articles on London places authored, co-authored, and edited for The Map of Early Modern London, including: “Applications for Encoders,” “Barbican,” “Wood Street,” and “The MoEML Guide to Editorial Style.” For a full list of my contributions to MoEML, see <ref target="http://mapoflondon.uvic.ca/TAKE1.htm">http://mapoflondon.uvic.ca/TAKE1.htm</ref>.</publication>
+        <publication>Project documentation and numerous encyclopedia articles on London places authored, co-authored, and edited for <title level="m">The Map of Early Modern London</title>, including: "<ref target="http://mapoflondon.uvic.ca/BARB2.htm">Barbican</ref>," and "<ref target="http://mapoflondon.uvic.ca/WOOD1.htm">Wood Street</ref>." For a full list of my contributions to MoEML, see <ref target="http://mapoflondon.uvic.ca/TAKE1.htm">http://mapoflondon.uvic.ca/TAKE1.htm</ref>.</publication>
         
     </publications>
     <conferences>
         <title>Conference Presentations</title>
 <!--        TODO: DH, ILSA.-->
-        <conference when="2017-01-28">“Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>.” Qualicum History conference. Parksville, British Columbia.</conference>
-        <conference when="2016-11-03">"How To Do Things with 6000 Toponyms." Co-authored with Janelle Jenstad and Tye Landels-Gruenewald. How To Do Things with Millions Of Words conference. University of British Columbia.</conference>
+        <conference><ref target="#me">Takeda, Joseph</ref>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</conference>
+        <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</conference>
     </conferences>
     <teaching>
         <title>Teaching</title>
@@ -105,24 +106,29 @@
     <service>
         <title>Service</title>
         <job from="2016" to="2017">
-            <job_title>Co-organizer</job_title>
             <workplace>Endnotes Graduate Conference</workplace>
+            <job_title>Co-organizer</job_title>
+            
         </job>
         <job from="2015" to="2016">
-           <job_title>Editor-in-chief</job_title>
             <workplace>The Albatross English Undergraduate Journal</workplace>
+           <job_title>Editor-in-chief</job_title>
+            
         </job>
         <job from="2015" to="2016">
+            <workplace>The Warren Undergraduate Review</workplace>
             <job_title>Executive Editor</job_title>
-            <workplace>The Warren Undergraduate Review</workplace>
+            
         </job>
         <job from="2014" to="2015">
-            <job_title>Vice-President of Academic Affairs</job_title>
             <workplace>English Students' Association</workplace>
+            <job_title>Vice-President of Academic Affairs</job_title>
+            
         </job>
         <job from="2014" to="2015">
-            <job_title>Criticism Editor</job_title>
             <workplace>The Warren Undergraduate Review</workplace>
+            <job_title>Criticism Editor</job_title>
+            
         </job>
     </service>
     <references>

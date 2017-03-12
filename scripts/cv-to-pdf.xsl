@@ -11,16 +11,35 @@
     
     <!--Decide whether or not I want to display references online-->
     <xsl:param name="displayReferences" select="false()"/>
+    <xsl:param name="date"/>
     
     
     <xsl:template match="/">
-        <root font-family="Garamond">
+        <root font-family="CormorantGaramond">
             <layout-master-set>
                 <simple-page-master master-name="A4-portrait"
-                    page-height="29.7cm" page-width="21.0cm" margin="1in">
+                    page-height="11.00in" page-width="8.50in" margin="1in">
                     <region-body/>
                 </simple-page-master>
             </layout-master-set>
+            <declarations>
+                <x:xmpmeta xmlns:x="adobe:ns:meta/">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about=""
+                            xmlns:dc="http://purl.org/dc/elements/1.1/">
+                            <!-- Dublin Core properties go here -->
+                            <dc:title>Joseph Takeda's Curriculum Vitae</dc:title>
+                            <dc:creator>Joseph Takeda</dc:creator>
+                            <dc:description>CV</dc:description>
+                            <dc:date><xsl:value-of select="$date"/></dc:date>
+                        </rdf:Description>
+                        <rdf:Description rdf:about=""
+                            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+                            <xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool>
+                        </rdf:Description>
+                    </rdf:RDF>
+                </x:xmpmeta>
+            </declarations>
             <page-sequence master-reference="A4-portrait">
                 <flow flow-name="xsl-region-body">
                     <xsl:apply-templates/>
@@ -29,8 +48,9 @@
         </root>
     </xsl:template>
     
+    <!--Header stuff-->
     <xsl:template match="cv/name">
-        <block font-weight="bold" font-size="18pt">
+        <block font-size="24pt">
             <xsl:value-of select="."/>
         </block>
     </xsl:template>
@@ -39,37 +59,56 @@
         <block font-size="10pt">
             <basic-link external-destination="mailto:{.}"><xsl:value-of select="."/></basic-link>
         </block>
+        <!--Little HR-->
+       <block><leader leader-pattern="rule" leader-length="100%" rule-style="solid" rule-thickness=".5pt"/></block>
     </xsl:template>
+    
+    <!--Each section-->
+    
     <xsl:template match="title[not(@level='m')]">
-        <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">
+        <block font-weight="600" font-size="16pt" padding=".5em 0">
             <xsl:value-of select="."/>
         </block>
     </xsl:template>
     
-    <xsl:template match="education | awards | conferences | teaching | service | employment">
+    <!--Make these tables-->
+    <xsl:template match="education | awards | teaching | service | employment">
+        <block page-break-inside="avoid">
         <xsl:apply-templates select="title"/>
+        <!--Switch for if the dates should be on the left 
+            or right-->
         <xsl:variable name="dateCol" select="2"/>
         <table table-layout="fixed" width="100%">
-            <xsl:variable name="dateColWidth" select="if (descendant::*[@to or @from]) then 18 else 14.5"/>
+            <xsl:variable name="dateColWidth">
+                <xsl:choose>
+                    <xsl:when test="$dateCol=1">
+                        <xsl:value-of select="if (descendant::*[@to or @from]) then 18 else 14.5"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="18"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:variable>
             
             <table-column column-number="{$dateCol}" column-width="{$dateColWidth}%"/>
-            <table-column column-number="{if ($dateCol=1) then 2 else 1}" column-width="{100-$dateColWidth}%"/>
+            <table-column column-number="{if ($dateCol=1) then 2 else 1}" column-width="{98-$dateColWidth}%"/>
             <table-body>
                 <xsl:apply-templates select="award | degree | conference | job">
                     <xsl:with-param name="dateCol" select="$dateCol"/>
                 </xsl:apply-templates>
             </table-body>
         </table>
+        </block>
     </xsl:template>
     
    
-    
-    <xsl:template match="award | degree | conference | job">
+    <!--Table rows-->
+    <xsl:template match="award | degree | job">
         <xsl:param name="dateCol"/>
         <table-row>
             <xsl:variable name="content">
                 <table-cell>
-                    <block padding=".1em 0">
+                    <block padding-top="{if (self::award) then .175 else .25}em" padding-right=".5em" padding-bottom="{if (self::award) then .175 else .25}em">
                         <xsl:apply-templates/>
                     </block>
                 </table-cell>
@@ -95,21 +134,39 @@
         </table-row>
     </xsl:template>
     
-    <xsl:template match="byline | institution">
+    <xsl:template match="degree_name | discipline | institution | class | role | instructor | workplace">
         <block>
             <xsl:apply-templates/>
         </block>
     </xsl:template>
     
-    <!--    Publications are formatted differently-->
-    <xsl:template match="publications">
+    <xsl:template match="employment/job/job_title">
+        <block>
+            <xsl:text>Job title: </xsl:text><xsl:apply-templates/>
+        </block>
+    </xsl:template>
+    
+    <xsl:template match="service/job/job_title">
         <block>
             <xsl:apply-templates/>
         </block>
     </xsl:template>
     
-    <xsl:template match="publication">
-        <block padding-bottom=".5em">
+    <xsl:template match="supervisor">
+        <block>
+            <xsl:text>Supervisor</xsl:text><xsl:if test="contains(.,' and ')">s</xsl:if>: <xsl:apply-templates/>
+        </block>
+    </xsl:template>
+    
+    <!--    Publications and conferences are formatted differently-->
+    <xsl:template match="publications | conferences">
+        <block>
+            <xsl:apply-templates/>
+        </block>
+    </xsl:template>
+    
+    <xsl:template match="publication | conference">
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">
             <xsl:apply-templates/>
         </block>
     </xsl:template>
@@ -142,9 +199,21 @@
     </xsl:template>
     
     <xsl:template match="ref[@target]">
-        <basic-link external-destination="{@target}" text-decoration="underline">
-            <xsl:apply-templates/>
-        </basic-link>
+        <xsl:choose>
+<!--            When's a string referring to me, then bold it (usually in presentations/conferences)-->
+            <xsl:when test="@target='#me'">
+                <inline font-weight="600">
+                    <xsl:apply-templates/>
+                </inline>
+            </xsl:when>
+<!--            Otherwise, link outwards. -->
+            <xsl:otherwise>
+                <basic-link external-destination="{@target}" text-decoration="underline">
+                    <xsl:apply-templates/>
+                </basic-link>
+            </xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
     
     

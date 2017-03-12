@@ -1,75 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:jt="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="Garamond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="29.7cm" page-width="21.0cm" margin="1in"><region-body/></simple-page-master></layout-master-set><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
-    <block font-weight="bold" font-size="18pt">Joseph Takeda</block>
-    <block font-size="10pt"><basic-link external-destination="mailto:joey.takeda@gmail.com">joey.takeda@gmail.com</basic-link></block>
-    <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">Education</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="82%"/><table-body><table-row><table-cell><block padding=".1em 0">
-            <block>Masters of Arts: English (Science and Technology Research Stream)</block>
+<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:jt="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joseph Takeda's Curriculum Vitae</dc:title><dc:creator>Joseph Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2017-03-11</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
+    <block font-size="24pt">Joseph Takeda</block>
+    <block font-size="10pt"><basic-link external-destination="mailto:joey.takeda@gmail.com">joey.takeda@gmail.com</basic-link></block><block><leader leader-pattern="rule" leader-length="100%" rule-style="solid" rule-thickness=".5pt"/></block>
+    <block page-break-inside="avoid"><block font-weight="600" font-size="16pt" padding=".5em 0">Education</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Masters of Arts</block>
+            <block>English (Science and Technology Research Stream)</block>
             <block>University of British Columbia, Vancouver, British Columbia</block>
             
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–present</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            <block>Bachelor of Arts (Honours), with distinction: English and Women's Studies
-                (minor)</block>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–present</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Bachelor of Arts (Honours with distinction)</block>
+            <block>English and Women's Studies (minor)</block>
             <block>University of Victoria, Victoria, British Columbia</block>
             
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012–2016</inline></block></table-cell></table-row></table-body></table>
-    <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">Awards</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="14.5%"/><table-column column-number="1" column-width="85.5%"/><table-body><table-row><table-cell><block padding=".1em 0">Department of English Medal of Excellence</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">SSHRC CGS-M (UBC) </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Allardice Lancaster Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Jamie Cassels Undergraduate Research Award</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Purves-Cordonier Prize</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Grant McOrmond Scholarship in English</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">John Peter Memorial Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">University of Victoria Excellence Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Come to Campus Grant</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Passport to Education</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">Dogwood Bursary</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row></table-body></table>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012–2016</inline></block></table-cell></table-row></table-body></table></block>
+    <block page-break-inside="avoid"><block font-weight="600" font-size="16pt" padding=".5em 0">Awards</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Department of English Medal of Excellence</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">SSHRC CGS-M (UBC) </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Allardice Lancaster Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Jamie Cassels Undergraduate Research Award</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Purves-Cordonier Prize</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Grant McOrmond Scholarship in English</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">John Peter Memorial Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">University of Victoria Excellence Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Come to Campus Grant</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Passport to Education</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.175em" padding-right=".5em" padding-bottom="0.175em">Dogwood Bursary</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row></table-body></table></block>
     <block>
-        <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">Publications</block>
-        <block padding-bottom=".5em">“Making the RA Matter: Pedagogy, Interface, and Practices.” Co-authored with Janelle Jenstad. <inline font-style="italic">Making Humanities Matter</inline>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: 2017.</block>
+        <block font-weight="600" font-size="16pt" padding=".5em 0">Publications</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, and <inline font-weight="600">Joseph Takeda</inline> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <inline font-style="italic">Making Humanities Matter</inline>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: 2017.</block>
         
-        <block padding-bottom=".5em">“The MoEML Finding Aid to the Bills of Mortality.” <inline font-style="italic">The Map of Early Modern London</inline>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "The MoEML Finding Aid to the Bills of Mortality." <inline font-style="italic">The Map of Early Modern London</inline>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</block>
         
-        <block padding-bottom=".5em">Project documentation and numerous encyclopedia articles on London places authored, co-authored, and edited for The Map of Early Modern London, including: “Applications for Encoders,” “Barbican,” “Wood Street,” and “The MoEML Guide to Editorial Style.” For a full list of my contributions to MoEML, see <basic-link external-destination="http://mapoflondon.uvic.ca/TAKE1.htm" text-decoration="underline">http://mapoflondon.uvic.ca/TAKE1.htm</basic-link>.</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Project documentation and numerous encyclopedia articles on London places authored, co-authored, and edited for <inline font-style="italic">The Map of Early Modern London</inline>, including: "<basic-link external-destination="http://mapoflondon.uvic.ca/BARB2.htm" text-decoration="underline">Barbican</basic-link>," and "<basic-link external-destination="http://mapoflondon.uvic.ca/WOOD1.htm" text-decoration="underline">Wood Street</basic-link>." For a full list of my contributions to MoEML, see <basic-link external-destination="http://mapoflondon.uvic.ca/TAKE1.htm" text-decoration="underline">http://mapoflondon.uvic.ca/TAKE1.htm</basic-link>.</block>
         
     </block>
-    <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">Conference Presentations</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="14.5%"/><table-column column-number="1" column-width="85.5%"/><table-body><table-row><table-cell><block padding=".1em 0">“Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <inline font-style="italic">Transparent</inline>.” Qualicum History conference. Parksville, British Columbia.</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2017</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">"How To Do Things with 6000 Toponyms." Co-authored with Janelle Jenstad and Tye Landels-Gruenewald. How To Do Things with Millions Of Words conference. University of British Columbia.</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row></table-body></table>
-    <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">Teaching</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="14.5%"/><table-column column-number="1" column-width="85.5%"/><table-body><table-row><table-cell><block padding=".1em 0">
-            XPath Workshop
-            Instructor
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            ENGL 362, "Popular Literature in the Renaissance"
-            Guest Lecturer
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-           SLST 481, "Existence and Anxiety in Dostoevsky"
-            Guest Lecturer
-       </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row></table-body></table>
-    <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">Research Experience</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="82%"/><table-body><table-row><table-cell><block padding=".1em 0">
-            Endings
-            Junior Programmer/Research Assistant
-            Martin Holmes
-            
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–present</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            The Map of Early Modern London
-            Junior Programmer
-            Martin Holmes and Janelle Jenstad
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".5em 0">Conference Presentations</block>
 
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015–present</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            Scene Performance Journal, Internet Shakespeare Editions
-            Assistant to the Coordinating Editor
-            Janelle Jenstad
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            The Internet Shakespeare Editions
-            Research Assistant
-            Michael Best
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014–2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            The Map of Dostoevsky's St. Petersburg
-            Encoder
-            Megan Swift and Martin Holmes
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row></table-body></table>
-    <block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">Service</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="82%"/><table-body><table-row><table-cell><block padding=".1em 0">
-            Co-organizer
-            Endnotes Graduate Conference
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–2017</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-           Editor-in-chief
-            The Albatross English Undergraduate Journal
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015–2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            Executive Editor
-            The Warren Undergraduate Review
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015–2016</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            Vice-President of Academic Affairs
-            English Students' Association
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014–2015</inline></block></table-cell></table-row><table-row><table-cell><block padding=".1em 0">
-            Criticism Editor
-            The Warren Undergraduate Review
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014–2015</inline></block></table-cell></table-row></table-body></table>
-    <block><block font-weight="bold" font-size="14pt" padding=".5em 0" font-family="Helvetica">References</block>References available upon request.</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <inline font-style="italic">Transparent</inline>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joseph Takeda</inline> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</block>
+    </block>
+    <block page-break-inside="avoid"><block font-weight="600" font-size="16pt" padding=".5em 0">Teaching</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>XPath Workshop</block>
+            <block>Instructor</block>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>ENGL 362, "Popular Literature in the Renaissance"</block>
+            <block>Guest Lecturer</block>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+           <block>SLST 481, "Existence and Anxiety in Dostoevsky"</block>
+            <block>Guest Lecturer</block>
+       </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row></table-body></table></block>
+    <block page-break-inside="avoid"><block font-weight="600" font-size="16pt" padding=".5em 0">Research Experience</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Endings</block>
+            <block>Job title: Junior Programmer/Research Assistant</block>
+            <block>Supervisor: Martin Holmes</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–present</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>The Map of Early Modern London</block>
+            <block>Job title: Junior Programmer</block>
+            <block>Supervisors: Martin Holmes and Janelle Jenstad</block>
+
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015–present</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Scene Performance Journal, Internet Shakespeare Editions</block>
+            <block>Job title: Assistant to the Coordinating Editor</block>
+            <block>Supervisor: Janelle Jenstad</block>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>The Internet Shakespeare Editions</block>
+            <block>Job title: Research Assistant</block>
+            <block>Supervisor: Michael Best</block>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014–2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>The Map of Dostoevsky's St. Petersburg</block>
+            <block>Job title: Encoder</block>
+            <block>Supervisors: Megan Swift and Martin Holmes</block>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row></table-body></table></block>
+    <block page-break-inside="avoid"><block font-weight="600" font-size="16pt" padding=".5em 0">Service</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Endnotes Graduate Conference</block>
+            <block>Co-organizer</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–2017</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>The Albatross English Undergraduate Journal</block>
+           <block>Editor-in-chief</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015–2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>The Warren Undergraduate Review</block>
+            <block>Executive Editor</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015–2016</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>English Students' Association</block>
+            <block>Vice-President of Academic Affairs</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014–2015</inline></block></table-cell></table-row><table-row><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>The Warren Undergraduate Review</block>
+            <block>Criticism Editor</block>
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014–2015</inline></block></table-cell></table-row></table-body></table></block>
+    <block><block font-weight="600" font-size="16pt" padding=".5em 0">References</block>References available upon request.</block>
 </flow></page-sequence></root>

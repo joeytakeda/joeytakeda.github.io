@@ -114,7 +114,15 @@
     </xsl:template>
     
     <xsl:template match="ref[@target]">
-        <a href="{@target}"><xsl:apply-templates/></a>
+        <xsl:choose>
+            <xsl:when test="@target='#me'">
+                <span class="refToMe"><xsl:apply-templates/></span>
+            </xsl:when>
+            <xsl:otherwise>
+                <a href="{@target}"><xsl:apply-templates/></a>
+            </xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
     
 <!--    Elements to suppress-->
