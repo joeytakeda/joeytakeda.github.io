@@ -15,6 +15,9 @@
         <xsl:result-document href="../CV_index.html">
             <html xmlns="http://www.w3.org/1999/xhtml">
                 <head>
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600' rel='stylesheet' type='text/css'/>
+                    <link href="css/CV.css" rel="stylesheet" type="text/css"/>
                     <title>CV Index</title>
                 </head>
                 <body>
