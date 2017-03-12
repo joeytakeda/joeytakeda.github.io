@@ -18,7 +18,7 @@
         <root font-family="CormorantGaramond">
             <layout-master-set>
                 <simple-page-master master-name="A4-portrait"
-                    page-height="11.00in" page-width="8.50in" margin=".5in">
+                    page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in">
                     <region-body/>
                 </simple-page-master>
             </layout-master-set>
@@ -66,7 +66,7 @@
     <!--Each section-->
     
     <xsl:template match="title[not(@level='m')]">
-        <block font-weight="600" font-size="14pt" padding=".5em 0" keep-with-next.within-page="always">
+        <block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">
             <xsl:value-of select="upper-case(.)"/>
         </block>
     </xsl:template>
