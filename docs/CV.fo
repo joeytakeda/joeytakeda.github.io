@@ -1,139 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns="http://www.w3.org/1999/XSL/Format"><fo:layout-master-set><fo:simple-page-master master-name="A4-portrait" page-height="29.7cm" page-width="21.0cm" margin="2cm"><fo:region-body/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="A4-portrait"><fo:flow flow-name="xsl-region-body"><fo:block>
-    <fo:block>Joseph Takeda</fo:block>
-    <fo:block>joey.takeda@gmail.com</fo:block>
-    <fo:block>
-        <fo:block>Education</fo:block>
-        <fo:block>
-            <fo:block>University of British Columbia</fo:block>
-            <fo:block>Masters of Arts: English (Science and Technology Research Stream)</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>University of Victoria</fo:block>
-            <fo:block>Bachelor of Arts (Honours), with distinction: English and Women's Studies
-                (minor)</fo:block>
-        </fo:block>
-    </fo:block>
-    <fo:block>
-        <fo:block>Awards</fo:block>
-            <fo:block>Department of English Medal of Excellence</fo:block>
-            <fo:block>SSHRC CGS-M (UBC) </fo:block>
-            <fo:block>Frank Hori Foundation Scholarship</fo:block>
-            <fo:block>Allardice Lancaster Scholarship</fo:block>
-            <fo:block>Jamie Cassels Undergraduate Research Award</fo:block>
-            <fo:block>Purves-Cordonier Prize</fo:block>
-            <fo:block>Frank Hori Foundation Scholarship</fo:block>
-            <fo:block>Grant McOrmond Scholarship in English</fo:block>
-            <fo:block>John Peter Memorial Scholarship</fo:block>
-            <fo:block>University of Victoria Excellence Scholarship</fo:block>
-            <fo:block>Come to Campus Grant</fo:block>
-            <fo:block>Passport to Education</fo:block>
-            <fo:block>Dogwood Bursary</fo:block>
-    </fo:block>
-    <fo:block>
-        <fo:block>Publications</fo:block>
-        <fo:block>“Making the RA Matter: Pedagogy, Interface, and Practices.” Co-authored with Janelle Jenstad. <fo:block>Making Humanities Matter</fo:block>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: 2017.</fo:block>
-        
-        <fo:block>“The MoEML Finding Aid to the Bills of Mortality.” <fo:block>The Map of Early Modern London</fo:block>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</fo:block>
-        
-        <fo:block>Project documentation and numerous encyclopedia articles on London places authored, co-authored, and edited for The Map of Early Modern London, including: “Applications for Encoders,” “Barbican,” “Wood Street,” and “The MoEML Guide to Editorial Style.” For a full list of my contributions to MoEML, see <fo:block>http://mapoflondon.uvic.ca/TAKE1.htm</fo:block>.</fo:block>
-        
-    </fo:block>
-    <fo:block>
-        
-    </fo:block>
-    <fo:block>
-        <fo:block>Teaching</fo:block>
-        <fo:block>
-            <fo:block>XPath Workshop</fo:block>
-            <fo:block>Instructor</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>ENGL 362, "Popular Literature in the Renaissance"</fo:block>
-            <fo:block>Guest Lecturer</fo:block>
-        </fo:block>
-        <fo:block>
-           <fo:block>SLST 481, "Existence and Anxiety in Dostoevsky"</fo:block>
-            <fo:block>Guest Lecturer</fo:block>
-       </fo:block>
-    </fo:block>
-    <fo:block>
-        <fo:block>Relevant Employment</fo:block>
-        <fo:block>
-            <fo:block>Endings</fo:block>
-            <fo:block>Junior Programmer/Research Assistant</fo:block>
-            <fo:block>Martin Holmes</fo:block>
-            <fo:block>Victoria, BC</fo:block>
-            <fo:block>Using digital humanities projects as case studies, the Endings partnership project attempts to develop workflows and best practices for finishing and archiving digital projects</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>The Map of Early Modern London</fo:block>
-            <fo:block>Junior Programmer</fo:block>
-            <fo:block>Martin Holmes and Janelle Jenstad</fo:block>
-            <fo:block>
-                <fo:block>
-                    <fo:block>Worked in a variety of programming languages and dialects (XQuery, Java, Javascript, ANT) to manipulate large XML datasets to render and maintain the MoEML site</fo:block>
-                    <fo:block>Wrote project Praxis documentation and emended project schemas</fo:block>
-                    <fo:block>Manipulated and created large datasets in various programming languages and dialects (XML, TEI, XHTML, JSON)</fo:block>
-                    <fo:block>Collaborated with a team of programmers, designers, researchers, and other encoders to identify problems, fix bugs, and implement feature requests</fo:block>
-                    <fo:block>Wrote code to generate the static version of MoEML, primarily using XSLT and ANT</fo:block>
-                    <fo:block>Translated project specific TEI to customized dialects of TEI, such as TEI Simple and TEI Lite</fo:block>
-                    <fo:block>Collaboratively designed programmatic methods to convert Julian dates to proleptic Gregorian</fo:block>
-                </fo:block>
-            </fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>Scene Performance Journal, Internet Shakespeare Editions</fo:block>
-            <fo:block>Janelle Jenstad</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>The Internet Shakespeare Editions</fo:block>
-            <fo:block>Junior Programmer</fo:block>
-            <fo:block>Michael Best</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>The Map of Dostoevsky's St. Petersburg</fo:block>
-            <fo:block>Encoder</fo:block>
-            <fo:block>Megan Swift and Martin Holmes</fo:block>
-        </fo:block>
-    </fo:block>
-    <fo:block>
-        <fo:block>Relevant Service</fo:block>
-        <fo:block>
-           <fo:block>Editor-in-chief</fo:block>
-            <fo:block>The Albatross English Undergraduate Journal</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>Executive Editor</fo:block>
-            <fo:block>The Warren Undergraduate Review</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>Vice-President of Academic Affairs</fo:block>
-            <fo:block>English Students' Association</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block>Criticism Editor</fo:block>
-            <fo:block>The Warren Undergraduate Review</fo:block>
-        </fo:block>
-    </fo:block>
-    <fo:block>
-        <fo:block>References</fo:block>
-        <fo:block>
-            <fo:block>Janelle Jenstad</fo:block>
-            <fo:block>Assistant Professor, English, University of Victoria</fo:block>
-            <fo:block>jenstad@uvic.ca</fo:block>
-            <fo:block>250-721-7245</fo:block>
-        </fo:block>
-        <fo:block>
-            <fo:block/>
-            <fo:block/>
-            <fo:block/>
-            <fo:block/>
-        </fo:block>
-        <fo:block>
-            <fo:block/>
-            <fo:block/>
-            <fo:block/>
-            <fo:block/>
-        </fo:block>
-    </fo:block>
-</fo:block></fo:flow></fo:page-sequence></fo:root>
+<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:jt="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="29.7cm" page-width="21.0cm" margin="2cm"><region-body/></simple-page-master></layout-master-set><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
+    
+    
+    <block font-weight="bold" font-size="14pt" padding=".5em 0">Education</block><table><table-column column-number="1" column-width="18%"/><table-column column-number="2"/><table-body><table-row><table-cell><block>2016–present</block></table-cell><table-cell><block>
+            University of British Columbia
+            Masters of Arts: English (Science and Technology Research Stream)
+        </block></table-cell></table-row><table-row><table-cell><block>2012–2016</block></table-cell><table-cell><block>
+            University of Victoria
+            Bachelor of Arts (Honours), with distinction: English and Women's Studies
+                (minor)
+        </block></table-cell></table-row></table-body></table>
+    <block font-weight="bold" font-size="14pt" padding=".5em 0">Awards</block><table><table-column column-number="1" column-width="18%"/><table-column column-number="2"/><table-body><table-row><table-cell><block>2016</block></table-cell><table-cell><block>Department of English Medal of Excellence</block></table-cell></table-row><table-row><table-cell><block>2016</block></table-cell><table-cell><block>SSHRC CGS-M (UBC) </block></table-cell></table-row><table-row><table-cell><block>2015</block></table-cell><table-cell><block>Frank Hori Foundation Scholarship</block></table-cell></table-row><table-row><table-cell><block>2015</block></table-cell><table-cell><block>Allardice Lancaster Scholarship</block></table-cell></table-row><table-row><table-cell><block>2015</block></table-cell><table-cell><block>Jamie Cassels Undergraduate Research Award</block></table-cell></table-row><table-row><table-cell><block>2015</block></table-cell><table-cell><block>Purves-Cordonier Prize</block></table-cell></table-row><table-row><table-cell><block>2014</block></table-cell><table-cell><block>Frank Hori Foundation Scholarship</block></table-cell></table-row><table-row><table-cell><block>2014</block></table-cell><table-cell><block>Grant McOrmond Scholarship in English</block></table-cell></table-row><table-row><table-cell><block>2014</block></table-cell><table-cell><block>John Peter Memorial Scholarship</block></table-cell></table-row><table-row><table-cell><block>2012</block></table-cell><table-cell><block>University of Victoria Excellence Scholarship</block></table-cell></table-row><table-row><table-cell><block>2012</block></table-cell><table-cell><block>Come to Campus Grant</block></table-cell></table-row><table-row><table-cell><block>2012</block></table-cell><table-cell><block>Passport to Education</block></table-cell></table-row><table-row><table-cell><block>2012</block></table-cell><table-cell><block>Dogwood Bursary</block></table-cell></table-row></table-body></table>
+    <block font-weight="bold" font-size="14pt" padding=".5em 0">Publications</block><table><table-column column-number="1" column-width="18%"/><table-column column-number="2"/><table-body><table-row><table-cell><block/></table-cell><table-cell><block>“Making the RA Matter: Pedagogy, Interface, and Practices.” Co-authored with Janelle Jenstad. Making Humanities Matter. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: 2017.</block></table-cell></table-row><table-row><table-cell><block/></table-cell><table-cell><block>“The MoEML Finding Aid to the Bills of Mortality.” The Map of Early Modern London. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</block></table-cell></table-row><table-row><table-cell><block/></table-cell><table-cell><block>Project documentation and numerous encyclopedia articles on London places authored, co-authored, and edited for The Map of Early Modern London, including: “Applications for Encoders,” “Barbican,” “Wood Street,” and “The MoEML Guide to Editorial Style.” For a full list of my contributions to MoEML, see http://mapoflondon.uvic.ca/TAKE1.htm.</block></table-cell></table-row></table-body></table>
+    <block font-weight="bold" font-size="14pt" padding=".5em 0">Conference Presentations</block><table><table-column column-number="1" column-width="18%"/><table-column column-number="2"/><table-body><table-row><table-cell><block>2017</block></table-cell><table-cell><block>“Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s Transparent.” Qualicum History conference. Parksville, British Columbia.</block></table-cell></table-row><table-row><table-cell><block>2016</block></table-cell><table-cell><block>"How To Do Things with 6000 Toponyms." Co-authored with Janelle Jenstad and Tye Landels-Gruenewald. How To Do Things with Millions Of Words conference. University of British Columbia.</block></table-cell></table-row></table-body></table>
+    <block font-weight="bold" font-size="14pt" padding=".5em 0">Teaching</block><table><table-column column-number="1" column-width="18%"/><table-column column-number="2"/><table-body><table-row><table-cell><block>2016</block></table-cell><table-cell><block>
+            XPath Workshop
+            Instructor
+        </block></table-cell></table-row><table-row><table-cell><block>2016</block></table-cell><table-cell><block>
+            ENGL 362, "Popular Literature in the Renaissance"
+            Guest Lecturer
+        </block></table-cell></table-row><table-row><table-cell><block>2015</block></table-cell><table-cell><block>
+           SLST 481, "Existence and Anxiety in Dostoevsky"
+            Guest Lecturer
+       </block></table-cell></table-row></table-body></table>
+    <block font-weight="bold" font-size="14pt" padding=".5em 0">Research Experience</block><table><table-column column-number="1" column-width="18%"/><table-column column-number="2"/><table-body><table-row><table-cell><block>2016–present</block></table-cell><table-cell><block>
+            Endings
+            Junior Programmer/Research Assistant
+            Martin Holmes
+            
+        </block></table-cell></table-row><table-row><table-cell><block>2015–present</block></table-cell><table-cell><block>
+            The Map of Early Modern London
+            Junior Programmer
+            Martin Holmes and Janelle Jenstad
+
+        </block></table-cell></table-row><table-row><table-cell><block>2016</block></table-cell><table-cell><block>
+            Scene Performance Journal, Internet Shakespeare Editions
+            Assistant to the Coordinating Editor
+            Janelle Jenstad
+        </block></table-cell></table-row><table-row><table-cell><block>2014–2016</block></table-cell><table-cell><block>
+            The Internet Shakespeare Editions
+            Research Assistant
+            Michael Best
+        </block></table-cell></table-row><table-row><table-cell><block>2015</block></table-cell><table-cell><block>
+            The Map of Dostoevsky's St. Petersburg
+            Encoder
+            Megan Swift and Martin Holmes
+        </block></table-cell></table-row></table-body></table>
+    <block font-weight="bold" font-size="14pt" padding=".5em 0">Service</block><table><table-column column-number="1" column-width="18%"/><table-column column-number="2"/><table-body><table-row><table-cell><block>2016–2017</block></table-cell><table-cell><block>
+            Co-organizer
+            Endnotes Graduate Conference
+        </block></table-cell></table-row><table-row><table-cell><block>2015–2016</block></table-cell><table-cell><block>
+           Editor-in-chief
+            The Albatross English Undergraduate Journal
+        </block></table-cell></table-row><table-row><table-cell><block>2015–2016</block></table-cell><table-cell><block>
+            Executive Editor
+            The Warren Undergraduate Review
+        </block></table-cell></table-row><table-row><table-cell><block>2014–2015</block></table-cell><table-cell><block>
+            Vice-President of Academic Affairs
+            English Students' Association
+        </block></table-cell></table-row><table-row><table-cell><block>2014–2015</block></table-cell><table-cell><block>
+            Criticism Editor
+            The Warren Undergraduate Review
+        </block></table-cell></table-row></table-body></table>
+    
+</flow></page-sequence></root>
