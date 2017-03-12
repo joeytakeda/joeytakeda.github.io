@@ -24,7 +24,7 @@
         <echo message="Creating XHTML5 version of the CV"/>
         <java classname="net.sf.saxon.Transform" classpath="utilities/saxon9he.jar">
             <arg value="-s:xml/CV.xml"/>
-            <arg value="-xsl:cscripts/v-to-xhtml.xsl"/> 
+            <arg value="-xsl:scripts/cv-to-xhtml.xsl"/> 
             <arg value="-o:docs/CV.html"/>
             <arg value="--suppressXsltNamespaceCheck:on"/>
         </java>
