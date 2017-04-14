@@ -16,7 +16,7 @@ SEP="==================================";
 #Set an empty variable here.
 PROCESS_FILES="";
 echo $SEP;
-if [ -f $PDF ]; then
+if [[ -f $PDF && -n $PDF ]]; then
 	echo "Converting" $1;
 	echo $SEP;
 	echo "Splitting PDF into multiple PNG files.";
