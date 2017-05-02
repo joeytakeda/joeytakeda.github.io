@@ -11,6 +11,7 @@
     
     <!--Decide whether or not I want to display references online-->
     <xsl:param name="displayReferences" select="false()"/>
+    <xsl:param name="displayMonth" select="false()"/>
     <xsl:param name="date"/>
     
     
@@ -56,12 +57,26 @@
     </xsl:template>
     
     <xsl:template match="cv/email">
-        <block font-size="10pt">
-            <basic-link external-destination="mailto:{.}"><xsl:value-of select="."/></basic-link>
-        </block>
+        <xsl:choose>
+            <xsl:when test="parent::cv[phone]">
+                <block-container font-size="10pt">
+                    <block padding-bottom=".2em"><xsl:value-of select="."/></block>
+                    <block><xsl:value-of select="parent::cv/phone"/></block>
+                </block-container>
+            </xsl:when>
+            <xsl:otherwise>
+                <block font-size="10pt">
+                    <basic-link external-destination="mailto:{.}"><xsl:value-of select="."/></basic-link>
+                </block>
+            </xsl:otherwise>
+        </xsl:choose>
         <!--Little HR-->
        <block><leader leader-pattern="rule" leader-length="100%" rule-style="solid" rule-thickness=".5pt"/></block>
     </xsl:template>
+    
+    <!--Suppress, if necessary-->
+    <xsl:template match="cv/phone"/>
+    
     
     <!--Each section-->
     
@@ -193,6 +208,7 @@
         </inline>
     </xsl:template>
     
+    
     <xsl:template match="@when">
         <xsl:value-of select="jt:yearFromDate(.)"/>
     </xsl:template>
@@ -238,7 +254,14 @@
             <xsl:apply-templates select="title"/>
             <xsl:choose>
                 <xsl:when test="$displayReferences">
-                    <!--TODO: Make references page and add them dynamically-->
+                    <xsl:for-each select="reference">
+                        <block padding-top=".6em">
+                            <block><xsl:value-of select="name"/></block>
+                            <block><xsl:value-of select="role"/></block>
+                            <block><xsl:value-of select="email"/></block>
+                            <block><xsl:value-of select="phone"/></block>
+                        </block>
+                    </xsl:for-each>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:text>References available upon request.</xsl:text>
@@ -254,6 +277,14 @@
     <xsl:function name="jt:yearFromDate" as="xs:string">
         <xsl:param name="string"/>
         <xsl:variable name="tokens" select="tokenize($string,'-')"/>
-        <xsl:value-of select="$tokens[1]"/>
+        <xsl:choose>
+            <xsl:when test="$displayMonth and count($tokens) gt 1">
+                <xsl:variable name="dateFull" select="xs:date(concat($tokens[1],'-',$tokens[2],'-','01'))" as="xs:date"/>
+                <xsl:value-of select="format-date($dateFull,'[MNn] [Y0001]')"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="$tokens[1]"/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:function>
 </xsl:stylesheet>

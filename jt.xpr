@@ -14,7 +14,6 @@
         </options>
     </meta>
     <projectTree name="jt.xpr">
-        <folder path="../../Desktop/transparent_scripts/"/>
         <folder path="."/>
     </projectTree>
 </project>

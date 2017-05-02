@@ -4,6 +4,8 @@
 # This script takes in a PDF and uses tesseract and convert (through ImageMagick)
 # to create an OCR'd version of the PDF. It does so with density of 300.
 
+# This script assumes that you have: ghostscript, imagemagick, poppler, and tesseract # installed
+
 # NOTE: If it the text from the PDF is what's desired, this process is probably
 # still the easiest solution. Use the final PDF created and then use pdftotext to
 # extract the text.

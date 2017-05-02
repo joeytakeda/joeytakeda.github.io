@@ -8,7 +8,7 @@
             <title>Joseph Takeda's CV</title>
          </titleStmt>
          <publicationStmt>
-            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2017-03-12.</p>
+            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2017-05-02.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital; source: <ref target="../xml/CV.xml">CV.xml</ref>
@@ -101,12 +101,14 @@
                   <note>
                      <list>
         
+        
+  
                         <item>
-                           <p>Junior Programmer/Research Assistant at Endings.Supervised by Martin Holmes. (<date from="2016-05" to="2017-03-12">2016-05 to present.
+                           <p>Junior Programmer/Research Assistant at Endings.Supervised by Martin Holmes. (<date from="2016-05" to="2017-05-02">2016-05 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Junior Programmer/Consultant at The Map of Early Modern London.Supervised by Martin Holmes and Janelle Jenstad. (<date from="2015-05" to="2017-03-12">2015-05 to present.
+                           <p>Junior Programmer/Consultant at The Map of Early Modern London.Supervised by Martin Holmes and Janelle Jenstad. (<date from="2015-05" to="2017-05-02">2015-05 to present.
                 </date>)</p>
                         </item>
                         <item>
