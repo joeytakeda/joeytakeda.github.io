@@ -29,8 +29,8 @@
                         <rdf:Description rdf:about=""
                             xmlns:dc="http://purl.org/dc/elements/1.1/">
                             <!-- Dublin Core properties go here -->
-                            <dc:title>Joseph Takeda's Curriculum Vitae</dc:title>
-                            <dc:creator>Joseph Takeda</dc:creator>
+                            <dc:title><xsl:value-of select="cv/name"/>'s Curriculum Vitae</dc:title>
+                            <dc:creator><xsl:value-of select="cv/name"/></dc:creator>
                             <dc:description>CV</dc:description>
                             <dc:date><xsl:value-of select="$date"/></dc:date>
                         </rdf:Description>
