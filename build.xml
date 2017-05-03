@@ -9,6 +9,7 @@
     </tstamp>
     
     <property name="fop.home" value="utilities/fop-2.0"/>
+    <property name="doc" value="CV"/>
     
     <taskdef name="fop"
         classname="org.apache.fop.tools.anttasks.Fop">
@@ -35,9 +36,9 @@
         <echo message="${echo.separator}"/>
         <echo message="Creating XHTML5 version of the CV"/>
         <java classname="net.sf.saxon.Transform" classpath="utilities/saxon9he.jar">
-            <arg value="-s:xml/CV.xml"/>
+            <arg value="-s:xml/${doc}.xml"/>
             <arg value="-xsl:scripts/cv-to-xhtml.xsl"/> 
-            <arg value="-o:docs/CV.html"/>
+            <arg value="-o:docs/${doc}.html"/>
             <arg value="date=${date}"/>
             <arg value="--suppressXsltNamespaceCheck:on"/>
         </java>
@@ -47,9 +48,9 @@
         <echo message="${echo.separator}"/>
         <echo message="Creating TEI version of CV"/>
         <java classname="net.sf.saxon.Transform" classpath="utilities/saxon9he.jar">
-            <arg value="-s:xml/CV.xml"/>
+            <arg value="-s:xml/${doc}.xml"/>
             <arg value="-xsl:scripts/cv-to-tei.xsl"/> 
-            <arg value="-o:docs/CV.xml"/>
+            <arg value="-o:docs/${doc}.xml"/>
             <arg value="date=${date}"/>
             <arg value="--suppressXsltNamespaceCheck:on"/>
         </java>
@@ -59,38 +60,20 @@
         <echo message="${echo.separator}"/>
         <echo message="Creating PDF version of the CV"/>
         <java classname="net.sf.saxon.Transform" classpath="utilities/saxon9he.jar">
-            <arg value="-s:xml/CV.xml"/>
+            <arg value="-s:xml/${doc}.xml"/>
             <arg value="-xsl:scripts/cv-to-pdf.xsl"/> 
-            <arg value="-o:docs/CV.fo"/>
+            <arg value="-o:docs/${doc}.fo"/>
             <arg value="date=${date}"/>
             <arg value="--suppressXsltNamespaceCheck:on"/>
         </java>
         <fop format="application/pdf"
-            fofile="docs/CV.fo"
-            outfile="docs/CV.pdf"
+            fofile="docs/${doc}.fo"
+            outfile="docs/${doc}.pdf"
             userconfig="utilities/fop-2.0/conf/fop.xconf"
         />
     </target>
     
-    <target name="elcv">
-        <file file="../../Downloads/elspeth_cv.xml"/>
-        <echo message="${echo.separator}"/>
-        <echo message="Creating PDF version of the CV"/>
-        <java classname="net.sf.saxon.Transform" classpath="utilities/saxon9he.jar">
-            <arg value="-s:../../Downloads/elspeth_cv.xml"/>
-            <arg value="-xsl:scripts/cv-to-pdf.xsl"/> 
-            <arg value="-o:../../Downloads/Gow_CV.fo"/>
-            <arg value="date=${date}"/>
-            <arg value="displayReferences=true"/>
-            <arg value="displayMonth=true"/>
-            <arg value="--suppressXsltNamespaceCheck:on"/>
-        </java>
-        <fop format="application/pdf"
-            fofile="../../Downloads/Gow_CV.fo"
-            outfile="../../Downloads/Gow_CV.pdf"
-            userconfig="utilities/fop-2.0/conf/fop.xconf"
-        />
-    </target>
+   
     
     <target name="makeCvIndex">
         <echo message="${echo.separator}"/>
