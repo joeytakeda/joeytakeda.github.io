@@ -2,7 +2,7 @@
 <cv xmlns="http://joeytakeda.github.io/ns/">
     <name id="me">Elspeth Gow</name>
     <phone>250-589-8650</phone>
-    <email>esgow@uvic.ca</email>
+    <email>elspeth.gow@gmail.com</email>
     
     <education>
         <title>Education</title>
@@ -22,7 +22,7 @@
         <award when="2014">Norah Lugrin Shaw and Wendell Burrill Shaw Memorial Scholarship</award>
     </awards>
     <employment>
-        <title>Research Experience</title>
+        <title>Experience</title>
         <job from="2016-05" to="2016-09">
             <job_title>Walking Tour Guide</job_title>
             <workplace>Architectural Institute of British Columbia, Victoria BC</workplace>
@@ -69,24 +69,30 @@
 
     <references>
         <title>References</title>
-<reference>
+<!--<reference>
 <name>Lynne Marks</name>
 <role>Associate Professor, History, University of Victoria</role>
 <email>lsmarks@uvic.ca</email>
 <phone>250-721-7392</phone>
-</reference>
+</reference>-->
 <reference>
 <name>Sara Beam</name>
 <role>Associate Professor, History, University of Victoria</role>
 <email>sbeam@uvic.ca</email>
 <phone>250-721-7406</phone>
 </reference>
-<reference>
+<!--<reference>
 <name>Hélène Cazes</name>
 <role>Associate Professor, French, University of Victoria</role>
 <email>hcazes@uvic.ca</email>
 <phone>250-721-7367</phone>
-</reference>
+</reference>-->
+        <reference>
+            <name>Jordan Stanger-Ross</name>
+            <role>Associate Professor, History, University of Victoria</role>
+            <email>jstross@uvic.ca</email>
+            <phone>250-721-7283</phone>
+        </reference>
        
     </references>
 </cv>
