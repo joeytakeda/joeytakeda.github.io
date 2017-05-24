@@ -9,7 +9,7 @@
     </tstamp>
     
     <property name="fop.home" value="utilities/fop-2.0"/>
-    <property name="doc" value="elspeth_CV"/>
+    <property name="doc" value="CV"/>
     
     <taskdef name="fop"
         classname="org.apache.fop.tools.anttasks.Fop">
