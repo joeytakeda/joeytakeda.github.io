@@ -8,7 +8,7 @@
             <title>Joseph Takeda's CV</title>
          </titleStmt>
          <publicationStmt>
-            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2017-05-23.</p>
+            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2017-08-21.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital; source: <ref target="../xml/CV.xml">CV.xml</ref>
@@ -76,7 +76,8 @@
                </listBibl>
                <listBibl xml:id="CV_conferences">
         
-        
+                  <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. McGill University. August 11, 2017.</bibl>
+                  <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities. McGill University. August 9, 2017.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</bibl>
                   <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</bibl>
@@ -102,13 +103,20 @@
                      <list>
         
         
-  
                         <item>
-                           <p>Junior Programmer/Research Assistant at Endings.Supervised by Martin Holmes. (<date from="2016-05" to="2017-05-23">2016-05 to present.
+                           <p>Programmer at Stratford Festival Promptbook Protocol The Stratford Festival Online.Supervised by Jennifer Roberts-Smith. (<date from="2017-05" to="2017-08-21">2017-05 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Junior Programmer/Consultant at The Map of Early Modern London.Supervised by Martin Holmes and Janelle Jenstad. (<date from="2015-05" to="2017-05-23">2015-05 to present.
+                           <p>Programmer at The Internet Shakespeare Editions.Supervised by Janelle Jenstad. (<date from="2017-05" to="2017-08-21">2017-05 to present.
+                </date>)</p>
+                        </item>
+                        <item>
+                           <p>Junior Programmer/Research Assistant at Endings.Supervised by Martin Holmes. (<date from="2016-05" to="2017-08-21">2016-05 to present.
+                </date>)</p>
+                        </item>
+                        <item>
+                           <p>Junior Programmer/Consultant at The Map of Early Modern London.Supervised by Martin Holmes and Janelle Jenstad. (<date from="2015-05" to="2017-08-21">2015-05 to present.
                 </date>)</p>
                         </item>
                         <item>

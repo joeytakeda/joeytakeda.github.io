@@ -44,7 +44,8 @@
     </publications>
     <conferences>
         <title>Conference Presentations</title>
-        <!--        TODO: CSPT, ILSA, DH (x2)-->
+        <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. McGill University. August 11, 2017.</conference>
+        <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities. McGill University. August 9, 2017.</conference>
         <conference><ref target="#me">Takeda, Joseph</ref>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</conference>
         <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</conference>
     </conferences>
@@ -69,11 +70,17 @@
     <employment>
         <title>Research Experience</title>
         
-  <!--      <job from="2017-05">
+        <job from="2017-05">
             <job_title>Programmer</job_title>
-            <workplace>Statford Promptbooks Online</workplace>
-            <supervisor>Janelle Jenstad and Jennifer Robert-Smith</supervisor>
-        </job>-->
+            <workplace>Stratford Festival Promptbook Protocol</workplace>
+            <workplace>The Stratford Festival Online</workplace>
+            <supervisor>Jennifer Roberts-Smith</supervisor>
+        </job>
+        <job from="2017-05">
+            <job_title>Programmer</job_title>
+            <workplace>The Internet Shakespeare Editions</workplace>
+            <supervisor>Janelle Jenstad</supervisor>
+        </job>
         <job from="2016-05">
             <job_title>Junior Programmer/Research Assistant</job_title>
             <workplace><title level="m"><ref target="http://github.com/projectEndings/Endings">Endings</ref></title></workplace>
