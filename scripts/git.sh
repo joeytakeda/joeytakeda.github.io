@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/site/joeytakeda.github.io/;
+cd ~/git/joeytakeda.github.io;
 git pull .;
 git add *;
 git commit -m "$1";
