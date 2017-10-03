@@ -64,7 +64,7 @@
             <arg value="-xsl:scripts/cv-to-pdf.xsl"/> 
             <arg value="-o:docs/${doc}.fo"/>
             <arg value="date=${date}"/>
-            <arg value="displayReferences=true"/>
+<!--            <arg value="displayReferences=false"/>-->
             <arg value="--suppressXsltNamespaceCheck:on"/>
         </java>
         <fop format="application/pdf"
