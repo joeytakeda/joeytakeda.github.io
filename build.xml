@@ -3,6 +3,9 @@
   
   <property name="echo.separator" value="****************************"/>
   <property name="message" value="'Updating CV.'"/>
+  <property name="displayReferences">false</property>
+    <property name="displayMonth">false</property>
+    <property name="displayDesc">false</property>
     
     <tstamp>
         <format property="date" pattern="yyyy-MM-dd" locale="en"/>
@@ -64,7 +67,9 @@
             <arg value="-xsl:scripts/cv-to-pdf.xsl"/> 
             <arg value="-o:docs/${doc}.fo"/>
             <arg value="date=${date}"/>
-<!--            <arg value="displayReferences=false"/>-->
+            <arg value="displayReferences=${displayReferences}"/>
+            <arg value="displayMonth=${displayMonth}"/>
+            <arg value="displayDesc=${displayDesc}"/>
             <arg value="--suppressXsltNamespaceCheck:on"/>
         </java>
         <fop format="application/pdf"

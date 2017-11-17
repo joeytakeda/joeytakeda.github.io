@@ -70,7 +70,7 @@
             RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and
                 Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery
             Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected
-            publication: 2017.</bibl>
+            publication: January, 2018.</bibl>
 
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "The MoEML Finding Aid to the Bills of
@@ -86,11 +86,11 @@
     
                <listBibl xml:id="CV_conferences">
         
-                  <bibl>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <ref target="http://github.com/joeytakeda/tei17_workshop">Link</ref>.</bibl>
+                  <bibl>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <ref target="http://github.com/joeytakeda/tei17_workshop">Repository</ref>.</bibl>
                   <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond
             Validation: using programmed diagnostics to learn about, monitor, and successfully
             complete your DH project." Digital Humanities 2017 conference. McGill University. August
-            11, 2017. <ref type="local" target="../pdf/Mapping_the_STC-2017.pdf">PDF</ref>.</bibl>
+            11, 2017. <ref type="local" target="../pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.</bibl>
                   <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph
                 Takeda</ref> (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities 2017
             conference.. McGill University. August 09, 2017. <ref type="local" target="../pdf/Beyond_Validation-2017.pdf">PDF</ref>.</bibl>

@@ -10,13 +10,22 @@
     
     
     <!--Decide whether or not I want to display references online-->
-    <xsl:param name="displayReferences" select="false()"/>
-    <xsl:param name="displayMonth" select="false()"/>
-    <xsl:param name="displayDesc" select="false()"/>
+    <xsl:param name="displayReferences" select="'false'"/>
+    <xsl:param name="displayMonth" select="'false'"/>
+    <xsl:param name="displayDesc" select="'false'"/>
     <xsl:param name="date"/>
     
     
     <xsl:template match="/">
+        <xsl:message>Creating FO file...</xsl:message>
+        <xsl:message>
+            References displayed: <xsl:value-of select="$displayReferences"/>
+            Months displayed: <xsl:value-of select="$displayMonth"/>
+            Descriptions displayed: <xsl:value-of select="$displayDesc"/>
+        </xsl:message>
+        <xsl:message>
+           
+        </xsl:message>
         <root font-family="CormorantGaramond">
             <layout-master-set>
                 <simple-page-master master-name="A4-portrait"
@@ -185,7 +194,7 @@
     </xsl:template>
     
     <xsl:template match="job/desc">
-        <xsl:if test="$displayDesc">
+        <xsl:if test="$displayDesc='true'">
             <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">
                 <xsl:apply-templates/>
             </block>
@@ -256,7 +265,7 @@
         <block>
             <xsl:apply-templates select="title"/>
             <xsl:choose>
-                <xsl:when test="$displayReferences">
+                <xsl:when test="$displayReferences='true'">
                     <xsl:for-each select="reference">
                         <block padding-top=".6em">
                             <block><xsl:value-of select="name"/></block>
@@ -281,7 +290,7 @@
         <xsl:param name="string"/>
         <xsl:variable name="tokens" select="tokenize($string,'-')"/>
         <xsl:choose>
-            <xsl:when test="$displayMonth and count($tokens) gt 1">
+            <xsl:when test="$displayMonth='true' and count($tokens) gt 1">
                 <xsl:variable name="dateFull" select="xs:date(concat($tokens[1],'-',$tokens[2],'-','01'))" as="xs:date"/>
                 <xsl:value-of select="format-date($dateFull,'[MNn] [Y0001]')"/>
             </xsl:when>

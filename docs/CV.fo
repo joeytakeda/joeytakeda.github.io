@@ -19,7 +19,7 @@
             RA Matter: Pedagogy, Interface, and Practices." <inline font-style="italic">Making Things and
                 Drawing Boundaries: Experiments in the Digital Humanities</inline>. Ed. Jentery
             Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected
-            publication: 2017.</block>
+            publication: January, 2018.</block>
 
         <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "The MoEML Finding Aid to the Bills of
             Mortality." <inline font-style="italic">The Map of Early Modern London</inline>. Ed. Janelle
@@ -34,11 +34,11 @@
     
     <block>
         <block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">CONFERENCE PRESENTATIONS</block>
-        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, and <inline font-weight="600">Joseph Takeda</inline> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <basic-link external-destination="http://github.com/joeytakeda/tei17_workshop" text-decoration="underline">Link</basic-link>.</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, and <inline font-weight="600">Joseph Takeda</inline> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <basic-link external-destination="http://github.com/joeytakeda/tei17_workshop" text-decoration="underline">Repository</basic-link>.</block>
         <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joseph Takeda</inline> (50%). "Beyond
             Validation: using programmed diagnostics to learn about, monitor, and successfully
             complete your DH project." Digital Humanities 2017 conference. McGill University. August
-            11, 2017. <basic-link external-destination="https://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf" text-decoration="underline">PDF</basic-link>.</block>
+            11, 2017. <basic-link external-destination="https://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf" text-decoration="underline">PDF</basic-link>. <basic-link external-destination="https://github.com/projectEndings/diagnostics" text-decoration="underline">Repository</basic-link>.</block>
         <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joseph
                 Takeda</inline> (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities 2017
             conference.. McGill University. August 09, 2017. <basic-link external-destination="https://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf" text-decoration="underline">PDF</basic-link>.</block>
