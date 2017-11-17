@@ -12,6 +12,7 @@
     <!--Decide whether or not I want to display references online-->
     <xsl:param name="displayReferences" select="false()"/>
     <xsl:param name="displayMonth" select="false()"/>
+    <xsl:param name="displayDesc" select="false()"/>
     <xsl:param name="date"/>
     
     
@@ -184,9 +185,11 @@
     </xsl:template>
     
     <xsl:template match="job/desc">
-        <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">
-            <xsl:apply-templates/>
-        </block>
+        <xsl:if test="$displayDesc">
+            <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">
+                <xsl:apply-templates/>
+            </block>
+        </xsl:if>
     </xsl:template>
     
     <!--    Publications and conferences are formatted differently-->

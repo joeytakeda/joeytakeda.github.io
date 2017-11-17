@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:jt="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joseph Takeda's Curriculum Vitae</dc:title><dc:creator>Joseph Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2017-10-03</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
+<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:jt="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joseph Takeda's Curriculum Vitae</dc:title><dc:creator>Joseph Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2017-11-16</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
     <block font-size="26pt" font-weight="600">Joseph Takeda</block>
     <block font-size="10pt"><basic-link external-destination="mailto:joey.takeda@gmail.com">joey.takeda@gmail.com</basic-link></block><block><leader leader-pattern="rule" leader-length="100%" rule-style="solid" rule-thickness=".5pt"/></block>
     <block><block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">EDUCATION</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
@@ -31,8 +31,10 @@
                 Street</basic-link>." For a full list of my contributions to MoEML, see <basic-link external-destination="http://mapoflondon.uvic.ca/TAKE1.htm" text-decoration="underline">http://mapoflondon.uvic.ca/TAKE1.htm</basic-link>.</block>
 
     </block>
+    
     <block>
         <block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">CONFERENCE PRESENTATIONS</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, and <inline font-weight="600">Joseph Takeda</inline> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <basic-link external-destination="http://github.com/joeytakeda/tei17_workshop" text-decoration="underline">Link</basic-link>.</block>
         <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joseph Takeda</inline> (50%). "Beyond
             Validation: using programmed diagnostics to learn about, monitor, and successfully
             complete your DH project." Digital Humanities 2017 conference. McGill University. August
@@ -40,7 +42,7 @@
         <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joseph
                 Takeda</inline> (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities 2017
             conference.. McGill University. August 09, 2017. <basic-link external-destination="../pdf/Beyond_Validation-2017.pdf" text-decoration="underline">PDF</basic-link>.</block>
-        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "The Fragility of Reconciliation: Reading <inline font-style="italic">The Book of Jessica</inline>. CSPT Graduate conference. University of Victoria. May 05, 2017.</block>
+        <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "The Fragility of Reconciliation: Reading <inline font-style="italic">The Book of Jessica</inline>." CSPT Graduate conference. University of Victoria. May 05, 2017.</block>
         <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "Viewing Jewish and Trans Identity:
             History, Genetics, and Jill Soloway’s <inline font-style="italic">Transparent</inline>." Qualicum
             History conference. Parksville, British Columbia. January 28, 2017.</block>
@@ -67,13 +69,20 @@
 
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">January 29, 2015</inline></block></table-cell></table-row></table-body></table></block>
     <block><block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">RESEARCH EXPERIENCE</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Programmer/Research Assistant</block>
+            <block>University of Victoria</block>
+            
+            
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2017–present</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Programmer</block>
             <block>Stratford Festival Promptbook Protocol</block>
             <block>The Stratford Festival Online</block>
             
+            
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2017–present</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Programmer</block>
             <block>The Internet Shakespeare Editions</block>
+            
             
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2017–present</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Junior Programmer/Research Assistant</block>
@@ -83,10 +92,7 @@
                 </inline>
             </block>
             
-            <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">Using four digital humanities projects as case studies, the Endings partnership
-                project attempts to develop workflows and best practices for finishing and archiving
-                digital projects. At Endings, I developed tools and workflows for producing
-                archivable, static projects from long-running projects.</block>
+            
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–present</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Junior Programmer/Consultant</block>
             <block>
@@ -95,17 +101,13 @@
                 </inline>
             </block>
             
-            <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">My work at the <inline font-style="italic">The Map of Early Modern London</inline> involved
-                working in a variety of programming language and dialects (mostly XML based) to
-                maintain the TEI-XML run website. </block>
+            
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015–present</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Assistant to the Coordinating Editor</block>
             <block><inline font-style="italic">Scene Performance Journal</inline>, <inline font-style="italic"><basic-link external-destination="http://ise.uvic.ca" text-decoration="underline">The Internet Shakespeare
                 Editions</basic-link></inline></block>
             
-            <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">Reporting to the Coordinating Editor, I liased with contributors, copy-edited
-                reviews of performances of Shakespeare, and worked with XWiki and B2Evo blogging
-                platforms.</block>
+            
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Research Assistant</block>
             <block>
@@ -114,9 +116,7 @@
                 </inline>
             </block>
             
-            <block text-align="justify" margin-right="1em" margin-left="1em" padding-top=".3em">At the ISE, I worked added to and correct the ISE's performance database,
-                developed and maintained metadata (both a specialized vocabular and Dublin Core),
-                and assisted with proofing for editions of <inline font-style="italic">Hamlet</inline>, <inline font-style="italic">Twelfth Night</inline>, and <inline font-style="italic">King Lear</inline>. </block>
+            
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014–2016</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Encoder</block>
             <block>
@@ -125,6 +125,9 @@
             
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row></table-body></table></block>
     <block><block font-weight="600" font-size="16pt" padding=".5em 0" keep-with-next.within-page="always">SERVICE</block><table table-layout="fixed" width="100%"><table-column column-number="2" column-width="18%"/><table-column column-number="1" column-width="80%"/><table-body><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Communications Coordinator</block>
+            <block>UBC English Graduate Caucus</block>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2017–2018</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Co-organizer</block>
             <block>Endnotes Graduate Conference</block>
 

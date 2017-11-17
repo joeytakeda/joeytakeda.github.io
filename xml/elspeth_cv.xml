@@ -6,6 +6,10 @@
     
     <education>
         <title>Education</title>
+        <degree from="2017">
+            <degree_name>Masters of Arts, History</degree_name>
+            <institution>University of British Columbia, Vancouver, British Columbia</institution>
+        </degree>
         <degree from="2013" to="2017">
             <degree_name>Bachelor of Arts, History (Honours)</degree_name>
             <institution>University of Victoria, Victoria, British Columbia</institution>
@@ -21,8 +25,13 @@
         <award when="2015">President's Scholarship</award>
         <award when="2014">Norah Lugrin Shaw and Wendell Burrill Shaw Memorial Scholarship</award>
     </awards>
-    <employment>
+    <!--<employment>
         <title>Experience</title>
+        <job from="2017-06" to="2017-09">
+            <job_title>Curatorial Assistant</job_title>
+            <workplace>Point Ellice House Museum</workplace>
+            <desc><!-\-Add stuff here-\-></desc>
+        </job>
         <job from="2016-05" to="2016-09">
             <job_title>Walking Tour Guide</job_title>
             <workplace>Architectural Institute of British Columbia, Victoria BC</workplace>
@@ -45,7 +54,7 @@
                 human and natural history. I also conducted independent research on both Edmonton's settlement
                 narrative (John Walter Museum) and botany and biology (Muttart Conservatory).</desc>
         </job>
-    </employment>
+    </employment>-->
     <service>
         <title>Service</title>
         <job from="2016" to="2017">
@@ -55,6 +64,7 @@
     </service>
     <publications>
         <title>Publications</title>
+        <publication><ref target="#me">Gow, Elspeth</ref>. "The Travels of Francis Joseph O'Reilly's Suitcase: Artifact Research on the Collection at Point Ellice House Museum." <title level="m">Roundup Magazine</title> (BC Museum Association). Forthcoming.</publication>
         <publication><ref target="#me">Gow, Elspeth</ref>. "Displaying the Inscrutable at the Royal BC Museum’s <title level="m">Chinatown</title> Gallery." <title level="m">The Corvette Undergraduate History Journal</title>. Vol 4 no. 1, 2017.</publication>
         
         
