@@ -243,7 +243,7 @@
             </xsl:when>
 <!--            Otherwise, link outwards. -->
             <xsl:otherwise>
-                <basic-link external-destination="{@target}" text-decoration="underline">
+                <basic-link external-destination="{if (@type='local') then replace(concat('https://joeytakeda.github.io/',@target),'\.\./','') else @target}" text-decoration="underline">
                     <xsl:apply-templates/>
                 </basic-link>
             </xsl:otherwise>
