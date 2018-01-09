@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPerson>
+            <person>
+               <persName>
+                  <roleName type="title"/>
+                  <surname/>
+                  <forename/>
+                  <forename type="middle"/>
+                  <forename type="previous"/>
+                  <surname type="previous"/>
+                  
+               </persName>
+               <sex/>
+               <langKnowledge>
+                  <langKnown tag="en">
+                     <!--These will be custom elements, I think-->
+                     <read/>
+                     <write/>
+                     <speak/>
+                     <understand/>
+                     <peerReview/>
+                  </langKnown>
+               </langKnowledge>
+               <!--Add address to att.datable-->
+               <!--Add address to person-->
+               <address>
+                  <addrLine n="1"/>
+                  <settlement type="city"></settlement>
+                  <location><!--Don't know what that means--></location>
+                  <postCode></postCode>
+                  <!--Telephone number-->
+
+               </address>
+               <!--Put email in person as well-->
+               <email></email>
+               <!--And telephone number-->
+               <addrLine type="tel></addrLine>
+               <addrLine type="website"></addrLine>
+            </person>            
+         </listPerson>
+         <listEducation></listEducation>
+      </body>
+  </text>
+</TEI>
