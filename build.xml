@@ -4,7 +4,6 @@
   <property name="echo.separator" value="****************************"/>
   <property name="message" value="'Updating CV.'"/>
   <property name="displayReferences">false</property>
-    <property name="displayMonth">false</property>
     <property name="displayDesc">false</property>
     
     <tstamp>
@@ -12,7 +11,7 @@
     </tstamp>
     
     <property name="source.dir" value="xml"/>
-    <property name="out.dir" value="docs"/>
+    <property name="out.dir" location="docs"/>
     <!--Files-->
     <property name="source.cv" value="${source.dir}/CV.xml"/>
     
