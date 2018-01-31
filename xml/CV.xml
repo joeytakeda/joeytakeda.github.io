@@ -49,6 +49,7 @@
     
     <conferences>
         <head>Conference Presentations</head>
+        <conference><ref target="#me">Takeda, Joseph</ref>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</conference>
         <conference>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <ref target="http://github.com/joeytakeda/tei17_workshop">Repository</ref>.</conference>
         <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond
             Validation: using programmed diagnostics to learn about, monitor, and successfully
@@ -70,12 +71,10 @@
         <job when="2016-02-24">
             <role>Instructor</role>
             <class>XPath Workshop</class>
-
         </job>
         <job when="2016-02-03">
             <role>Guest Lecturer</role>
             <class>ENGL 362, "Popular Literature in the Renaissance"</class>
-
         </job>
         <job when="2015-01-29">
             <role>Guest Lecturer</role>

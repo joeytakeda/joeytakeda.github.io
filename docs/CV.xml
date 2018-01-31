@@ -8,7 +8,7 @@
             <title>Joseph Takeda's CV</title>
          </titleStmt>
          <publicationStmt>
-            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2018-01-08.</p>
+            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2018-01-31.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital; source: <ref target="../xml/CV.xml">CV.xml</ref>
@@ -79,6 +79,8 @@
     
                <listBibl xml:id="CV_conferences">
         
+                  <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</bibl>
                   <bibl>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <ref target="http://github.com/joeytakeda/tei17_workshop">Repository</ref>.</bibl>
                   <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond
             Validation: using programmed diagnostics to learn about, monitor, and successfully
@@ -116,15 +118,15 @@
                      <list>
         
                         <item>
-                           <p>Programmer/Research Assistant at University of Victoria.Supervised by Lisa Goddard. (<date from="2017-09" to="2018-01-08">2017-09 to present.
+                           <p>Programmer/Research Assistant at University of Victoria.Supervised by Lisa Goddard. (<date from="2017-09" to="2018-01-31">2017-09 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Programmer at Stratford Festival Promptbook Protocol The Stratford Festival Online.Supervised by Dr. Jennifer Roberts-Smith. (<date from="2017-05" to="2018-01-08">2017-05 to present.
+                           <p>Programmer at Stratford Festival Promptbook Protocol The Stratford Festival Online.Supervised by Dr. Jennifer Roberts-Smith. (<date from="2017-05" to="2018-01-31">2017-05 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Programmer at The Internet Shakespeare Editions.Supervised by Dr. Janelle Jenstad. (<date from="2017-05" to="2018-01-08">2017-05 to present.
+                           <p>Programmer at The Internet Shakespeare Editions.Supervised by Dr. Janelle Jenstad. (<date from="2017-05" to="2018-01-31">2017-05 to present.
                 </date>)</p>
                         </item>
                         <item>
@@ -132,7 +134,7 @@
                 
                     Endings
                 
-            .Supervised by Martin Holmes. (<date from="2016-05" to="2018-01-08">2016-05 to present.
+            .Supervised by Martin Holmes. (<date from="2016-05" to="2018-01-31">2016-05 to present.
                 </date>)</p>
                         </item>
                         <item>
@@ -140,7 +142,7 @@
                 
                     The Map of Early Modern London
                 
-            .Supervised by Martin Holmes and Dr. Janelle Jenstad. (<date from="2015-05" to="2018-01-08">2015-05 to present.
+            .Supervised by Martin Holmes and Dr. Janelle Jenstad. (<date from="2015-05" to="2018-01-31">2015-05 to present.
                 </date>)</p>
                         </item>
                         <item>
