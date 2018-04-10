@@ -72,7 +72,8 @@
             <block>Junior Programmer/Research Assistant</block>
             <block>
                 <inline font-style="italic">
-                    <basic-link external-destination="http://github.com/projectEndings/Endings">Endings</basic-link>
+                    Endings (<basic-link external-destination="http://github.com/projectEndings/Endings" text-decoration="underline">link</basic-link>)
+            
                 </inline>
             </block>
             
@@ -81,15 +82,17 @@
             <block>Junior Programmer/Consultant</block>
             <block>
                 <inline font-style="italic">
-                    <basic-link external-destination="http://mapoflondon.uvic.ca">The Map of Early Modern London</basic-link>
+                    The Map of Early Modern London (<basic-link external-destination="http://mapoflondon.uvic.ca" text-decoration="underline">link</basic-link>)
+            
                 </inline>
             </block>
             
             
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2015–Dec 2017</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Assistant to the Coordinating Editor</block>
-            <block><inline font-style="italic">Scene Performance Journal</inline>, <inline font-style="italic"><basic-link external-destination="http://ise.uvic.ca">The Internet Shakespeare
-                Editions</basic-link></inline></block>
+            <block><inline font-style="italic">Scene Performance Journal</inline>, <inline font-style="italic">The Internet Shakespeare
+                Editions (<basic-link external-destination="http://ise.uvic.ca" text-decoration="underline">link</basic-link>)
+            </inline></block>
             
             
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Feb–May 2016</inline></block></table-cell></table-row><table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
@@ -101,7 +104,8 @@
             <block>Research Assistant</block>
             <block>
                 <inline font-style="italic">
-                    <basic-link external-destination="http://ise.uvic.ca">The Internet Shakespeare Editions</basic-link>
+                    The Internet Shakespeare Editions (<basic-link external-destination="http://ise.uvic.ca" text-decoration="underline">link</basic-link>)
+            
                 </inline>
             </block>
             
