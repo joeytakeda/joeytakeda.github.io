@@ -86,7 +86,7 @@
         <head>Research Experience</head>
         <job from="2018-01">
             <job_title>Programmer</job_title>
-            <workplace><title level="m">The Map of Early Modern London</title></workplace>
+            <workplace><!--<title level="m">-->The Map of Early Modern London<!--</title>--></workplace>
         </job>
  <!--       <job from="2017-09">
             <job_title>Programmer/Research Assistant</job_title>
@@ -110,9 +110,9 @@
         <job from="2016-05">
             <job_title>Junior Programmer/Research Assistant</job_title>
             <workplace>
-                <title level="m">
+                <!--<title level="m">-->
                     <ref target="http://github.com/projectEndings/Endings">Endings</ref>
-                </title>
+                <!--</title>-->
             </workplace>
             <supervisor>Martin Holmes</supervisor>
             <desc>Using four digital humanities projects as case studies, the Endings partnership
@@ -123,9 +123,9 @@
         <job from="2015-05" to="2017-12">
             <job_title>Junior Programmer/Consultant</job_title>
             <workplace>
-                <title level="m">
+                <!--<title level="m">-->
                     <ref target="http://mapoflondon.uvic.ca">The Map of Early Modern London</ref>
-                </title>
+                <!--</title>-->
             </workplace>
             <supervisor>Martin Holmes and Dr. Janelle Jenstad</supervisor>
             <desc>My work at the <title level="m">The Map of Early Modern London</title> involved
@@ -134,9 +134,9 @@
         </job>
         <job from="2016-02" to="2016-05">
             <job_title>Assistant to the Coordinating Editor</job_title>
-            <workplace><title level="m">Scene Performance Journal</title>, <title level="m"><ref
+            <workplace><!--<title level="m">-->Scene Performance Journal<!--</title>-->, <!--<title level="m">--><ref
                         target="http://ise.uvic.ca">The Internet Shakespeare
-                Editions</ref></title></workplace>
+                Editions</ref><!--</title>--></workplace>
             <supervisor>Dr. Janelle Jenstad</supervisor>
             <desc>Reporting to the Coordinating Editor, I liased with contributors, copy-edited
                 reviews of performances of Shakespeare, and worked with XWiki and B2Evo blogging
@@ -144,16 +144,16 @@
         </job>
         <job from="2014-05" to="2017-12">
             <job_title>Research Assistant</job_title>
-            <workplace><title level="m">The Map of Early Modern London</title></workplace>
+            <workplace><!--<title level="m">-->The Map of Early Modern London<!--</title>--></workplace>
             <supervisor>Dr. Janelle Jenstad</supervisor>
             <desc><!--Add stuff here--></desc>
         </job>
         <job from="2014-08" to="2016-02">
             <job_title>Research Assistant</job_title>
             <workplace>
-                <title level="m">
+                <!--<title level="m">-->
                     <ref target="http://ise.uvic.ca">The Internet Shakespeare Editions</ref>
-                </title>
+                <!--</title>-->
             </workplace>
             <supervisor>Dr. Michael Best</supervisor>
             <desc>At the ISE, I worked added to and correct the ISE's performance database,
@@ -164,7 +164,7 @@
         <job from="2015-01" to="2015-04">
             <job_title>Encoder</job_title>
             <workplace>
-                <title level="m">The Map of Dostoevsky's St. Petersburg</title>
+                <!--<title level="m">-->The Map of Dostoevsky's St. Petersburg<!--</title>-->
             </workplace>
             <supervisor>Dr. Megan Swift and Martin Holmes</supervisor>
         </job>
