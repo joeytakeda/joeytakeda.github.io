@@ -86,14 +86,14 @@
         <head>Research Experience</head>
         <job from="2018-01">
             <job_title>Programmer</job_title>
-            <workplace>The Map of Early Modern London</workplace>
+            <workplace><title level="m">The Map of Early Modern London</title></workplace>
         </job>
-        <job from="2017-09">
+ <!--       <job from="2017-09">
             <job_title>Programmer/Research Assistant</job_title>
-            <workplace>University of Victoria</workplace>
+            <workplace>University of Victoria Libraries and The Map of Early Modern London</workplace>
             <supervisor>Lisa Goddard</supervisor>
             <desc>In collaboration with the Endings project, I worked as a researcher and programmer to help convert TEI encoded data into Linked Open Data (LOD). I investigated various ontologies and vocabularies, linked open data standards, and conversion/storage tools in order to facilitate creating linked open data from TEI encoding.</desc>
-        </job>
+        </job>-->
         <job from="2017-05">
             <job_title>Programmer</job_title>
             <workplace>Stratford Festival Promptbook Protocol</workplace>
