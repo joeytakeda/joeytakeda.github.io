@@ -8,7 +8,7 @@
             <title>Joseph Takeda's CV</title>
          </titleStmt>
          <publicationStmt>
-            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2018-03-11.</p>
+            <p>Published on <ref target="http://joeytakeda.github.io">joeytakeda.github.io</ref>. Last generated 2018-04-09.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital; source: <ref target="../xml/CV.xml">CV.xml</ref>
@@ -118,15 +118,19 @@
                      <list>
         
                         <item>
-                           <p>Programmer/Research Assistant at University of Victoria.Supervised by Lisa Goddard. (<date from="2017-09" to="2018-03-11">2017-09 to present.
+                           <p>Programmer at The Map of Early Modern London. (<date from="2018-01" to="2018-04-09">2018-01 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Programmer at Stratford Festival Promptbook Protocol The Stratford Festival Online.Supervised by Dr. Jennifer Roberts-Smith. (<date from="2017-05" to="2018-03-11">2017-05 to present.
+                           <p>Programmer/Research Assistant at University of Victoria.Supervised by Lisa Goddard. (<date from="2017-09" to="2018-04-09">2017-09 to present.
                 </date>)</p>
                         </item>
                         <item>
-                           <p>Programmer at The Internet Shakespeare Editions.Supervised by Dr. Janelle Jenstad. (<date from="2017-05" to="2018-03-11">2017-05 to present.
+                           <p>Programmer at Stratford Festival Promptbook Protocol The Stratford Festival Online.Supervised by Dr. Jennifer Roberts-Smith. (<date from="2017-05" to="2018-04-09">2017-05 to present.
+                </date>)</p>
+                        </item>
+                        <item>
+                           <p>Programmer at The Internet Shakespeare Editions.Supervised by Dr. Janelle Jenstad. (<date from="2017-05" to="2018-04-09">2017-05 to present.
                 </date>)</p>
                         </item>
                         <item>
@@ -134,7 +138,7 @@
                 
                     Endings
                 
-            .Supervised by Martin Holmes. (<date from="2016-05" to="2018-03-11">2016-05 to present.
+            .Supervised by Martin Holmes. (<date from="2016-05" to="2018-04-09">2016-05 to present.
                 </date>)</p>
                         </item>
                         <item>
@@ -142,12 +146,14 @@
                 
                     The Map of Early Modern London
                 
-            .Supervised by Martin Holmes and Dr. Janelle Jenstad. (<date from="2015-05" to="2018-03-11">2015-05 to present.
-                </date>)</p>
+            .Supervised by Martin Holmes and Dr. Janelle Jenstad. (<date from="2015-05" to="2017-12">2015-05-2017-12</date>)</p>
                         </item>
                         <item>
                            <p>Assistant to the Coordinating Editor at Scene Performance Journal, The Internet Shakespeare
                 Editions.Supervised by Dr. Janelle Jenstad. (<date from="2016-02" to="2016-05">2016-02-2016-05</date>)</p>
+                        </item>
+                        <item>
+                           <p>Research Assistant at The Map of Early Modern London.Supervised by Dr. Janelle Jenstad. (<date from="2014-05" to="2017-12">2014-05-2017-12</date>)</p>
                         </item>
                         <item>
                            <p>Research Assistant at 

@@ -84,6 +84,10 @@
     </teaching>
     <employment>
         <head>Research Experience</head>
+        <job from="2018-01">
+            <job_title>Programmer</job_title>
+            <workplace>The Map of Early Modern London</workplace>
+        </job>
         <job from="2017-09">
             <job_title>Programmer/Research Assistant</job_title>
             <workplace>University of Victoria</workplace>
@@ -116,7 +120,7 @@
                 digital projects. At Endings, I developed tools and workflows for producing
                 archivable, static projects from long-running projects.</desc>
         </job>
-        <job from="2015-05">
+        <job from="2015-05" to="2017-12">
             <job_title>Junior Programmer/Consultant</job_title>
             <workplace>
                 <title level="m">
@@ -137,6 +141,12 @@
             <desc>Reporting to the Coordinating Editor, I liased with contributors, copy-edited
                 reviews of performances of Shakespeare, and worked with XWiki and B2Evo blogging
                 platforms.</desc>
+        </job>
+        <job from="2014-05" to="2017-12">
+            <job_title>Research Assistant</job_title>
+            <workplace><title level="m">The Map of Early Modern London</title></workplace>
+            <supervisor>Dr. Janelle Jenstad</supervisor>
+            <desc><!--Add stuff here--></desc>
         </job>
         <job from="2014-08" to="2016-02">
             <job_title>Research Assistant</job_title>
