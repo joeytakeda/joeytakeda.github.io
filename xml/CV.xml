@@ -142,11 +142,12 @@
                 reviews of performances of Shakespeare, and worked with XWiki and B2Evo blogging
                 platforms.</desc>
         </job>
-        <job from="2014-05" to="2017-12">
-            <job_title>Research Assistant</job_title>
-            <workplace><!--<title level="m">-->The Map of Early Modern London<!--</title>--></workplace>
-            <supervisor>Dr. Janelle Jenstad</supervisor>
-            <desc><!--Add stuff here--></desc>
+        <job from="2015-01" to="2015-04">
+            <job_title>Encoder</job_title>
+            <workplace>
+                <!--<title level="m">-->The Map of Dostoevsky's St. Petersburg<!--</title>-->
+            </workplace>
+            <supervisor>Dr. Megan Swift and Martin Holmes</supervisor>
         </job>
         <job from="2014-08" to="2016-02">
             <job_title>Research Assistant</job_title>
@@ -161,13 +162,13 @@
                 and assisted with proofing for editions of <title level="m">Hamlet</title>, <title
                     level="m">Twelfth Night</title>, and <title level="m">King Lear</title>. </desc>
         </job>
-        <job from="2015-01" to="2015-04">
-            <job_title>Encoder</job_title>
-            <workplace>
-                <!--<title level="m">-->The Map of Dostoevsky's St. Petersburg<!--</title>-->
-            </workplace>
-            <supervisor>Dr. Megan Swift and Martin Holmes</supervisor>
+        <job from="2014-05" to="2017-12">
+            <job_title>Research Assistant</job_title>
+            <workplace><!--<title level="m">-->The Map of Early Modern London<!--</title>--></workplace>
+            <supervisor>Dr. Janelle Jenstad</supervisor>
+            <desc><!--Add stuff here--></desc>
         </job>
+        
     </employment>
     <service>
         <head>Service</head>
