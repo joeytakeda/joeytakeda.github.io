@@ -48,8 +48,8 @@
                   <p>Awards received:
             <list xml:id="CV_awards">
         
-                        <item>Department of English Medal of Excellence (<date when="2016">2016</date>)</item>
-                        <item>SSHRC CGS-M (UBC)  (<date when="2016">2016</date>)</item>
+                        <item>Social Science and Humanities Research Grant (Masters) (<date when="2016">2016</date>)</item>
+                        <item>University of Victoria Department of English Medal of Excellence (<date when="2016">2016</date>)</item>
                         <item>Frank Hori Foundation Scholarship (<date when="2015">2015</date>)</item>
                         <item>Allardice Lancaster Scholarship (<date when="2015">2015</date>)</item>
                         <item>Jamie Cassels Undergraduate Research Award (<date when="2015">2015</date>)</item>
@@ -67,7 +67,7 @@
                <listBibl xml:id="CV_publications">
         
                   <bibl>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the
-            RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press. Peer reviewed. Forthcoming. Expected publication: January, 2018.</bibl>
+            RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85.</bibl>
 
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "The MoEML Finding Aid to the Bills of  Mortality." <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</bibl>
