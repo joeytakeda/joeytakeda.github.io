@@ -4,6 +4,7 @@
 <cv xmlns="http://github.com/joeytakeda/cv/ns">
     <name id="me">Joseph Takeda</name>
     <email>joey.takeda@gmail.com</email>
+    <website>joeytakeda.github.io</website>
     <education>
         <head>Education</head>
         <degree from="2016">
