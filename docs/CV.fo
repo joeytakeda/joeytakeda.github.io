@@ -1,231 +1,223 @@
-<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:cv="http://github.com/joeytakeda/cv/ns" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>'s Curriculum Vitae</dc:title><dc:creator/><dc:description>CV</dc:description><dc:date>2018-09-08</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
-    Joseph Takeda
-    joey.takeda@gmail.com
+<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:cv="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joseph Takeda's Curriculum Vitae</dc:title><dc:creator>Joseph Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2018-09-08</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
+    <block font-size="26pt" font-weight="600">Joseph Takeda</block>
+    <block font-size="10pt"><basic-link external-destination="mailto:joey.takeda@gmail.com">joey.takeda@gmail.com</basic-link></block><block padding="1em 0 0 0"/>
     joeytakeda.github.io
-    
-        Education
-        
-            
-            Masters of Arts
-            English (Science and Technology Research Stream)
-            University of British Columbia, Vancouver, British Columbia
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">EDUCATION</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Masters of Arts</block>
+            <block>English (Science and Technology Research Stream)</block>
+            <block>University of British Columbia, Vancouver, British Columbia</block>
 
-        
-        
-            Bachelor of Arts (Honours with distinction)
-            English and Women's Studies (minor)
-            University of Victoria, Victoria, British Columbia
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–present</inline></block></table-cell></table-row>
+        <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            <block>Bachelor of Arts (Honours with distinction)</block>
+            <block>English and Women's Studies (minor)</block>
+            <block>University of Victoria, Victoria, British Columbia</block>
 
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012–2016</inline></block></table-cell></table-row>
+        </table-body></table>
+    </block>
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">AWARDS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+       <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Social Science and Humanities Research Grant (Masters)</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">University of Victoria Department of English Medal of Excellence</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Allardice Lancaster Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Jamie Cassels Undergraduate Research Award</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Purves-Cordonier Prize</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Grant McOrmond Scholarship in English</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">John Peter Memorial Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">University of Victoria Excellence Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Come to Campus Grant</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Passport to Education</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
+           <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Dogwood Bursary</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
+       </table-body></table>
         
-    
-    
-        Awards
-       
-           Social Science and Humanities Research Grant (Masters)
-           University of Victoria Department of English Medal of Excellence
-           Frank Hori Foundation Scholarship
-           Allardice Lancaster Scholarship
-           Jamie Cassels Undergraduate Research Award
-           Purves-Cordonier Prize
-           Frank Hori Foundation Scholarship
-           Grant McOrmond Scholarship in English
-           John Peter Memorial Scholarship
-           University of Victoria Excellence Scholarship
-           Come to Campus Grant
-           Passport to Education
-           Dogwood Bursary
-       
-        
-    
-    
-        Publications
-        
-            Jenstad, Janelle, and Joseph Takeda (50%). "Making the
-                RA Matter: Pedagogy, Interface, and Practices." Making Things and Drawing Boundaries: Experiments in the Digital Humanities. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85.
+    </block>
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">PUBLICATIONS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, and <inline font-weight="600">Joseph Takeda</inline> (50%). "Making the
+                RA Matter: Pedagogy, Interface, and Practices." <inline font-style="italic">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</inline>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85.</block>
             
-            Takeda, Joseph. "The MoEML Finding Aid to the Bills of  Mortality." The Map of Early Modern London. Ed. Janelle Jenstad. University of Victoria. Forthcoming.
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "The MoEML Finding Aid to the Bills of  Mortality." <inline font-style="italic">The Map of Early Modern London</inline>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</block>
             
-            Project documentation and numerous encyclopedia articles on London places
-                authored, co-authored, and edited for The Map of Early Modern London, including: "Barbican," and "Wood Street." For a full list of my contributions to MoEML, see http://mapoflondon.uvic.ca/TAKE1.htm.
-        
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Project documentation and numerous encyclopedia articles on London places
+                authored, co-authored, and edited for <inline font-style="italic">The Map of Early Modern London</inline>, including: "<basic-link external-destination="http://mapoflondon.uvic.ca/BARB2.htm" text-decoration="underline">Barbican</basic-link>," and "<basic-link external-destination="http://mapoflondon.uvic.ca/WOOD1.htm" text-decoration="underline">Wood Street</basic-link>." For a full list of my contributions to MoEML, see <basic-link external-destination="http://mapoflondon.uvic.ca/TAKE1.htm" text-decoration="underline">http://mapoflondon.uvic.ca/TAKE1.htm</basic-link>.</block>
+        </block>
         
 
+    </block>
     
-    
-    
-        Conference Presentations
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">CONFERENCE PRESENTATIONS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline> (invited). "Ending Your Digital Humanities Project from the Start." Pixelating DH Mixer and Workshop. University of British Columbia. June 28, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "'Depth and width between the surface': Reading Vertical Mobility in François Mandeville's 'How Copper Was Discovered' and Marie Clements’ <inline font-style="italic">Burning Vision</inline>." Endnotes 2018 conference. University of British Columbia. May 05, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</block>
+            
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joseph Takeda</inline> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." Digital Humanities 2017 conference. McGill University. August 11, 2017. <basic-link external-destination="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf" text-decoration="underline">PDF</basic-link>. <basic-link external-destination="https://github.com/projectEndings/diagnostics" text-decoration="underline">Repository</basic-link>.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joseph Takeda</inline> (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities 2017
+                conference. McGill University. August 9, 2017. <basic-link external-destination="http://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf" text-decoration="underline">PDF</basic-link>.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "The Fragility of Reconciliation: Reading <inline font-style="italic">The Book of Jessica</inline>." CSPT Graduate conference. University of Victoria. May 05, 2017.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway's <inline font-style="italic">Transparent</inline>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joseph Takeda</inline> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</block>
+        </block>
         
-            Takeda, Joseph (invited). "Ending Your Digital Humanities Project from the Start." Pixelating DH Mixer and Workshop. University of British Columbia. June 28, 2018.
-            Takeda, Joseph. "'Depth and width between the surface': Reading Vertical Mobility in François Mandeville's 'How Copper Was Discovered' and Marie Clements’ Burning Vision." Endnotes 2018 conference. University of British Columbia. May 05, 2018.
-            Takeda, Joseph. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.
-            
-            Holmes, Martin, and Joseph Takeda (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." Digital Humanities 2017 conference. McGill University. August 11, 2017. PDF. Repository.
-            Jenstad, Janelle, Tye Landels-Gruenewald, and Joseph Takeda (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities 2017
-                conference. McGill University. August 9, 2017. PDF.
-            Takeda, Joseph. "The Fragility of Reconciliation: Reading The Book of Jessica." CSPT Graduate conference. University of Victoria. May 05, 2017.
-            Takeda, Joseph. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway's Transparent." Qualicum History conference. Parksville, British Columbia. January 28, 2017.
-            Jenstad, Janelle, Tye Landels-Gruenewald, and Joseph Takeda (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.
-        
-        
-    
-    
-        Teaching
-        
-            
-                Teaching Assistant
-                ENGL110: Introduction to Media Studies
-                Dr. Richard Cavell
-            
-            
-                Teaching Assistant
-                ENGL110: Indigenous and Multicultural Literature in Canada
-                Dr. Lorraine Weir
-            
-            
-                Co-instructor
-                Introduction to TEI Projects Workshop
-                An all-day workshop co-taught with Janelle Jenstad for the TEI 2017 conference at the University of Victoria.
-            
-            
-                Instructor
-                XPath Workshop
-            
-            
-                Guest Lecturer
-                ENGL 362, "Popular Literature in the Renaissance"
-            
-            
-                Guest Lecturer
-                SLST 481, "Existence and Anxiety in Dostoevsky"
+    </block>
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">TEACHING</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Teaching Assistant</block>
+                <block>ENGL110: Introduction to Media Studies</block>
                 
-            
-        
-        
-    
-    
-        Employment
-        
-            
-                Programmer
-                Linked Early Modern Drama Online
-            
-            
-                Programmer
-                The Map of Early Modern London
-            
-            
-            
-                Programmer
-                Stratford Festival Promptbook Protocol
-                The Stratford Festival Online
-                Dr. Jennifer Roberts-Smith
-                I worked as the main programmer for this project and helped with creating customized TEI-XML schemas and setting up the XML repository for the project.
-            
-            
-                Programmer
-                The Internet Shakespeare Editions
-                Dr. Janelle Jenstad
-                At The Internet Shakespeare Editions, I helped in testing and writing conversions from a custom markup language to TEI-XML. I also developed workflow packages and tools to help in expedite scholarly encoding practices.
-            
-            
-                Junior Programmer/Research Assistant
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept–Dec 2018</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Teaching Assistant</block>
+                <block>ENGL110: Indigenous and Multicultural Literature in Canada</block>
                 
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept–Dec 2017</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Co-instructor</block>
+                <block>Introduction to TEI Projects Workshop</block>
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Nov 11, 2017</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Instructor</block>
+                <block>XPath Workshop</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Feb 24, 2016</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Guest Lecturer</block>
+                <block>ENGL 362, "Popular Literature in the Renaissance"</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Feb 03, 2016</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Guest Lecturer</block>
+                <block>SLST 481, "Existence and Anxiety in Dostoevsky"</block>
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 29, 2015</inline></block></table-cell></table-row>
+        </table-body></table>
+        
+    </block>
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">EMPLOYMENT</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Programmer</block>
+                <block>Linked Early Modern Drama Online</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2018–present</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Programmer</block>
+                <block>The Map of Early Modern London</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2018–present</inline></block></table-cell></table-row>
+            
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Programmer</block>
+                <block>Stratford Festival Promptbook Protocol</block>
+                <block>The Stratford Festival Online</block>
+                
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2017–present</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Programmer</block>
+                <block>The Internet Shakespeare Editions</block>
+                
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May–Dec 2017</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Junior Programmer/Research Assistant</block>
+                <block>
                     
                     Endings
                     
+                </block>
                 
-                Martin Holmes
-                Using four digital humanities projects as case studies, the Endings partnership
-                    project attempts to develop workflows and best practices for finishing and archiving
-                    digital projects. At Endings, I developed tools and workflows for producing
-                    archivable, static projects from long-running projects.
-            
-            
-                Junior Programmer/Consultant
                 
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2016–May 2018</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Junior Programmer/Consultant</block>
+                <block>
                     
                     The Map of Early Modern London
                     
+                </block>
                 
-                Martin Holmes and Dr. Janelle Jenstad
-                My work at the The Map of Early Modern London involved
-                    working in a variety of programming language and dialects (mostly XML based) to
-                    maintain the TEI-XML run website. 
-            
-            
-                Assistant to the Coordinating Editor
-                Scene Performance Journal, The Internet Shakespeare
-                    Editions
-                Dr. Janelle Jenstad
-                Reporting to the Coordinating Editor, I liased with contributors, copy-edited
-                    reviews of performances of Shakespeare, and worked with XWiki and B2Evo blogging
-                    platforms.
-            
-            
-                Encoder
                 
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2015–Dec 2017</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Assistant to the Coordinating Editor</block>
+                <block>Scene Performance Journal, The Internet Shakespeare
+                    Editions</block>
+                
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Feb–May 2016</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Encoder</block>
+                <block>
                     The Map of Dostoevsky's St. Petersburg
+                </block>
                 
-                Dr. Megan Swift and Martin Holmes
-            
-            
-                Research Assistant
-                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan–Apr 2015</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Research Assistant</block>
+                <block>
                     
                     The Internet Shakespeare Editions
                     
+                </block>
                 
-                Dr. Michael Best
-                At the ISE, I worked added to and correct the ISE's performance database,
-                    developed and maintained metadata (both a specialized vocabular and Dublin Core),
-                    and assisted with proofing for editions of Hamlet, Twelfth Night, and King Lear. 
-            
-            
-                Research Assistant
-                The Map of Early Modern London
-                Dr. Janelle Jenstad
                 
-            
-        
-        
-        
-    
-    
-        Service
-        
-            
-                Communications Coordinator
-                UBC English Graduate Caucus
-            
-            
-                Co-organizer
-                Endnotes Graduate Conference
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Aug 2014–Feb 2016</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Research Assistant</block>
+                <block>The Map of Early Modern London</block>
                 
-            
-            
-                Editor-in-chief
-                The Albatross English Undergraduate Journal
                 
-            
-            
-                Executive Editor
-                The Warren Undergraduate Review                
-            
-            
-                Vice-President of Academic Affairs
-                English Students' Association
-                
-            
-            
-                Criticism Editor
-                The Warren Undergraduate Review
-                
-            
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2014–Dec 2017</inline></block></table-cell></table-row>
+        </table-body></table>
         
         
-    
-    
-        References
+    </block>
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">SERVICE</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Communications Coordinator</block>
+                <block>UBC English Graduate Caucus</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2017–Sept 2018</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Co-organizer</block>
+                <block>Endnotes Graduate Conference</block>
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2016–June 2017</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Editor-in-chief</block>
+                <block>The Albatross English Undergraduate Journal</block>
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2015–June 2016</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Executive Editor</block>
+                <block>The Warren Undergraduate Review</block>                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2015–June 2016</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Vice-President of Academic Affairs</block>
+                <block>English Students' Association</block>
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2014–June 2015</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Criticism Editor</block>
+                <block>The Warren Undergraduate Review</block>
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2014–June 2015</inline></block></table-cell></table-row>
+        </table-body></table>
         
-    
+    </block>
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">REFERENCES</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <block>References available upon request.</block>
+    </block>
 </flow></page-sequence></root>

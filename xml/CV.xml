@@ -19,7 +19,8 @@
             <discipline>English and Women's Studies (minor)</discipline>
             <institution>University of Victoria, Victoria, British Columbia</institution>
 
-        </degree></listDegrees>
+        </degree>
+        </listDegrees>
     </section>
     <section type="awards">
         <head>Awards</head>
@@ -236,6 +237,8 @@
     </section>
     <section type="references">
         <head>References</head>
-        <!--Not available through GitHub repo. Please contact me if you would like to see full references.-->
+        <listReferences>
+            <!--Not available through GitHub repo. Please contact me if you would like to see full references.-->
+        </listReferences>
     </section>
 </cv>
