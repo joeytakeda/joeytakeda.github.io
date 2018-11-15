@@ -8,7 +8,7 @@
             <title>Joseph Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2018-09-08.</p>
+            <p> Last generated 2018-11-15.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -75,8 +75,6 @@
                <listBibl>
                   <head>Conference Presentations</head>
                   <bibl>
-                     <ref target="#me">Takeda, Joseph</ref> (invited). "Ending Your Digital Humanities Project from the Start." Pixelating DH Mixer and Workshop. University of British Columbia. June 28, 2018.</bibl>
-                  <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "'Depth and width between the surface': Reading Vertical Mobility in François Mandeville's 'How Copper Was Discovered' and Marie Clements’ <title level="m">Burning Vision</title>." Endnotes 2018 conference. University of British Columbia. May 05, 2018.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</bibl>
@@ -93,18 +91,28 @@
         
     
         
+               <listBibl>
+                  <head>Workshops</head>
+                  <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "So I Want To Use the TEI . . . Now What?" Pixelating DH Mixer and Workshop. Part 2 of 2. 1 hour. University of British Columbia. October 25, 2018.</bibl>
+                  <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "What is the TEI and Why Should I Care?" Pixelating DH Mixer and Workshop. Part 1 of 2. 1 hour. University of British Columbia. September 20, 2018.</bibl>
+                  <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "Ending Your Digital Humanities Project from the Start." Pixelating DH Mixer and Workshop. 1 hour. University of British Columbia. June 28, 2018.</bibl>
+                  <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "Introduction to XPath." 4 hours. University of Victoria. June 21, 2018.</bibl>
+                  <bibl>Jenstad, Janelle and <ref target="#me">Joseph Takeda</ref> (co-instructor). "Introduction to TEI Projects Workshop." TEI 2017 conference. 8 hours. University of Victoria. November 11, 2017.</bibl>
+                  <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "Introduction to XPath." 4 hours. University of Victoria. February 24, 2016.</bibl>
+               </listBibl>
+    
+        
         
                <occupation type="paid" from="2018-09" to="2018-12">
                   <p>Teaching Assistant for ENGL110: Introduction to Media Studies.</p>
                </occupation>
                <occupation type="paid" from="2017-09" to="2017-12">
                   <p>Teaching Assistant for ENGL110: Indigenous and Multicultural Literature in Canada.</p>
-               </occupation>
-               <occupation type="paid" when="2017-11-11">
-                  <p>Co-instructor for Introduction to TEI Projects Workshop.</p>
-               </occupation>
-               <occupation type="paid" when="2016-02-24">
-                  <p>Instructor for XPath Workshop.</p>
                </occupation>
                <occupation type="paid" when="2016-02-03">
                   <p>Guest Lecturer for ENGL 362, "Popular Literature in the Renaissance".</p>
@@ -154,6 +162,12 @@
     
         
         
+               <occupation type="unpaid" from="2018-09" to="2019-09">
+                  <p>Union Representative at UBC English Graduate Caucus.</p>
+               </occupation>
+               <occupation type="unpaid" from="2018-09" to="2019-09">
+                  <p>Member, Works in Progress Committee at UBC English Graduate Caucus.</p>
+               </occupation>
                <occupation type="unpaid" from="2017-09" to="2018-09">
                   <p>Communications Coordinator at UBC English Graduate Caucus.</p>
                </occupation>

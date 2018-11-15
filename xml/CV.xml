@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/Users/joeytakeda/git/cv/schema/out/CV.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="file:/Users/joeytakeda/git/cv/schema/out/CV.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <cv xmlns="http://joeytakeda.github.io/ns/">
     <name xml:id="me">Joseph Takeda</name>
     <email>joey.takeda@gmail.com</email>
@@ -59,7 +59,6 @@
     <section type="conferences">
         <head>Conference Presentations</head>
         <listConferences>
-            <conference><ref target="#me">Takeda, Joseph</ref> (invited). "Ending Your Digital Humanities Project from the Start." Pixelating DH Mixer and Workshop. University of British Columbia. June 28, 2018.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "'Depth and width between the surface': Reading Vertical Mobility in François Mandeville's 'How Copper Was Discovered' and Marie Clements’ <title level="m">Burning Vision</title>." Endnotes 2018 conference. University of British Columbia. May 05, 2018.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</conference>
             <!--  <conference>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). Instructors. "Introduction to TEI Projects" Workshop. TEI 2017. University of Victoria. November 11, 2017. <ref target="http://github.com/joeytakeda/tei17_workshop">Repository</ref>.</conference>-->
@@ -72,6 +71,19 @@
         </listConferences>
         
     </section>
+    
+    <section type="workshops">
+        <head>Workshops</head>
+        <listConferences>
+            <conference><ref target="#me">Takeda, Joseph</ref>. "So I Want To Use the TEI . . . Now What?" Pixelating DH Mixer and Workshop. Part 2 of 2. 1 hour. University of British Columbia. October 25, 2018.</conference>
+            <conference><ref target="#me">Takeda, Joseph</ref>. "What is the TEI and Why Should I Care?" Pixelating DH Mixer and Workshop. Part 1 of 2. 1 hour. University of British Columbia. September 20, 2018.</conference>
+            <conference><ref target="#me">Takeda, Joseph</ref>. "Ending Your Digital Humanities Project from the Start." Pixelating DH Mixer and Workshop. 1 hour. University of British Columbia. June 28, 2018.</conference>
+            <conference><ref target="#me">Takeda, Joseph</ref>. "Introduction to XPath." 4 hours. University of Victoria. June 21, 2018.</conference>
+            <conference>Jenstad, Janelle and <ref target="#me">Joseph Takeda</ref> (co-instructor). "Introduction to TEI Projects Workshop." TEI 2017 conference. 8 hours. University of Victoria. November 11, 2017.</conference>
+            <conference><ref target="#me">Takeda, Joseph</ref>. "Introduction to XPath." 4 hours. University of Victoria. February 24, 2016.</conference>
+        </listConferences>
+    </section>
+    
     <section type="teaching">
         <head>Teaching</head>
         <listJobs>
@@ -84,15 +96,6 @@
                 <role>Teaching Assistant</role>
                 <class>ENGL110: Indigenous and Multicultural Literature in Canada</class>
                 <supervisor>Dr. Lorraine Weir</supervisor>
-            </job>
-            <job when="2017-11-11">
-                <role>Co-instructor</role>
-                <class>Introduction to TEI Projects Workshop</class>
-                <desc>An all-day workshop co-taught with Janelle Jenstad for the TEI 2017 conference at the University of Victoria.</desc>
-            </job>
-            <job when="2016-02-24">
-                <role>Instructor</role>
-                <class>XPath Workshop</class>
             </job>
             <job when="2016-02-03">
                 <role>Guest Lecturer</role>
@@ -204,6 +207,14 @@
     <section type="service">
         <head>Service</head>
         <listJobs>
+            <job from="2018-09" to="2019-09">
+                <job_title>Union Representative</job_title>
+                <workplace>UBC English Graduate Caucus</workplace>
+            </job>
+            <job from="2018-09" to="2019-09">
+                <job_title>Member, Works in Progress Committee</job_title>
+                <workplace>UBC English Graduate Caucus</workplace>
+            </job>
             <job from="2017-09" to="2018-09">
                 <job_title>Communications Coordinator</job_title>
                 <workplace>UBC English Graduate Caucus</workplace>
