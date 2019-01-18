@@ -209,11 +209,11 @@
         <head>Service</head>
         <listJobs>
             <job from="2018-09" to="2019-09">
-                <job_title>Union Representative</job_title>
+                <job_title>Member, Works in Progress Committee</job_title>
                 <workplace>UBC English Graduate Caucus</workplace>
             </job>
-            <job from="2018-09" to="2019-09">
-                <job_title>Member, Works in Progress Committee</job_title>
+            <job from="2018-09" to="2018-12">
+                <job_title>Union Representative</job_title>
                 <workplace>UBC English Graduate Caucus</workplace>
             </job>
             <job from="2017-09" to="2018-09">
@@ -223,7 +223,6 @@
             <job from="2016-09" to="2017-06">
                 <job_title>Co-organizer</job_title>
                 <workplace>Endnotes Graduate Conference</workplace>
-                
             </job>
             <job from="2015-09" to="2016-06">
                 <job_title>Editor-in-chief</job_title>
