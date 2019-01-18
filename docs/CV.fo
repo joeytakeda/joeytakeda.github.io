@@ -110,6 +110,7 @@
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">EMPLOYMENT</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+            
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Programmer</block>
                 <block>Linked Early Modern Drama Online</block>
@@ -117,7 +118,13 @@
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Programmer</block>
                 <block>The Map of Early Modern London</block>
+                
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2018–present</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Research Assistant</block>
+                <block>Winnifred Eaton Archive</block>
+                
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Dec 2018–present</inline></block></table-cell></table-row>
             
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Programmer</block>

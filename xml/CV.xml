@@ -113,6 +113,7 @@
     <section type="employment">
         <head>Employment</head>
         <listJobs>
+            
             <job from="2018-01">
                 <job_title>Programmer</job_title>
                 <workplace>Linked Early Modern Drama Online</workplace>
@@ -120,6 +121,12 @@
             <job from="2018-01">
                 <job_title>Programmer</job_title>
                 <workplace><!--<title level="m">-->The Map of Early Modern London<!--</title>--></workplace>
+                <supervisor>Dr. Janelle Jenstad</supervisor>
+            </job>
+            <job from="2018-12">
+                <job_title>Research Assistant</job_title>
+                <workplace>Winnifred Eaton Archive</workplace>
+                <supervisor>Dr. Mary Chapman</supervisor>
             </job>
             <!--       <job from="2017-09">
             <job_title>Programmer/Research Assistant</job_title>
