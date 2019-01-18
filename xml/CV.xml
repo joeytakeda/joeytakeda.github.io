@@ -8,7 +8,8 @@
     <section type="education">
         <head>Education</head>
         <listDegrees>
-            <degree from="2016">
+            <degree from="2016" to="2019">
+            <expected locus="@to"/>
             <name>Masters of Arts</name>
             <discipline>English (Science and Technology Research Stream)</discipline>
             <institution>University of British Columbia, Vancouver, British Columbia</institution>

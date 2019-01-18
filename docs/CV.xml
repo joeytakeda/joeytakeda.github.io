@@ -31,7 +31,7 @@
             <person sameAs="#me">
         
         
-               <education from="2016">Masters of Arts in English (Science and Technology Research Stream) at <placeName>University of British Columbia, Vancouver, British Columbia</placeName>.</education>
+               <education from="2016" to="2019">Masters of Arts in English (Science and Technology Research Stream) at <placeName>University of British Columbia, Vancouver, British Columbia</placeName>.</education>
                <education from="2012" to="2016">Bachelor of Arts (Honours with distinction) in English and Women's Studies (minor) at <placeName>University of Victoria, Victoria, British Columbia</placeName>.</education>
         
     

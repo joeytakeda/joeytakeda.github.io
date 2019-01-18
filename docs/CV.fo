@@ -6,11 +6,12 @@
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">EDUCATION</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+            
             <block>Masters of Arts</block>
             <block>English (Science and Technology Research Stream)</block>
             <block>University of British Columbia, Vancouver, British Columbia</block>
 
-        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–present</inline></block></table-cell></table-row>
+        </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016–2019<inline font-size="90%"> (expected)</inline></inline></block></table-cell></table-row>
         <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Bachelor of Arts (Honours with distinction)</block>
             <block>English and Women's Studies (minor)</block>
