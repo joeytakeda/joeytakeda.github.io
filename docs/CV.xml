@@ -8,7 +8,7 @@
             <title>Joseph Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2019-01-18.</p>
+            <p> Last generated 2019-02-08.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -54,17 +54,15 @@
                      <item>Dogwood Bursary (<date when="2012">2012</date>)</item>
                   </list>
                </note>
-        
     
         
                <listBibl>
                   <head>Publications</head>
                   <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." <title level="m">Digital Scholarship in the Humanities</title> (DSH). Forthcoming.</bibl>
-                  <bibl>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the
-                RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85.</bibl>
+                  <bibl>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85.</bibl>
             
                   <bibl>
-                     <ref target="#me">Takeda, Joseph</ref>. "The MoEML Finding Aid to the Bills of  Mortality." <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "The MoEML Finding Aid to the Bills of Mortality." <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</bibl>
             
                   <bibl>Project documentation and numerous encyclopedia articles on London places
                 authored, co-authored, and edited for <title level="m">The Map of Early Modern London</title>, including: "<ref target="http://mapoflondon.uvic.ca/BARB2.htm">Barbican</ref>," and "<ref target="http://mapoflondon.uvic.ca/WOOD1.htm">Wood Street</ref>." For a full list of my contributions to MoEML, see <ref target="http://mapoflondon.uvic.ca/TAKE1.htm">http://mapoflondon.uvic.ca/TAKE1.htm</ref>.</bibl>
@@ -75,19 +73,19 @@
         
                <listBibl>
                   <head>Conference Presentations</head>
+                  <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "Why Do I Need Four Search Engines?" Japanese Association for Digital Humanities Conference. Presented by Martin Holmes. <ref target="http://joeytakeda.github.io/pdf/JADH_2018.pdf">PDF</ref>.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "'Depth and width between the surface': Reading Vertical Mobility in François Mandeville's 'How Copper Was Discovered' and Marie Clements’ <title level="m">Burning Vision</title>." Endnotes 2018 conference. University of British Columbia. May 05, 2018.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</bibl>
-            
-                  <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." Digital Humanities 2017 conference. McGill University. August 11, 2017. <ref target="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.</bibl>
-                  <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "Mapping the STC with MoEML and DEEP." Digital Humanities 2017
+                  <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." Digital Humanities 2017 conference. McGill University. August 11, 2017. <ref target="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.</bibl>
+                  <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref>. "Mapping the STC with MoEML and DEEP." Digital Humanities 2017
                 conference. McGill University. August 9, 2017. <ref target="http://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf">PDF</ref>.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "The Fragility of Reconciliation: Reading <title level="m">The Book of Jessica</title>." CSPT Graduate conference. University of Victoria. May 05, 2017.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway's <title level="m">Transparent</title>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</bibl>
-                  <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref> (33%). "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</bibl>
+                  <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joseph Takeda</ref>. "How To Do Things with 6000 Toponyms." How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</bibl>
                </listBibl>
         
     
@@ -126,9 +124,11 @@
     
         
         
-            
                <occupation type="paid" from="2018-01">
                   <p>Programmer at Linked Early Modern Drama Online.</p>
+               </occupation>
+               <occupation type="paid" from="2018-01">
+                  <p>Programmer at The Landscapes of Injustice.</p>
                </occupation>
                <occupation type="paid" from="2018-01">
                   <p>Programmer at The Map of Early Modern London.</p>
