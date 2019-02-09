@@ -59,7 +59,7 @@
     <section type="conferences">
         <head>Conference Presentations</head>
         <listConferences>
-            <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "Why Do I Need Four Search Engines?" Japanese Association for Digital Humanities Conference. Presented by Martin Holmes. <ref target="http://joeytakeda.github.io/pdf/JADH_2018.pdf">PDF</ref>.</conference>
+            <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "Why Do I Need Four Search Engines?" Presented by Martin Holmes. Japanese Association for Digital Humanities conference. September 13, 2018. <ref target="http://joeytakeda.github.io/pdf/JADH_2018.pdf">PDF</ref>.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "'Depth and width between the surface': Reading Vertical Mobility in François Mandeville's 'How Copper Was Discovered' and Marie Clements’ <title level="m">Burning Vision</title>." Endnotes 2018 conference. University of British Columbia. May 05, 2018.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</conference>
             <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." Digital Humanities 2017 conference. McGill University. August 11, 2017. <ref target="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.</conference>
