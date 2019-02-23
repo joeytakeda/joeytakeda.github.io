@@ -8,7 +8,7 @@
             <title>Joseph Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2019-02-08.</p>
+            <p> Last generated 2019-02-23.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -128,10 +128,10 @@
                   <p>Programmer at Linked Early Modern Drama Online.</p>
                </occupation>
                <occupation type="paid" from="2018-01">
-                  <p>Programmer at The Landscapes of Injustice.</p>
-               </occupation>
-               <occupation type="paid" from="2018-01">
                   <p>Programmer at The Map of Early Modern London.</p>
+               </occupation>
+               <occupation type="paid" from="2018-12">
+                  <p>Programmer at The Landscapes of Injustice.</p>
                </occupation>
                <occupation type="paid" from="2018-12">
                   <p>Research Assistant at Winnifred Eaton Archive.</p>

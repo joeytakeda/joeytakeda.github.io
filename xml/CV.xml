@@ -118,12 +118,12 @@
             </job>
             <job from="2018-01">
                 <job_title>Programmer</job_title>
-                <workplace>The Landscapes of Injustice</workplace>
-            </job>
-            <job from="2018-01">
-                <job_title>Programmer</job_title>
                 <workplace><!--<title level="m">-->The Map of Early Modern London<!--</title>--></workplace>
                 <supervisor>Dr. Janelle Jenstad</supervisor>
+            </job>
+            <job from="2018-12">
+                <job_title>Programmer</job_title>
+                <workplace>The Landscapes of Injustice</workplace>
             </job>
             <job from="2018-12">
                 <job_title>Research Assistant</job_title>
