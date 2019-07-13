@@ -142,7 +142,10 @@
                <occupation type="paid" from="2018-12">
                   <p>Programmer at The Landscapes of Injustice.</p>
                </occupation>
-               <occupation type="paid" from="2018-12">
+               <occupation type="paid" from="2019-07">
+                  <p>Digital Humanities Consultant at The Public Humanities Hub, UBC.</p>
+               </occupation>
+               <occupation type="paid" from="2018-12" to="2019-08">
                   <p>Programmer at Winnifred Eaton Archive.</p>
                </occupation>
             

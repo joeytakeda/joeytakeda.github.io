@@ -130,7 +130,12 @@
                 <job_title>Programmer</job_title>
                 <workplace>The Landscapes of Injustice</workplace>
             </job>
-            <job from="2018-12">
+            <job from="2019-07">
+                <job_title>Digital Humanities Consultant</job_title>
+                <workplace>The Public Humanities Hub, UBC</workplace>
+                <supervisor>Dr. Mary Chapman</supervisor>
+            </job>
+            <job from="2018-12" to="2019-08">
                 <job_title>Programmer</job_title>
                 <workplace>Winnifred Eaton Archive</workplace>
                 <supervisor>Dr. Mary Chapman</supervisor>
