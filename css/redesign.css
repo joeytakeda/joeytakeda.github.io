@@ -202,7 +202,7 @@ h1{
     margin-bottom:.5rem;
     display:inline-block;
 }
-
+/*
 h1::after{
     content:"";
     display:block;
@@ -212,7 +212,7 @@ h1::after{
     margin-left:-10%;
     background: #908d8d;
     
-}
+}*/
 
 section{
     flex-wrap:wrap;
@@ -327,9 +327,7 @@ header .links{
    
 }
 
-h1:after{
-    content:none;
-}
+
 
 body{
   padding:0;
