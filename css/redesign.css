@@ -202,6 +202,8 @@ h1{
     padding-bottom:0rem;
     margin-bottom:.5rem;
     display:inline-block;
+    padding-left:.5rem;
+    padding-right:.5rem;
 }
 /*
 h1::after{
@@ -294,8 +296,8 @@ a:hover{
 
 .formats{
     position:absolute;
-    top:0;
-    left:0;
+    top:-.5rem;
+    left:-2rem;
     
 }
 
@@ -317,6 +319,9 @@ a:hover{
     border-left: 1px solid rgba(220, 220, 220, 0.7);
 }
 
+a{
+     word-break: break-word;
+}
 
 @media screen and (max-width: 800px){
 
@@ -359,7 +364,6 @@ section{
     padding-right:.5rem;
     margin:1rem;
 
-a{
-     word-break: break-word;
+
 }
 }
