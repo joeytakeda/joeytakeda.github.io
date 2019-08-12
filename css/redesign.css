@@ -151,7 +151,7 @@ header{
     background-image: linear-gradient(to bottom, rgba(255,255,255, 1), rgba(255, 255, 255, 0));
     width:100vw;
     margin-left:-1rem;
-    margin-top:2rem;
+    padding-top:2rem;
 }
 
 header .links{
@@ -238,6 +238,7 @@ section{
 .cv{
     display:flex;
     flex-direction:column;
+    font-size:110%;
 }
 
 .education{
@@ -259,6 +260,13 @@ section{
     flex: 1 0 auto;
 }
 
+.item.flex > date{
+    width:19%;
+}
+
+.item.flex > content{
+    width:79%;
+}
 
 .date{
     font-size:110%;
@@ -286,7 +294,6 @@ a, a:visited{
 }
 a:hover{
     color: #1a4779;
-    border-bottom: 1px solid #1a4779;
 
 }
 
@@ -314,10 +321,10 @@ a:hover{
 .formats li{
     padding:1rem;
 }
-
+/*
 .formats li + li {
     border-left: 1px solid rgba(220, 220, 220, 0.7);
-}
+}*/
 
 a{
      word-break: break-word;
