@@ -218,7 +218,7 @@ h1::after{
 section{
     flex-wrap:wrap;
     background-color:white;
-    padding:2rem 2rem 2rem 2rem;
+    padding:1rem 2rem;
     margin:2rem 2rem 2rem 2rem;
     box-shadow: -6px 6px 20px 0px #dcdcdc;
     border-radius:.5rem;
@@ -322,6 +322,7 @@ a:hover{
 
 h1{
     font-size:6rem;
+    margin-top:1rem;
 }
 
 header .links{
@@ -336,6 +337,7 @@ body{
 }
 .cv{
     font-size:100%;
+    margin-top:2rem;
 }
 
 .item.flex{
@@ -344,6 +346,7 @@ body{
 
 .item.flex > .content{
     padding-left:0;
+    padding-right:0;
     padding-top:.5rem;
 }
 
@@ -354,9 +357,7 @@ body{
 section{
     padding-left:1rem;
     padding-right:.5rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
+    margin:1rem;
 
 a{
      word-break: break-word;
