@@ -166,7 +166,7 @@ header .links{
     margin-left:-1rem;
 }
 
-.links > a + a{
+.links > span + span {
     padding-left:2rem;
 }
 
