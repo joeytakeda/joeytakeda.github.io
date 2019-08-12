@@ -154,7 +154,7 @@ header{
 }
 
 header .links{
-    font-size:140%;
+    font-size:1.4rem;
     
 }
 
@@ -235,7 +235,6 @@ section{
 .cv{
     display:flex;
     flex-direction:column;
-    font-size:110%;
 }
 
 .education{
