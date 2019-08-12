@@ -35,6 +35,7 @@
     
     <target name="all">
         <antcall target="createCv"/>
+        <antcall target="makeCvIndex"/>
         <antcall target="pushToGit"/>
     </target>
 </project>
