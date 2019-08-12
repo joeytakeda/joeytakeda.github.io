@@ -23,12 +23,7 @@
     <target name="makeCvIndex">
         <echo message="${echo.separator}"/>
         <echo message="Creating CV index page..."/>
-        <java classname="net.sf.saxon.Transform" classpath="utilities/saxon9he.jar">
-            <arg value="-s:scripts/make-index.xsl"/>
-            <arg value="-xsl:scripts/make-index.xsl"/> 
-            <arg value="date=${date}"/>
-            <arg value="--suppressXsltNamespaceCheck:on"/>
-        </java>
+        <copy file="docs/CV.html" tofile="index.html"/>
     </target>
     
     
@@ -40,7 +35,6 @@
     
     <target name="all">
         <antcall target="createCv"/>
-        <antcall target="makeCvIndex"/>
         <antcall target="pushToGit"/>
     </target>
 </project>

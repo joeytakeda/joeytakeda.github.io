@@ -1,0 +1,297 @@
+
+
+/* eb-garamond-regular - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Garamond Regular'), local('EBGaramond-Regular'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-italic - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Garamond Italic'), local('EBGaramond-Italic'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-500 - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Garamond Medium'), local('EBGaramond-Medium'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-500italic - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Garamond Medium Italic'), local('EBGaramond-MediumItalic'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-600 - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Garamond SemiBold'), local('EBGaramond-SemiBold'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-600italic - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Garamond SemiBold Italic'), local('EBGaramond-SemiBoldItalic'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-600italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-600italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-700 - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Garamond Bold'), local('EBGaramond-Bold'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-700italic - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Garamond Bold Italic'), local('EBGaramond-BoldItalic'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-800 - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Garamond ExtraBold'), local('EBGaramond-ExtraBold'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eb-garamond-800italic - latin */
+@font-face {
+  font-family: 'Garamond';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Garamond ExtraBold Italic'), local('EBGaramond-ExtraBoldItalic'),
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-800italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/eb-garamond-v11-latin/eb-garamond-v11-latin-800italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(iconfont/MaterialIcons-Regular.eot); /* For IE6-8 */
+  src: local('Material Icons'),
+    local('MaterialIcons-Regular'),
+    url(iconfont/MaterialIcons-Regular.woff2) format('woff2'),
+    url(iconfont/MaterialIcons-Regular.woff) format('woff'),
+    url(iconfont/MaterialIcons-Regular.ttf) format('truetype');
+}
+
+.mi {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+
+:root{
+    padding:0;
+    margin:0;
+   font-family: "Garamond";
+}
+
+body{
+    background-size: 4rem 4rem;
+    background-image: linear-gradient(to right, rgba(220, 220, 220, 0.3) 1px, rgba(220, 220, 220, 0) 1px), linear-gradient(to bottom, rgba(220, 220, 220, 0.3) 1px, rgba(220, 220, 220, 0) 1px);
+
+
+    line-height:1.4;
+    color:#111111;
+    padding:0 2rem;
+}
+
+header{
+    margin:0 auto;
+    text-align:center;
+    background-image: linear-gradient(to bottom, rgba(255,255,255, 1), rgba(255, 255, 255, 0));
+    width:100vw;
+    margin-left:-1rem;
+}
+
+header .links{
+    font-size:140%;
+    
+}
+
+.links{
+    margin:0 auto;
+}
+
+.links > a:first-child{
+    margin-left:-1rem;
+}
+
+.links > a + a{
+    padding-left:2rem;
+}
+
+.links a{
+    color: inherit;
+    border-bottom:none;
+}
+
+.links a[href^='mailto']::before{
+    content:"mail_outline";
+    font-family:"Material Icons";
+    top:100%;
+    position:relative;
+        padding-right:1rem;
+}
+
+.links a[href*="github.com"]::before{
+    content: "code";
+    font-family: "Material Icons";
+    top:100%;
+    position:relative;
+    padding-right:1rem;
+}
+
+.links a[href *='.pdf']{
+    content:"picture_as_pdf";
+    font-family: "Material Icons";
+        top:100%;
+    position:relative;
+    padding-right:1rem;
+}
+
+h1{
+    font-size:9rem;
+    margin-top:0;
+    padding-bottom:0rem;
+    margin-bottom:.5rem;
+    display:inline-block;
+}
+
+h1::after{
+    content:"";
+    display:block;
+    height:.2rem;
+    width:120%;
+    margin-top:.75rem;
+    margin-left:-10%;
+    background: #908d8d;
+    
+}
+
+section{
+    flex-wrap:wrap;
+    background-color:white;
+    padding:2rem 2rem 2rem 2rem;
+    margin:2rem 2rem 2rem 2rem;
+    box-shadow: -6px 6px 20px 0px #dcdcdc;
+    border-radius:.5rem;
+}
+
+
+.item{
+    padding:2rem;
+}
+
+.item + .item {
+    border-top: 1px solid rgba(220, 220, 220, 0.7);
+}
+
+.cv{
+    display:flex;
+    flex-direction:column;
+    font-size:110%;
+}
+
+.education{
+    order: -2;
+}
+
+.employment{
+    order:-1;
+}
+
+.cv section > h2{
+    width:100%;
+ 
+    display:inline-block;
+}
+.item.flex {
+    display:flex;
+    flex-direction:row;
+}
+
+.content{
+    padding-left: 3rem;
+}
+
+.date{
+    font-size:110%;
+    font-weight:bold;
+    flex: 0 1 10rem;
+}
+
+div.award{
+    width:20%;
+}
+
+.refToMe{
+    font-weight:bold;
+}
+
+a, a:visited{
+    color:inherit;
+    border-bottom:1px solid #ccc;
+    text-decoration:none;
+            transition:border-bottom 0.25s ease-in-out, color 0.25s ease-in-out;
+
+}
+
+a:hover{
+    color: #1a4779;
+    border-bottom: 1px solid #1a4779;
+
+}
+
+.title_m{
+    font-style:italic;
+}
+

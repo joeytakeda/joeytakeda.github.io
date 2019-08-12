@@ -2,9 +2,9 @@
 <?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <cv xmlns="http://joeytakeda.github.io/ns/">
-    <name xml:id="me">Joseph Takeda</name>
+    <name xml:id="me">Joey Takeda</name>
     <email>joey.takeda@gmail.com</email>
-    <website>joeytakeda.github.io</website>
+    <github>joeytakeda</github>
     <section type="education">
         <head>Education</head>
         <listDegrees>
@@ -46,7 +46,7 @@
         <listPublications>
             <publication>Roberts-Smith, Jennifer, Mark Kaethler, and Toby Malone with Liza Giffen, Martin Holmes, Janelle Jenstad, and <ref target="#me">Joseph Takeda</ref>. "Tagging Time and Space: TEI and the Canadian Stratford Festival Promptbooks." <title level="m">Digital Studies/le Champ Numérique</title>, volume 9, issue 1, 2019. DOI: <ref target="http://doi.org/10.16995/dscn.307">10.16995/dscn.307</ref>.</publication>
             <publication>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." <title level="m">Digital Scholarship in the Humanities</title> (DSH), 2019.</publication>
-            <publication>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85.</publication>
+            <publication>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85. <ref target="https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/97aabf63-0679-47e1-b3e4-5abca1dc5d9e#ch07">Open Access</ref>.</publication>
             
             <publication><ref target="#me">Takeda, Joseph</ref>. "The MoEML Finding Aid to the Bills of Mortality." <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</publication>
             
