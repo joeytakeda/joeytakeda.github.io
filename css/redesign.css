@@ -155,12 +155,12 @@ header{
 
 header .links{
     font-size:1.4rem;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
     
 }
 
-.links{
-    margin:0 auto;
-}
 
 .links > a:first-child{
     margin-left:-1rem;
@@ -255,19 +255,14 @@ section{
     flex-direction:row;
 }
 
-.content{
-    padding-left: 3rem;
-}
 
 .date{
     font-size:110%;
     font-weight:bold;
-    flex: 0 1 10rem;
+    flex: 0 1 15rem;
 }
 
-div.award{
-    width:20%;
-}
+
 
 .refToMe{
     font-weight:bold;
@@ -323,6 +318,15 @@ a:hover{
 
 @media screen and (max-width: 800px){
 
+h1{
+    font-size:7rem;
+}
+
+header .links{
+    font-size:1rem;
+   
+}
+
 h1:after{
     content:none;
 }
@@ -334,8 +338,23 @@ body{
     font-size:100%;
 }
 
+.item.flex{
+    flex-direction:column;
+}
+
+.item.flex > .content{
+    padding-left:0;
+    padding-top:.5rem;
+}
+
+.date{
+    flex:0 0 0;
+}
+
 section{
     padding-left:1rem;
     padding-right:.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 }
