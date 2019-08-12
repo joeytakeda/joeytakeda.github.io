@@ -150,6 +150,7 @@ header{
     background-image: linear-gradient(to bottom, rgba(255,255,255, 1), rgba(255, 255, 255, 0));
     width:100vw;
     margin-left:-1rem;
+    margin-top:2rem;
 }
 
 header .links{
@@ -281,6 +282,10 @@ a, a:visited{
 
 }
 
+#revision{
+    font-size:90%;
+    opacity:0.5;
+}
 a:hover{
     color: #1a4779;
     border-bottom: 1px solid #1a4779;
@@ -291,3 +296,47 @@ a:hover{
     font-style:italic;
 }
 
+.formats{
+    position:absolute;
+    top:0;
+    left:0;
+    
+}
+
+.formats > span{
+    display:none;
+}
+
+.formats > ul {
+    list-style:none;
+    display:flex;
+    flex-direction:row;
+}
+
+.formats li{
+    padding:1rem;
+}
+
+.formats li + li {
+    border-left: 1px solid rgba(220, 220, 220, 0.7);
+}
+
+
+@media screen and (max-width: 800px){
+
+h1:after{
+    content:none;
+}
+
+body{
+  padding:0;
+}
+.cv{
+    font-size:100%;
+}
+
+section{
+    padding-left:1rem;
+    padding-right:.5rem;
+}
+}
