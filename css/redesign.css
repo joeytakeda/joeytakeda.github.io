@@ -97,9 +97,9 @@
   src: url(iconfont/MaterialIcons-Regular.eot); /* For IE6-8 */
   src: local('Material Icons'),
     local('MaterialIcons-Regular'),
-    url(iconfont/MaterialIcons-Regular.woff2) format('woff2'),
-    url(iconfont/MaterialIcons-Regular.woff) format('woff'),
-    url(iconfont/MaterialIcons-Regular.ttf) format('truetype');
+    url('../fonts/iconfont/MaterialIcons-Regular.woff2') format('woff2'),
+    url('../fonts/iconfont/MaterialIcons-Regular.woff') format('woff'),
+    url('../fonts/iconfont/MaterialIcons-Regular.ttf') format('truetype');
 }
 
 .mi {
@@ -177,23 +177,19 @@ header .links{
 .links a[href^='mailto']::before{
     content:"mail_outline";
     font-family:"Material Icons";
-    top:100%;
-    position:relative;
         padding-right:1rem;
 }
 
 .links a[href*="github.com"]::before{
     content: "code";
     font-family: "Material Icons";
-    top:100%;
-    position:relative;
     padding-right:1rem;
 }
 
-.links a[href *='.pdf']{
+.links a[href *='.pdf']::before{
     content:"picture_as_pdf";
     font-family: "Material Icons";
-        top:100%;
+     top:100%;
     position:relative;
     padding-right:1rem;
 }
