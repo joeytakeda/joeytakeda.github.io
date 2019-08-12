@@ -321,11 +321,11 @@ a:hover{
 @media screen and (max-width: 800px){
 
 h1{
-    font-size:7rem;
+    font-size:6rem;
 }
 
 header .links{
-    font-size:1rem;
+    font-size:0.8rem;
    
 }
 
@@ -356,5 +356,9 @@ section{
     padding-right:.5rem;
     margin-left: 1rem;
     margin-right: 1rem;
+}
+
+a{
+     word-break: break-word;
 }
 }
