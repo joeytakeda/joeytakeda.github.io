@@ -2,7 +2,7 @@
 <?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <cv xmlns="http://joeytakeda.github.io/ns/">
-    <name xml:id="me">Joey Takeda</name>
+    <name xml:id="me">Joseph Takeda</name>
     <email>joey.takeda@gmail.com</email>
     <github>joeytakeda</github>
     <section type="education">
