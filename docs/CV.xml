@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Joey Takeda's Curriculum Vitae</title>
+            <title>Joseph Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
             <p> Last generated 2019-09-24.</p>
@@ -18,7 +18,7 @@
          <particDesc>
             <person xml:id="me">
                <persName>
-                  <name>Joey Takeda</name>
+                  <name>Joseph Takeda</name>
                   <email/>
                </persName>
             </person>
