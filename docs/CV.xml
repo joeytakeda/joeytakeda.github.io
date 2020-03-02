@@ -8,7 +8,7 @@
             <title>Joseph Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2019-09-23.</p>
+            <p> Last generated 2020-03-02.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -31,7 +31,7 @@
             <person sameAs="#me">
         
         
-               <education from="2016" to="2019">Masters of Arts in English (Science and Technology Research Stream) at <placeName>University of British Columbia, Vancouver, British Columbia</placeName>.</education>
+               <education from="2016" to="2020">Masters of Arts in English (Science and Technology Research Stream) at <placeName>University of British Columbia, Vancouver, British Columbia</placeName>.</education>
                <education from="2012" to="2016">Bachelor of Arts (Honours with distinction) in English and Women's Studies (minor) at <placeName>University of Victoria, Victoria, British Columbia</placeName>.</education>
         
     
@@ -138,13 +138,16 @@
     
         
         
-               <occupation type="paid" from="2018-01">
+               <occupation type="paid" from="2020-01">
+                  <p>Digital Humanities User Interface Developer at Digital Humanities Innovation Lab, Simon Fraser University.</p>
+               </occupation>
+               <occupation type="paid" from="2018-01" to="2019-12">
                   <p>Programmer at Linked Early Modern Drama Online.</p>
                </occupation>
-               <occupation type="paid" from="2018-01">
+               <occupation type="paid" from="2018-01" to="2019-12">
                   <p>Programmer at The Map of Early Modern London.</p>
                </occupation>
-               <occupation type="paid" from="2018-12">
+               <occupation type="paid" from="2018-12" to="2019-12">
                   <p>Programmer at The Landscapes of Injustice.</p>
                </occupation>
                <occupation type="paid" from="2019-07">

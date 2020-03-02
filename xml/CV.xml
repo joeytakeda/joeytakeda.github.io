@@ -8,7 +8,7 @@
     <section type="education">
         <head>Education</head>
         <listDegrees>
-            <degree from="2016" to="2019">
+            <degree from="2016" to="2020">
             <expected locus="@to"/>
             <name>Masters of Arts</name>
             <discipline>English (Science and Technology Research Stream)</discipline>
@@ -121,16 +121,20 @@
     <section type="employment">
         <head>Employment</head>
         <listJobs>
-            <job from="2018-01">
+            <job from="2020-01">
+                <job_title>Digital Humanities User Interface Developer</job_title>
+                <workplace>Digital Humanities Innovation Lab, Simon Fraser University</workplace>
+            </job>
+            <job from="2018-01" to="2019-12">
                 <job_title>Programmer</job_title>
                 <workplace>Linked Early Modern Drama Online</workplace>
             </job>
-            <job from="2018-01">
+            <job from="2018-01" to="2019-12">
                 <job_title>Programmer</job_title>
                 <workplace><!--<title level="m">-->The Map of Early Modern London<!--</title>--></workplace>
                 <supervisor>Dr. Janelle Jenstad</supervisor>
             </job>
-            <job from="2018-12">
+            <job from="2018-12" to="2019-12">
                 <job_title>Programmer</job_title>
                 <workplace>The Landscapes of Injustice</workplace>
             </job>
