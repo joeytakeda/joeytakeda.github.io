@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:cv="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joseph Takeda's Curriculum Vitae</dc:title><dc:creator>Joseph Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2020-03-02</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
+<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:cv="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joseph Takeda's Curriculum Vitae</dc:title><dc:creator>Joseph Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2020-06-07</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
     <block font-size="26pt" font-weight="600">Joseph Takeda</block>
     <block font-size="10pt"><basic-link external-destination="mailto:joey.takeda@gmail.com">joey.takeda@gmail.com</basic-link></block><block padding="1em 0 0 0"/>
     joeytakeda
@@ -57,6 +57,7 @@
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">CONFERENCE PRESENTATIONS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>, and Martin Holmes. "Static Search: An Archivable and Sustainble Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</block>
             <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>, and Sydney Lines. "Using Github and its Integrations to Create, Test, and Deploy a Digital Edition." Presented by <inline font-weight="600">Joseph Takeda</inline>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</block>
             <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joseph Takeda</inline>. "The Prefabricated Website: Who Needs a Server Anyway?" Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</block>
             <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, <inline font-weight="600">Joseph Takeda</inline>, Brett Greatley-Hirsch, and James Mardock. "What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts." Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</block>
@@ -78,8 +79,9 @@
     </block>
     
     <block>
-        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">WORKSHOPS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">WORKSHOPS AND OTHER PRESENTATION</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Chapman, Mary, Sydney Lines, and <inline font-weight="600">Joseph Takeda</inline>. "The Winnifred Eaton Archive." UBC Pixellating Project Showcase. University of British Columbia. May 20, 2020.</block>
             <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "Introduction to Encoding for Literary Studies." Department of English Language and Literatures. 2 hours. University of British Columbia. April 15, 2019.</block>
             <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "So I Want To Use the TEI . . . Now What?" Pixelating DH Mixer and Workshop. Part 2 of 2. 1 hour. University of British Columbia. October 25, 2018.</block>
             <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joseph</inline>. "What is the TEI and Why Should I Care?" Pixelating DH Mixer and Workshop. Part 1 of 2. 1 hour. University of British Columbia. September 20, 2018.</block>
@@ -110,7 +112,6 @@
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Guest Lecturer</block>
                 <block>SLST 481, "Existence and Anxiety in Dostoevsky"</block>
-                
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 29, 2015</inline></block></table-cell></table-row>
         </table-body></table>
         
@@ -139,20 +140,19 @@
                 <block>Digital Humanities Consultant</block>
                 <block>The Public Humanities Hub, UBC</block>
                 
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">July 2019–present</inline></block></table-cell></table-row>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">July–Dec 2019</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Programmer</block>
                 <block>Winnifred Eaton Archive</block>
                 
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Dec 2018–Aug 2019</inline></block></table-cell></table-row>
-            
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Dec 2018–Dec 2019</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Programmer</block>
                 <block>Stratford Festival Promptbook Protocol</block>
                 <block>The Stratford Festival Online</block>
                 
                 
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2017–present</inline></block></table-cell></table-row>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2017–Jan 2019</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Programmer</block>
                 <block>The Internet Shakespeare Editions</block>
@@ -217,6 +217,15 @@
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">SERVICE</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Technical Director</block>
+                <block>The Winnifred Eaton Archive</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2020–present</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Consulting Programmer and Designer</block>
+                <block>Linked Early Modern Drama Online</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2020–present</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Member, Works in Progress Committee</block>
                 <block>UBC English Graduate Caucus</block>

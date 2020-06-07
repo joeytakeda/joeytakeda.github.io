@@ -60,6 +60,7 @@
     <section type="conferences">
         <head>Conference Presentations</head>
         <listConferences>
+            <conference><ref target="#me">Takeda, Joseph</ref>, and Martin Holmes. "Static Search: An Archivable and Sustainble Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>, and Sydney Lines. "Using Github and its Integrations to Create, Test, and Deploy a Digital Edition." Presented by <ref target="#me">Joseph Takeda</ref>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
             <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "The Prefabricated Website: Who Needs a Server Anyway?" Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
             <conference>Jenstad, Janelle, <ref target="#me">Joseph Takeda</ref>, Brett Greatley-Hirsch, and James Mardock. "What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts." Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</conference>
@@ -81,8 +82,9 @@
     </section>
     
     <section type="workshops">
-        <head>Workshops</head>
+        <head>Workshops and other Presentation</head>
         <listConferences>
+            <conference>Chapman, Mary, Sydney Lines, and <ref target="#me">Joseph Takeda</ref>. "The Winnifred Eaton Archive." UBC Pixellating Project Showcase. University of British Columbia. May 20, 2020.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "Introduction to Encoding for Literary Studies." Department of English Language and Literatures. 2 hours. University of British Columbia. April 15, 2019.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "So I Want To Use the TEI . . . Now What?" Pixelating DH Mixer and Workshop. Part 2 of 2. 1 hour. University of British Columbia. October 25, 2018.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "What is the TEI and Why Should I Care?" Pixelating DH Mixer and Workshop. Part 1 of 2. 1 hour. University of British Columbia. September 20, 2018.</conference>
@@ -113,7 +115,6 @@
             <job when="2015-01-29">
                 <role>Guest Lecturer</role>
                 <class>SLST 481, "Existence and Anxiety in Dostoevsky"</class>
-                
             </job>
         </listJobs>
         
@@ -138,23 +139,17 @@
                 <job_title>Programmer</job_title>
                 <workplace>The Landscapes of Injustice</workplace>
             </job>
-            <job from="2019-07">
+            <job from="2019-07" to="2019-12">
                 <job_title>Digital Humanities Consultant</job_title>
                 <workplace>The Public Humanities Hub, UBC</workplace>
                 <supervisor>Dr. Mary Chapman</supervisor>
             </job>
-            <job from="2018-12" to="2019-08">
+            <job from="2018-12" to="2019-12">
                 <job_title>Programmer</job_title>
                 <workplace>Winnifred Eaton Archive</workplace>
                 <supervisor>Dr. Mary Chapman</supervisor>
             </job>
-            <!--       <job from="2017-09">
-            <job_title>Programmer/Research Assistant</job_title>
-            <workplace>University of Victoria Libraries and The Map of Early Modern London</workplace>
-            <supervisor>Lisa Goddard</supervisor>
-            <desc>In collaboration with the Endings project, I worked as a researcher and programmer to help convert TEI encoded data into Linked Open Data (LOD). I investigated various ontologies and vocabularies, linked open data standards, and conversion/storage tools in order to facilitate creating linked open data from TEI encoding.</desc>
-        </job>-->
-            <job from="2017-05">
+            <job from="2017-05" to="2019-01">
                 <job_title>Programmer</job_title>
                 <workplace>Stratford Festival Promptbook Protocol</workplace>
                 <workplace>The Stratford Festival Online</workplace>
@@ -236,6 +231,15 @@
     <section type="service">
         <head>Service</head>
         <listJobs>
+
+            <job from="2020-01">
+                <job_title>Technical Director</job_title>
+                <workplace>The Winnifred Eaton Archive</workplace>
+            </job>
+            <job from="2020-01">
+                <job_title>Consulting Programmer and Designer</job_title>
+                <workplace>Linked Early Modern Drama Online</workplace>
+            </job>
             <job from="2018-09" to="2019-09">
                 <job_title>Member, Works in Progress Committee</job_title>
                 <workplace>UBC English Graduate Caucus</workplace>

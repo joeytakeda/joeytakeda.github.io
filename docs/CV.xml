@@ -8,7 +8,7 @@
             <title>Joseph Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2020-03-02.</p>
+            <p> Last generated 2020-06-07.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -75,6 +75,8 @@
                <listBibl>
                   <head>Conference Presentations</head>
                   <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>, and Martin Holmes. "Static Search: An Archivable and Sustainble Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</bibl>
+                  <bibl>
                      <ref target="#me">Takeda, Joseph</ref>, and Sydney Lines. "Using Github and its Integrations to Create, Test, and Deploy a Digital Edition." Presented by <ref target="#me">Joseph Takeda</ref>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</bibl>
                   <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "The Prefabricated Website: Who Needs a Server Anyway?" Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</bibl>
                   <bibl>Jenstad, Janelle, <ref target="#me">Joseph Takeda</ref>, Brett Greatley-Hirsch, and James Mardock. "What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts." Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</bibl>
@@ -103,7 +105,8 @@
     
         
                <listBibl>
-                  <head>Workshops</head>
+                  <head>Workshops and other Presentation</head>
+                  <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joseph Takeda</ref>. "The Winnifred Eaton Archive." UBC Pixellating Project Showcase. University of British Columbia. May 20, 2020.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "Introduction to Encoding for Literary Studies." Department of English Language and Literatures. 2 hours. University of British Columbia. April 15, 2019.</bibl>
                   <bibl>
@@ -150,14 +153,13 @@
                <occupation type="paid" from="2018-12" to="2019-12">
                   <p>Programmer at The Landscapes of Injustice.</p>
                </occupation>
-               <occupation type="paid" from="2019-07">
+               <occupation type="paid" from="2019-07" to="2019-12">
                   <p>Digital Humanities Consultant at The Public Humanities Hub, UBC.</p>
                </occupation>
-               <occupation type="paid" from="2018-12" to="2019-08">
+               <occupation type="paid" from="2018-12" to="2019-12">
                   <p>Programmer at Winnifred Eaton Archive.</p>
                </occupation>
-            
-               <occupation type="paid" from="2017-05">
+               <occupation type="paid" from="2017-05" to="2019-01">
                   <p>Programmer at Stratford Festival Promptbook Protocol The Stratford Festival Online.</p>
                </occupation>
                <occupation type="paid" from="2017-05" to="2017-12">
@@ -187,6 +189,13 @@
     
         
         
+
+               <occupation type="unpaid" from="2020-01">
+                  <p>Technical Director at The Winnifred Eaton Archive.</p>
+               </occupation>
+               <occupation type="unpaid" from="2020-01">
+                  <p>Consulting Programmer and Designer at Linked Early Modern Drama Online.</p>
+               </occupation>
                <occupation type="unpaid" from="2018-09" to="2019-09">
                   <p>Member, Works in Progress Committee at UBC English Graduate Caucus.</p>
                </occupation>
