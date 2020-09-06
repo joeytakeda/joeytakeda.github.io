@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="file:/Users/joeytakeda/git/cv/schema/CV.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../cv/schema/CV.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../cv/schema/CV.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <cv xmlns="http://joeytakeda.github.io/ns/">
     <name xml:id="me">Joseph Takeda</name>
     <email>joey.takeda@gmail.com</email>
@@ -45,7 +45,7 @@
         <head>Publications</head>
         <listPublications>
             <publication>Roberts-Smith, Jennifer, Mark Kaethler, and Toby Malone with Liza Giffen, Martin Holmes, Janelle Jenstad, and <ref target="#me">Joseph Takeda</ref>. "Tagging Time and Space: TEI and the Canadian Stratford Festival Promptbooks." <title level="m">Digital Studies/le Champ Numérique</title>, volume 9, issue 1, 2019. DOI: <ref target="http://doi.org/10.16995/dscn.307">10.16995/dscn.307</ref>.</publication>
-            <publication>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." <title level="m">Digital Scholarship in the Humanities</title> (DSH), 2019.</publication>
+            <publication>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." <title level="m">Digital Scholarship in the Humanities</title> (DSH), volume 34, issue supp. 1, 2019. i100–i109. DOI: <ref target="https://doi.org/10.1093/llc/fqz011">10.1093/llc/fqz011</ref>.</publication>
             <publication>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85. <ref target="https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/97aabf63-0679-47e1-b3e4-5abca1dc5d9e#ch07">Open Access</ref>.</publication>
             
             <publication><ref target="#me">Takeda, Joseph</ref>. "The MoEML Finding Aid to the Bills of Mortality." <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</publication>
@@ -60,7 +60,7 @@
     <section type="conferences">
         <head>Conference Presentations</head>
         <listConferences>
-            <conference><ref target="#me">Takeda, Joseph</ref>, and Martin Holmes. "Static Search: An Archivable and Sustainble Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</conference>
+            <conference><ref target="#me">Takeda, Joseph</ref>, and Martin Holmes. "Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>, and Sydney Lines. "Using Github and its Integrations to Create, Test, and Deploy a Digital Edition." Presented by <ref target="#me">Joseph Takeda</ref>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
             <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "The Prefabricated Website: Who Needs a Server Anyway?" Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
             <conference>Jenstad, Janelle, <ref target="#me">Joseph Takeda</ref>, Brett Greatley-Hirsch, and James Mardock. "What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts." Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</conference>
@@ -84,6 +84,7 @@
     <section type="workshops">
         <head>Workshops and other Presentations</head>
         <listConferences>
+            <conference><ref target="#me">Takeda, Joseph</ref>. "Introduction to the Text Encoding Initiative: What is it and why should I care?" Digital Humanities Workshop Skill Series. Simon Fraser University Library. July 7, 2020.</conference>
             <conference>Chapman, Mary, Sydney Lines, and <ref target="#me">Joseph Takeda</ref>. "The Winnifred Eaton Archive." UBC Pixellating Project Showcase. University of British Columbia. May 20, 2020.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "Introduction to Encoding for Literary Studies." Department of English Language and Literatures. 2 hours. University of British Columbia. April 15, 2019.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>. "So I Want To Use the TEI . . . Now What?" Pixelating DH Mixer and Workshop. Part 2 of 2. 1 hour. University of British Columbia. October 25, 2018.</conference>
@@ -123,7 +124,7 @@
         <head>Employment</head>
         <listJobs>
             <job from="2020-01">
-                <job_title>Digital Humanities User Interface Developer</job_title>
+                <job_title>User Interface Developer</job_title>
                 <workplace>Digital Humanities Innovation Lab, Simon Fraser University</workplace>
             </job>
             <job from="2018-01" to="2019-12">
@@ -259,7 +260,6 @@
             <job from="2015-09" to="2016-06">
                 <job_title>Editor-in-chief</job_title>
                 <workplace>The Albatross English Undergraduate Journal</workplace>
-                
             </job>
             <job from="2015-09" to="2016-06">
                 <job_title>Executive Editor</job_title>

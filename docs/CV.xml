@@ -8,7 +8,7 @@
             <title>Joseph Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2020-06-07.</p>
+            <p> Last generated 2020-09-05.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -59,7 +59,7 @@
                <listBibl>
                   <head>Publications</head>
                   <bibl>Roberts-Smith, Jennifer, Mark Kaethler, and Toby Malone with Liza Giffen, Martin Holmes, Janelle Jenstad, and <ref target="#me">Joseph Takeda</ref>. "Tagging Time and Space: TEI and the Canadian Stratford Festival Promptbooks." <title level="m">Digital Studies/le Champ Numérique</title>, volume 9, issue 1, 2019. DOI: <ref target="http://doi.org/10.16995/dscn.307">10.16995/dscn.307</ref>.</bibl>
-                  <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." <title level="m">Digital Scholarship in the Humanities</title> (DSH), 2019.</bibl>
+                  <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." <title level="m">Digital Scholarship in the Humanities</title> (DSH), volume 34, issue supp. 1, 2019. i100–i109. DOI: <ref target="https://doi.org/10.1093/llc/fqz011">10.1093/llc/fqz011</ref>.</bibl>
                   <bibl>Jenstad, Janelle, and <ref target="#me">Joseph Takeda</ref> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85. <ref target="https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/97aabf63-0679-47e1-b3e4-5abca1dc5d9e#ch07">Open Access</ref>.</bibl>
             
                   <bibl>
@@ -75,7 +75,7 @@
                <listBibl>
                   <head>Conference Presentations</head>
                   <bibl>
-                     <ref target="#me">Takeda, Joseph</ref>, and Martin Holmes. "Static Search: An Archivable and Sustainble Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</bibl>
+                     <ref target="#me">Takeda, Joseph</ref>, and Martin Holmes. "Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>, and Sydney Lines. "Using Github and its Integrations to Create, Test, and Deploy a Digital Edition." Presented by <ref target="#me">Joseph Takeda</ref>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</bibl>
                   <bibl>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "The Prefabricated Website: Who Needs a Server Anyway?" Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</bibl>
@@ -106,6 +106,8 @@
         
                <listBibl>
                   <head>Workshops and other Presentations</head>
+                  <bibl>
+                     <ref target="#me">Takeda, Joseph</ref>. "Introduction to the Text Encoding Initiative: What is it and why should I care?" Digital Humanities Workshop Skill Series. Simon Fraser University Library. July 7, 2020.</bibl>
                   <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joseph Takeda</ref>. "The Winnifred Eaton Archive." UBC Pixellating Project Showcase. University of British Columbia. May 20, 2020.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joseph</ref>. "Introduction to Encoding for Literary Studies." Department of English Language and Literatures. 2 hours. University of British Columbia. April 15, 2019.</bibl>
@@ -142,7 +144,7 @@
         
         
                <occupation type="paid" from="2020-01">
-                  <p>Digital Humanities User Interface Developer at Digital Humanities Innovation Lab, Simon Fraser University.</p>
+                  <p>User Interface Developer at Digital Humanities Innovation Lab, Simon Fraser University.</p>
                </occupation>
                <occupation type="paid" from="2018-01" to="2019-12">
                   <p>Programmer at Linked Early Modern Drama Online.</p>
