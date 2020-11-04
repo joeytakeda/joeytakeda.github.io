@@ -61,8 +61,8 @@
     <section type="conferences">
         <head>Conference Presentations</head>
         <listConferences>
-            <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "Nine Projects, One Codebase: A Static Search Engine for Digital Editions. Collaboration: Digital Humanities Conference. University of British Columbia. October 31, 2020.</conference>
-            <conference>Joyce, Michael, <ref target="#me">Joseph Takeda</ref>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. "Collaboration in the Middle." Collaboration Roundtable, Collaboration: Digital Humanities Conference. University of British Columbia. October 29, 2020.</conference>
+            <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "Nine Projects, One Codebase: A Static Search Engine for Digital Editions." Textual Collaborations. Collaboration: Digital Humanities Conference. University of British Columbia. October 31, 2020.</conference>
+            <conference>Joyce, Michael, <ref target="#me">Joseph Takeda</ref>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. "Collaboration in the Middle." Collaboration Roundtable. Collaboration: Digital Humanities Conference. University of British Columbia. October 29, 2020.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>, and Martin Holmes. "Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</conference>
             <conference><ref target="#me">Takeda, Joseph</ref>, and Sydney Lines. "Using Github and its Integrations to Create, Test, and Deploy a Digital Edition." Presented by <ref target="#me">Joseph Takeda</ref>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
             <conference>Holmes, Martin, and <ref target="#me">Joseph Takeda</ref>. "The Prefabricated Website: Who Needs a Server Anyway?" Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
