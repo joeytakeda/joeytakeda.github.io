@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://teijenkins.hcmc.uvic.ca/job/TEIP5-released/lastSuccessfulBuild/artifact/P5/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="oddex1" start="TEI">
+        <moduleRef key="header"/>
+        <moduleRef key="core" exclude="date"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure"/>
+        <moduleRef key="namesdates"/>
+        
+        <elementSpec ident="event" module="namesdates" mode="change">
+          <content>
+            <alternate>
+              <elementRef key="desc"/>
+              <elementRef key="bibl"/>
+            </alternate>
+            <elementRef key="note" minOccurs="0" maxOccurs="1"/>
+          </content>
+          <constraintSpec ident="eventMustHaveDates" scheme="schematron">
+            <constraint>
+              <sch:assert test="@when or (not(@when) and @from)">ERROR: All events
+              require a when or (at the very least) a from.</sch:assert>
+              
+            </constraint>
+          </constraintSpec>
+         
+          <attList>
+            <attDef ident="type" mode="change" usage="req">
+              <valList mode="add" type="closed">
+                <valItem ident="distinction" mode="add"></valItem>
+                <valItem ident="funding" mode="add"/>
+                <valItem ident="membership" mode="add"/>
+                <valItem ident="service" mode="add"/>
+                <valItem ident="invited_position" mode="add"/>
+                <valItem ident="education" mode="add"/>
+                <valItem ident="employment" mode="add"/>
+                <!--Now we break these apart-->
+                <valItem ident="publication" mode="add"/>
+                <valItem ident="presentation" mode="add"/>
+                <valItem ident="workshop" mode="add"/>
+              </valList>
+            </attDef>
+          </attList>
+          
+          
+          
+        </elementSpec>
+
+        
+        <elementSpec ident="desc" mode="change">
+          <content>
+            <elementRef key="label" minOccurs="1" maxOccurs="unbounded"/>
+            <elementRef key="orgName"/>
+            <elementRef key="label" minOccurs="0" maxOccurs="unbounded"/>
+          </content>
+        </elementSpec>
+        
+        <elementSpec ident="author" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="add">
+                <valItem ident="presenting"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>

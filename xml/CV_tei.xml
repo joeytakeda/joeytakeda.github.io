@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CV">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curriculum Vitae</title>
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <divGen xml:id="frontmatter"/>
+        </front>
+        <body>
+            <listEvent>
+                
+                
+                
+                
+            </listEvent>
+            
+            <listEvent xml:id="education">
+                <event from="2016" to="2021">
+                    
+                </event>
+            </listEvent>
+            <listBibl xml:id="publications">
+                
+                
+            </listBibl>
+            <listEvent xml:id="presentations">
+                <event type="conference" when="2021-11-09">
+                    <bibl type="paper"><author ref="#me">Takeda, Joey</author>. <title level="a">Sustainable StoryMaps: A Case </title></bibl>
+                </event>
+                
+                
+            </listEvent>
+        </body>
+        <back>
+            <!--References-->
+            <listPerson>
+                
+            </listPerson>
+        </back>
+    </text>
+</TEI>
