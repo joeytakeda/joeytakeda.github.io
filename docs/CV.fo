@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:cv="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joey Takeda's Curriculum Vitae</dc:title><dc:creator>Joey Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2021-12-11</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
-    <block font-size="26pt" font-weight="600">Joey Takeda</block>
-    <block font-size="10pt"><basic-link external-destination="mailto:joey.takeda@gmail.com">joey.takeda@gmail.com</basic-link></block><block padding="1em 0 0 0"/>
+<?xml version="1.0" encoding="UTF-8"?><root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:cv="http://joeytakeda.github.io/ns/" xmlns="http://www.w3.org/1999/XSL/Format" font-family="CormorantGaramond"><layout-master-set><simple-page-master master-name="A4-portrait" page-height="11.00in" page-width="8.50in" margin-top=".85in" margin-bottom=".85in" margin-left="1in" margin-right="1in"><region-body/></simple-page-master></layout-master-set><declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><dc:title>Joey (Joseph) Takeda's Curriculum Vitae</dc:title><dc:creator>Joey (Joseph) Takeda</dc:creator><dc:description>CV</dc:description><dc:date>2023-02-01</dc:date></rdf:Description><rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""><xmp:CreatorTool>XSL-FOP.</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta></declarations><page-sequence master-reference="A4-portrait"><flow flow-name="xsl-region-body">
+    <block font-size="20pt" padding-bottom="0.2em" font-weight="600">Joey (Joseph) Takeda</block>
+    <block font-size="12pt" padding-bottom=".2em"><inline>takeda@sfu.ca</inline> | <inline>(778) 676-6261</inline> | <inline>https://orcid.org/0000-0002-0440-6062</inline></block><block padding="1em 0 0 0"/>
+    
+    https://orcid.org/0000-0002-0440-6062
     joeytakeda
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">EDUCATION</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
@@ -9,23 +11,26 @@
             <block>Masters of Arts</block>
             <block>English</block>
             <block>University of British Columbia, Vancouver, British Columbia</block>
-            Winnifred Eaton Reeve’s <inline font-style="italic">His Royal Nibs</inline>: A Critical Digital Edition
+           
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2021</inline></block></table-cell></table-row>
         <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
             <block>Bachelor of Arts (Honours with distinction)</block>
-            <block>English and Women's Studies (minor)</block>
+            <block>English and Women’s Studies (minor)</block>
             <block>University of Victoria, Victoria, British Columbia</block>
-            Colonial Entanglements and Cruel Reconciliation: Marie Clements’ <inline font-style="italic">Burning Vision</inline> and Decolonial Responsibility
+         
         </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row>
         </table-body></table>
     </block>
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">PUBLICATIONS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <block>
-            
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Roberts-Smith, Jennifer, Mark Kaethler, and Toby Malone with Liza Giffen, Martin Holmes, Janelle Jenstad, and <inline font-weight="600">Joey Takeda</inline>. "Tagging Time and Space: TEI and the Canadian Stratford Festival Promptbooks." <inline font-style="italic">Digital Studies/le Champ Numérique</inline>, volume 9, issue 1, 2019. DOI: 10.16995/dscn.307 (<basic-link external-destination="http://doi.org/10.16995/dscn.307" text-decoration="underline">http://doi.org/10.16995/dscn.307</basic-link>).</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline> (50%). "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." <inline font-style="italic">Digital Scholarship in the Humanities</inline> (DSH), volume 34, issue supp. 1, 2019. i100–i109. DOI: 10.1093/llc/fqz011 (<basic-link external-destination="https://doi.org/10.1093/llc/fqz011" text-decoration="underline">https://doi.org/10.1093/llc/fqz011</basic-link>).</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, and <inline font-weight="600">Joey Takeda</inline> (50%). "Making the RA Matter: Pedagogy, Interface, and Practices." <inline font-style="italic">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</inline>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85. Open Access (<basic-link external-destination="https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/97aabf63-0679-47e1-b3e4-5abca1dc5d9e#ch07" text-decoration="underline">https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/97aabf63-0679-47e1-b3e4-5abca1dc5d9e#ch07</basic-link>).</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>The Digital Lyon in Mourning</inline><inline keep-with-previous.within-line="always">”</inline></inline> <inline font-style="italic">International Review of Scottish Studies</inline> (IRSS), forthcoming.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Lines, Sydney, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Recovering a Future Artifact: <inline font-style="italic">The Winnifred Eaton Archive</inline> and a Genealogy of Care</inline><inline keep-with-previous.within-line="always">”</inline></inline> <inline font-style="italic">Legacy: A Journal of American Women Writers</inline>, forthcoming.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles.</inline><inline keep-with-previous.within-line="always">”</inline></inline> <inline font-style="italic">Digital Humanities Quarterly</inline> (DHQ), forthcoming.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>, and Martin Holmes. <inline><inline>“</inline><inline>Serverless Searching with XSLT and JavaScript: Introducing staticSearch</inline><inline keep-with-previous.within-line="always">”</inline></inline> <inline font-style="italic">Proceedings of Balisage: The Markup Conference 2022</inline>. Balisage Series on Markup Technologies, volume 27, 2022. doi:<basic-link external-destination="https://doi.org/10.4242/BalisageVol27.Takeda01" text-decoration="underline">10.4242/BalisageVol27.Takeda01</basic-link>.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Roberts-Smith, Jennifer, Mark Kaethler, and Toby Malone with Liza Giffen, Martin Holmes, Janelle Jenstad, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Tagging Time and Space: TEI and the Canadian Stratford Festival Promptbooks.</inline><inline keep-with-previous.within-line="always">”</inline></inline> <inline font-style="italic">Digital Studies/le Champ Numérique</inline>, volume 9, issue 1, 2019. doi:<basic-link external-destination="http://doi.org/10.16995/dscn.307" text-decoration="underline">10.16995/dscn.307</basic-link>.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</inline><inline keep-with-previous.within-line="always">”</inline></inline> <inline font-style="italic">Digital Scholarship in the Humanities</inline> (DSH), volume 34, issue supp. 1, 2019. i100–i109. doi:<basic-link external-destination="https://doi.org/10.1093/llc/fqz011" text-decoration="underline">10.1093/llc/fqz011</basic-link>.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Making the RA Matter: Pedagogy, Interface, and Practices.</inline><inline keep-with-previous.within-line="always">”</inline></inline> <inline font-style="italic">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</inline>. Ed. Jentery Sayers. Minnesota: University of Minnesota Press, 2018. 71–85. <basic-link external-destination="https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/97aabf63-0679-47e1-b3e4-5abca1dc5d9e#ch07" text-decoration="underline">Open Access</basic-link>.</block>
             
            
         </block>
@@ -36,96 +41,58 @@
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">CONFERENCE PRESENTATIONS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Sustainable StoryMaps: A Case Study in Staticization with StoryMapJS." GIS Day 2021. Simon Fraser University and the University of British Columbia. November 19, 2021.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Davis, Leith, <inline font-weight="600">Joey Takeda</inline>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. "NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project." Poster Session. Text Encoding Initiative (TEI) 2021 Conference. October 26, 2021.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Dowson, Rebecca, and <inline font-weight="600">Joey Takeda</inline>. "Where Do We Go From Here? Incubating Digital Scholarship in the Library." Lightning talk. The Canadian Digital Scholarship Community of Practice Meeting. October 21, 2021.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. "Nine Projects, One Codebase: A Static Search Engine for Digital Editions." Textual Collaborations. Collaboration: Digital Humanities Conference. University of British Columbia. October 31, 2020.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Joyce, Michael, <inline font-weight="600">Joey Takeda</inline>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. "Collaboration in the Middle." Collaboration Roundtable. Collaboration: Digital Humanities Conference. University of British Columbia. October 29, 2020.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>, and Martin Holmes. "Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities." DHSI Conference and Colloquium 2020. June 06, 2020.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>, and Sydney Lines. "Using Github and its Integrations to Create, Test, and Deploy a Digital Edition." Presented by <inline font-weight="600">Joey Takeda</inline>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. "The Prefabricated Website: Who Needs a Server Anyway?" Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, <inline font-weight="600">Joey Takeda</inline>, Brett Greatley-Hirsch, and James Mardock. "What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts." Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Roberts-Smith, Jennifer, <inline font-weight="600">Joey Takeda</inline>, Mark Kaethler, Toby Malone, and Janelle Jenstad. "Reconceiving TEI Models of Theatrical Performance Text with Reference to Promptbooks." Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>, and Jennifer Roberts-Smith. "One More Time With Feeling: Revisiting XPointers to Address the Complexities of Promptbook Encoding." Presented by Jennifer Roberts-Smith. Digital Humanities 2019 (DH2019) Conference. Utrecht University. July 12, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Ending MoEML." Panel presentation for <inline font-style="italic">MoEML at Twenty</inline> with Mark Kaethler and Janelle Jenstad. Canadian Society for Digital Humanities/Société Canadienne Des Humanités Numériques (CSDH-SCHN) conference. Congress of the Humanities and Social Sciences, University of British Columbia. June 03, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Unsettling Geologic Vision." Association of Canadian College and University Teachers of English (ACCUTE) conference. Congress of the Humanities and Social Sciences, University of British Columbia. June 03, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. "Why Do I Need Four Search Engines?" Presented by Martin Holmes. Japanese Association for Digital Humanities conference. September 13, 2018. PDF (<basic-link external-destination="http://joeytakeda.github.io/pdf/JADH_2018.pdf" text-decoration="underline">http://joeytakeda.github.io/pdf/JADH_2018.pdf</basic-link>).</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "'Depth and width between the surface': Reading Vertical Mobility in François Mandeville's 'How Copper Was Discovered' and Marie Clements’ <inline font-style="italic">Burning Vision</inline>." Endnotes 2018 conference. University of British Columbia. May 05, 2018.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Rethinking Protocols: Networking, Temporality, Decolonization." Qualicum History conference. Parksville, British Columbia. January 27, 2018.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." Digital Humanities 2017 conference. McGill University. August 11, 2017. PDF (<basic-link external-destination="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf" text-decoration="underline">http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf</basic-link>). Repository (<basic-link external-destination="https://github.com/projectEndings/diagnostics" text-decoration="underline">https://github.com/projectEndings/diagnostics</basic-link>).</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joey Takeda</inline>. "Mapping the STC with MoEML and DEEP." Digital Humanities 201
-                conference. Presented by Tye Landels-Gruenewald and <inline font-weight="600">Joey Takeda</inline>. McGill University. August 09, 2017. PDF (<basic-link external-destination="http://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf" text-decoration="underline">http://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf</basic-link>).</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "The Fragility of Reconciliation: Reading <inline font-style="italic">The Book of Jessica</inline>." CSPT Graduate conference. University of Victoria. May 05, 2017.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway's <inline font-style="italic">Transparent</inline>." Qualicum History conference. Parksville, British Columbia. January 28, 2017.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joey Takeda</inline>. "How To Do Things with 6000 Toponyms." Presented by Janelle Jenstad and <inline font-weight="600">Joey Takeda0</inline>. How To Do Things with Millions Of Words conference. University of British Columbia. November 03, 2016.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"/>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"/>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"/>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"/>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Sustainable StoryMaps: A Case Study in Staticization with StoryMapJS.</inline><inline keep-with-previous.within-line="always">”</inline></inline> GIS Day 2021. Simon Fraser University and the University of British Columbia. November 19, 2021.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Davis, Leith, <inline font-weight="600">Joey Takeda</inline>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <inline><inline>“</inline><inline>NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Poster Session. Text Encoding Initiative (TEI) 2021 Conference. October 26, 2021.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Dowson, Rebecca, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Where Do We Go From Here? Incubating Digital Scholarship in the Library.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Lightning talk. The Canadian Digital Scholarship Community of Practice Meeting. October 21, 2021.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Nine Projects, One Codebase: A Static Search Engine for Digital Editions.</inline><inline keep-with-previous.within-line="always">”</inline></inline>  Collaboration: Digital Humanities Conference. University of British Columbia. October 31, 2020.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Joyce, Michael, <inline font-weight="600">Joey Takeda</inline>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. <inline><inline>“</inline><inline>Collaboration in the Middle.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Collaboration: Digital Humanities Conference. University of British Columbia. October 29, 2020.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>, and Martin Holmes. <inline><inline>“</inline><inline>Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities.</inline><inline keep-with-previous.within-line="always">”</inline></inline> DHSI Conference and Colloquium 2020. June 06, 2020.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>, and Sydney Lines. <inline><inline>“</inline><inline>Using Github and its Integrations to Create, Test, and Deploy a Digital Edition.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Presented by <inline font-weight="600">Joey Takeda</inline>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>The Prefabricated Website: Who Needs a Server Anyway?</inline><inline keep-with-previous.within-line="always">”</inline></inline> Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, <inline font-weight="600">Joey Takeda</inline>, Brett Greatley-Hirsch, and James Mardock. <inline><inline>“</inline><inline>What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Roberts-Smith, Jennifer, <inline font-weight="600">Joey Takeda</inline>, Mark Kaethler, Toby Malone, and Janelle Jenstad. <inline><inline>“</inline><inline>Reconceiving TEI Models of Theatrical Performance Text with Reference to Promptbooks.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>, and Jennifer Roberts-Smith. <inline><inline>“</inline><inline>One More Time With Feeling: Revisiting XPointers to Address the Complexities of Promptbook Encoding.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Presented by Jennifer Roberts-Smith. Digital Humanities 2019 (DH2019) Conference. Utrecht University. July 12, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Ending MoEML.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Panel presentation for <inline font-style="italic">MoEML at Twenty</inline> with Mark Kaethler and Janelle Jenstad. Canadian Society for Digital Humanities/Société Canadienne Des Humanités Numériques (CSDH-SCHN) Conference. Congress of the Humanities and Social Sciences, University of British Columbia. June 03, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Unsettling Geologic Vision.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Association of Canadian College and University Teachers of English (ACCUTE) Conference. Congress of the Humanities and Social Sciences. University of British Columbia. June 03, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Why Do I Need Four Search Engines?</inline><inline keep-with-previous.within-line="always">”</inline></inline> Presented by Martin Holmes. Japanese Association for Digital Humanities conference. September 13, 2018. <basic-link external-destination="http://joeytakeda.github.io/pdf/JADH_2018.pdf" text-decoration="underline">PDF</basic-link>.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Depth and width between the surface: Reading Vertical Mobility in François Mandeville’s <inline><inline>“</inline><inline>How Copper Was Discovered</inline><inline keep-with-previous.within-line="always">”</inline></inline> and Marie Clements’ <inline font-style="italic">Burning Vision</inline>.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Endnotes 2018 conference. University of British Columbia. May 05, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Rethinking Protocols: Networking, Temporality, Decolonization.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Qualicum History Conference. Parksville, British Columbia. January 27, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Holmes, Martin, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Digital Humanities 2017 Conference. McGill University. August 11, 2017.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Mapping the STC with MoEML and DEEP.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Digital Humanities 2017 Conference. Presented by Tye Landels-Gruenewald and <inline font-weight="600">Joey Takeda</inline>. McGill University. August 09, 2017. <basic-link external-destination="http://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf" text-decoration="underline">PDF</basic-link>.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>The Fragility of Reconciliation: Reading <inline font-style="italic">The Book of Jessica</inline>.</inline><inline keep-with-previous.within-line="always">”</inline></inline> CSPT Graduate Conference. University of Victoria. May 05, 2017.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <inline font-style="italic">Transparent</inline>.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Qualicum History Conference. Parksville, British Columbia. January 28, 2017.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle, Tye Landels-Gruenewald, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>How To Do Things with 6000 Toponyms.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Presented by Janelle Jenstad and <inline font-weight="600">Joey Takeda</inline>. How To Do Things with Millions Of Words Conference. University of British Columbia. November 03, 2016.</block>
         </block>
-        
-    </block>
-    <block>
-        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">AWARDS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
-        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Social Science and Humanities Research Grant (Masters)</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">University of Victoria Department of English Medal of Excellence</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2016</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Allardice Lancaster Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Jamie Cassels Undergraduate Research Award</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Purves-Cordonier Prize</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2015</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Frank Hori Foundation Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Grant McOrmond Scholarship in English</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">John Peter Memorial Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2014</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">University of Victoria Excellence Scholarship</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Come to Campus Grant</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Passport to Education</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.1em" padding-right=".5em" padding-bottom="0.1em">Dogwood Bursary</block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2012</inline></block></table-cell></table-row>
-        </table-body></table>
     </block>
     
-    
+   
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">WORKSHOPS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Minimal Computing, or When Wordpress No Longer Sparks Joy." Digital Humanities Workshop Skill Series. Simon Fraser University Library. November 17, 2020.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Introduction to the Text Encoding Initiative: What is it and why should I care?" Digital Humanities Workshop Skill Series. Simon Fraser University Library. July 7, 2020.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Chapman, Mary, Sydney Lines, and <inline font-weight="600">Joey Takeda</inline>. "The Winnifred Eaton Archive." UBC Pixellating Project Showcase. University of British Columbia. May 20, 2020.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Introduction to Encoding for Literary Studies." Department of English Language and Literatures. 2 hours. University of British Columbia. April 15, 2019.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "So I Want To Use the TEI . . . Now What?" Pixelating DH Mixer and Workshop. Part 2 of 2. 1 hour. University of British Columbia. October 25, 2018.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "What is the TEI and Why Should I Care?" Pixelating DH Mixer and Workshop. Part 1 of 2. 1 hour. University of British Columbia. September 20, 2018.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Ending Your Digital Humanities Project from the Start." Pixelating DH Mixer and Workshop. 1 hour. University of British Columbia. June 28, 2018.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Introduction to XPath." 4 hours. University of Victoria. June 21, 2018.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle and <inline font-weight="600">Joey Takeda</inline> (co-instructor). "Introduction to TEI Projects Workshop." TEI 2017 conference. 8 hours. University of Victoria. November 11, 2017.</block>
-            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. "Introduction to XPath." 4 hours. University of Victoria. February 24, 2016.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"/>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Minimal Computing, or When Wordpress No Longer Sparks Joy.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Digital Humanities Workshop Skill Series. Simon Fraser University Library. November 17, 2020.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Introduction to the Text Encoding Initiative: What is it and why should I care?</inline><inline keep-with-previous.within-line="always">”</inline></inline> Digital Humanities Workshop Skill Series. Simon Fraser University Library. July 7, 2020.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Chapman, Mary, Sydney Lines, and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>The Winnifred Eaton Archive.</inline><inline keep-with-previous.within-line="always">”</inline></inline> UBC Pixellating Project Showcase. University of British Columbia. May 20, 2020.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Introduction to Encoding for Literary Studies.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Department of English Language and Literatures. 2 hours. University of British Columbia. April 15, 2019.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>So I Want To Use the TEI . . . Now What?</inline><inline keep-with-previous.within-line="always">”</inline></inline> Pixelating DH Mixer and Workshop. Part 2 of 2. 1 hour. University of British Columbia. October 25, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>What is the TEI and Why Should I Care?</inline><inline keep-with-previous.within-line="always">”</inline></inline> Pixelating DH Mixer and Workshop. Part 1 of 2. 1 hour. University of British Columbia. September 20, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Ending Your Digital Humanities Project from the Start.</inline><inline keep-with-previous.within-line="always">”</inline></inline> Pixelating DH Mixer and Workshop. 1 hour. University of British Columbia. June 28, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid"><inline font-weight="600">Takeda, Joey</inline>. <inline><inline>“</inline><inline>Introduction to XPath.</inline><inline keep-with-previous.within-line="always">”</inline></inline> 4 hours. University of Victoria. June 21, 2018.</block>
+            <block padding-bottom=".5em" margin-left="1.5em" text-indent="-1.5em" margin-right="3em" text-align="justify" page-break-inside="avoid">Jenstad, Janelle and <inline font-weight="600">Joey Takeda</inline>. <inline><inline>“</inline><inline>Introduction to TEI Projects Workshop.</inline><inline keep-with-previous.within-line="always">”</inline></inline> TEI 2017 conference. 8 hours. University of Victoria. November 11, 2017.</block>
+    
         </block>
     </block>
-    
-    <block>
-        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">TEACHING</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
-        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Teaching Assistant</block>
-                <block>ENGL110: Introduction to Media Studies</block>
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept–Dec 2018</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Teaching Assistant</block>
-                <block>ENGL110: Indigenous and Multicultural Literature in Canada</block>
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept–Dec 2017</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Guest Lecturer</block>
-                <block>ENGL 362, "Popular Literature in the Renaissance"</block>
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Feb 03, 2016</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Guest Lecturer</block>
-                <block>SLST 481, "Existence and Anxiety in Dostoevsky"</block>
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 29, 2015</inline></block></table-cell></table-row>
-        </table-body></table>
-    </block>
+ 
     
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">EMPLOYMENT</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>User Interface Developer</block>
+                <block>Developer</block>
                 <block>Digital Humanities Innovation Lab (Simon Fraser University)</block>
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2020–present</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
@@ -184,44 +151,66 @@
                 
                 
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2015–Dec 2017</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Assistant to the Coordinating Editor</block>
-                <block>Scene Performance Journal, The Internet Shakespeare
-                    Editions</block>
-                
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Feb–May 2016</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Encoder</block>
-                <block>
-                    The Map of Dostoevsky's St. Petersburg
-                </block>
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan–Apr 2015</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Research Assistant</block>
-                <block>
-                    
-                    The Internet Shakespeare Editions
-                    
-                </block>
-                
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Aug 2014–Feb 2016</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Research Assistant</block>
-                <block>The Map of Early Modern London</block>
-                
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2014–Dec 2017</inline></block></table-cell></table-row>
+
         </table-body></table>
         
         
     </block>
+    
+    
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">TEACHING</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Guest Lecture</block>
+                <block>ENGL 820: Eighteenth-Century Media: An Embodied Humanities Approach</block>
+                <block>Simon Fraser University</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Nov 28, 2021</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Guest Lecture</block>
+                <block>ENGL 490: Digital Methods for Literary Study: Recovering Early Asian North American Literature</block>
+                <block>University of British Columbia</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Oct 28, 2021</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Guest Lecture</block>
+                <block>ENGL 820: Studies in Print Culture Theory</block>
+                <block>Simon Fraser University</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Nov 23, 2020</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Teaching Assistant</block>
+                <block>ENGL110: Introduction to Media Studies</block>
+                <block>University of British Columbia</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept–Dec 2018</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Teaching Assistant</block>
+                <block>ENGL110: Indigenous and Multicultural Literature in Canada</block>
+                <block>University of British Columbia</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept–Dec 2017</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Guest Lecture</block>
+                <block>ENGL 362: Popular Literature in the Renaissance</block>
+                <block>University of Victoria</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Feb 03, 2016</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Guest Lecture</block>
+                <block>SLST 481: Existence and Anxiety in Dostoevsky</block>
+                <block>University of Victoria</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 29, 2015</inline></block></table-cell></table-row>
+        </table-body></table>
+    </block>
+    
 
     <block>
         <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">SERVICE</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
         <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Council Member</block>
+                <block>TEI-C Technical Council</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2023–present</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Peer Reviewer</block>
+                <block>The Advanced Research Consortium (Texas A&amp;M University)</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">May 2022–present</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>International Advisory Board Member</block>
                 <block>TEI By Example (University of Edinburgh)</block>
@@ -235,39 +224,41 @@
                 <block>The Winnifred Eaton Archive (University of British Columbia)</block>
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Jan 2019–present</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
+                <block>Peer Reviewer</block>
+                <block>Journal of the Text Encoding Initiative</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2019</inline></block></table-cell></table-row>
+            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Member, Works in Progress Committee</block>
-                <block>UBC English Graduate Caucus</block>
+                <block>English Graduate Caucus (University of British Columbia)</block>
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2018–Sept 2019</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Union Representative</block>
-                <block>UBC English Graduate Caucus</block>
+                <block>English Graduate Caucus (University of British Columbia)</block>
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept–Dec 2018</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Communications Coordinator</block>
-                <block>UBC English Graduate Caucus</block>
+                <block>English Graduate Caucus (University of British Columbia)</block>
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2017–Sept 2018</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
                 <block>Co-organizer</block>
-                <block>Endnotes Graduate Conference</block>
+                <block>Endnotes Graduate Conference (University of British Columbia)</block>
             </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2016–June 2017</inline></block></table-cell></table-row>
+          
+        </table-body></table>
+    </block>
+    
+    <block>
+        <block font-weight="600" font-size="16pt" padding=".6em 0 0 0" keep-with-next.within-page="always">PROFESSIONAL AFFILIATIONS</block><block padding="-.75em 0 0 0" margin-bottom=".5em" keep-with-next.within-page="always"><leader leader-pattern="rule" leader-length="97.5%" rule-style="solid" rule-thickness=".5pt"/></block>
+        <table table-layout="fixed" width="100%"><table-column column-number="2" column-width="22%"/><table-column column-number="1" column-width="76%"/><table-body>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Editor-in-chief</block>
-                <block>The Albatross English Undergraduate Journal</block>
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2015–June 2016</inline></block></table-cell></table-row>
+                <block>Member, Association for Asian American Studies</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2021–present</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Executive Editor</block>
-                <block>The Warren Undergraduate Review</block>                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2015–June 2016</inline></block></table-cell></table-row>
+                <block>Member, TEI Consortium</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2020–present</inline></block></table-cell></table-row>
             <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Vice-President of Academic Affairs</block>
-                <block>English Students' Association</block>
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2014–June 2015</inline></block></table-cell></table-row>
-            <table-row page-break-inside="avoid"><table-cell><block padding-top="0.25em" padding-right=".5em" padding-bottom="0.25em">
-                <block>Criticism Editor</block>
-                <block>The Warren Undergraduate Review</block>
-                
-            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">Sept 2014–June 2015</inline></block></table-cell></table-row>
+                <block>Member, Modern Language Association</block>
+            </block></table-cell><table-cell><block padding=".1em 0" text-align="left"><inline text-align="left">2019–present</inline></block></table-cell></table-row>
         </table-body></table>
     </block>
    

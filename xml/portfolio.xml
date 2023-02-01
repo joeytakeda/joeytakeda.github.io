@@ -17,22 +17,6 @@
     </teiHeader>
     <text>
         <body>
-            <listEvent>
-                <event type="distinction" when="2021-02-01">
-                    <desc>
-                        <label>Prize one</label>
-                        <orgName></orgName>
-                    </desc>
-                </event>
-                <event type="education" from="2016" to="2021">
-                    <desc>
-                        <label>Masters of Arts</label>
-                        <label>English Literature</label>
-                        <orgName>University of British Columbia</orgName>
-                        <label>Thesis: Winnifred Eaton Reeve's <title level="m">His Royal Nibs</title>: A Digital Edition</label>
-                    </desc>
-                </event>
-            </listEvent>
         </body>
     </text>
 </TEI>
