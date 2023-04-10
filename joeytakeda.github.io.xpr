@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qjoeytakeda.github.io.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="joeytakeda.github.io.xpr">
+        <folder path="../cv/"/>
+        <folder path="."/>
+    </projectTree>
+</project>
