@@ -8,7 +8,7 @@
             <title>Joey (Joseph) Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2023-10-10.</p>
+            <p> Last generated 2023-05-15.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -61,11 +61,10 @@
                </occupation>
                <listBibl>
                   <head>Publications</head>
-                  <bibl>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Shauna Irani, Dana Lai, Emma Trotter, and Julianna Wagar. <title level="a">A New Approach to Old Networks: Applying Digital Humanities Methodologies to Analyze Robert Forbes’s ‘The Lyon in Mourning’ Manuscript</title>. <title level="m">Shaping Jacobitism: Memory, Culture, Networks</title>, edited by Leith Davis and Kevin James, University of Edinburgh Press, forthcoming.</bibl>
+                  <bibl>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles.</title>
+                     <title level="m">Digital Humanities Quarterly</title> (DHQ), forthcoming.</bibl>
                   <bibl>Lines, Sydney, and <ref target="#me">Joey Takeda</ref>. <title level="a">Recovering a Future Artifact: <title level="m">The Winnifred Eaton Archive</title> and a Genealogy of Care.</title>
                      <title level="m">Legacy: A Journal of American Women Writers</title>, forthcoming.</bibl>
-                  <bibl>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles.</title>
-                     <title level="m">Digital Humanities Quarterly</title> (DHQ), volume 17, issue 1, 2023. </bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">The Digital Lyon in Mourning.</title>
                      <title level="m">International Review of Scottish Studies</title> (IRSS), volume 47, 2022. </bibl>
@@ -103,8 +102,6 @@
                <listBibl>
                   <head>Refereed Presentations</head>
                   <bibl>
-                     <ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Mary Chapman. <title level="a">Lights, Camera, Slugline?: Encoding Screenplays in TEI</title>. Encoding Cultures: Joint Text Encoding Initiative (TEI-MEC) Conference. Paderborn University. September 8, 2023.</bibl>
-                  <bibl>
                      <ref target="#me">Takeda, Joey</ref>, Leith Davis, and the Lyon in Mourning Team. <title level="a">Building Networks: The Lyon in Mourning Project and Institutional Collaborations.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Victoria, BC, Canada. January 17, 2023.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Granting Agency: Opportunities and Challenges of Named Grant Collaborations</title>. Keeping it ReAL 2022: LIS and Collaboration, University of British Columbia and Simon Fraser University, November 17, 2022.</bibl>
@@ -162,8 +159,6 @@
                <listBibl>
                   <head>Refereed Presentations</head>
                   <bibl>
-                     <ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Mary Chapman. <title level="a">Lights, Camera, Slugline?: Encoding Screenplays in TEI</title>. Encoding Cultures: Joint Text Encoding Initiative (TEI-MEC) Conference. Paderborn University. September 8, 2023.</bibl>
-                  <bibl>
                      <ref target="#me">Takeda, Joey</ref>, Leith Davis, and the Lyon in Mourning Team. <title level="a">Building Networks: The Lyon in Mourning Project and Institutional Collaborations.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Victoria, BC, Canada. January 17, 2023.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Granting Agency: Opportunities and Challenges of Named Grant Collaborations</title>. Keeping it ReAL 2022: LIS and Collaboration, University of British Columbia and Simon Fraser University, November 17, 2022.</bibl>
@@ -200,105 +195,105 @@
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>.</title> Qualicum History Conference. Parksville, British Columbia. January 28, 2017.</bibl>
                </listBibl>
+               <listBibl>
+                  <head>Guest Lectures</head>
+                  <bibl>
+                     <title level="a">Encoding Screenplays.</title> ENGL 501: Digital Methods for Literary Study: Recovering Early Chinese Canadian Literature and History, University of British Columbia, March 17, 2023.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Text Encoding and Textual Editing.</title> ENGL 820: Eighteenth-Century Media: An Embodied Humanities Approach, Simon Fraser University, November 11, 2021.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Textual Editing.</title> ENGL 490: Digital Methods for Literary Study: Recovering Early Asian North American Literature, University of British Columbia, October 28, 2021.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Text Encoding.</title> ENGL 820: Studies in Print Culture Theory, Simon Fraser University, November 23, 2020.</bibl>
+                  <bibl>
+                     <title level="a">Remediating Bills of Mortality.</title> ENGL 362: Popular Literature in the Renaissance, University of Victoria, February 3, 2016.</bibl>
+                  <bibl>
+                     <title level="a">Encoding Maps.</title> SLST 481: Existence and Anxiety in Dostoevsky, University of Victoria, January 29, 2015.</bibl>
+               </listBibl>
+               <listBibl>
+                  <head>Workshops</head>
+                  <bibl>
+                     <title level="a">How to End Your Digital Project (three day workshop).</title> Co-taught with Janelle Jenstad. DH@Guelph 2023 Workshop Series, University of Guelph, May 10–12, 2023.</bibl>
+                  <bibl>
+                     <title level="a">Unlocking XML Data with XPath.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, March 29, 2023.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to the Text Encoding Initiative (TEI): What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, October 26, 2022.</bibl>
+                  <bibl>
+                     <title level="a">Minimal Computing, or When Wordpress No Longer Sparks Joy.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, November 17, 2020.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to the Text Encoding Initiative: What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, July 7, 2020.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Encoding for Literary Studies.</title> Department of English Language and Literatures, University of British Columbia, April 15, 2019.</bibl>
+                  <bibl>
+                     <title level="a">So I Want To Use the TEI . . . Now What?</title> Pixelating DH Mixer and Workshop, University of British Columbia, October 25, 2018.</bibl>
+                  <bibl>
+                     <title level="a">What is the TEI and Why Should I Care?</title> Pixelating DH Mixer and Workshop, University of British Columbia, September 20, 2018.</bibl>
+                  <bibl>
+                     <title level="a">Ending Your Digital Humanities Project from the Start.</title> Pixelating DH Mixer and Workshop, University of British Columbia, June 28, 2018.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to TEI Projects Workshop (full day workshop).</title> Co-taught with Janelle Jenstad. TEI 2017 conference,  University of Victoria, November 11, 2017.</bibl>
+               </listBibl>
+               <listBibl>
+                  <head>Teaching Assistantships</head>
+                  <bibl>ENGL 110: Introduction to Media Studies. University of British Columbia, September–December, 2018.</bibl>
+                  <bibl>ENGL 110: Indigenous and Multicultural Literature in Canada. University of British Columbia, September–December, 2017.</bibl>
+               </listBibl>
+               <listBibl>
+                  <head>Guest Lectures</head>
+                  <bibl>
+                     <title level="a">Encoding Screenplays.</title> ENGL 501: Digital Methods for Literary Study: Recovering Early Chinese Canadian Literature and History, University of British Columbia, March 17, 2023.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Text Encoding and Textual Editing.</title> ENGL 820: Eighteenth-Century Media: An Embodied Humanities Approach, Simon Fraser University, November 11, 2021.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Textual Editing.</title> ENGL 490: Digital Methods for Literary Study: Recovering Early Asian North American Literature, University of British Columbia, October 28, 2021.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Text Encoding.</title> ENGL 820: Studies in Print Culture Theory, Simon Fraser University, November 23, 2020.</bibl>
+                  <bibl>
+                     <title level="a">Remediating Bills of Mortality.</title> ENGL 362: Popular Literature in the Renaissance, University of Victoria, February 3, 2016.</bibl>
+                  <bibl>
+                     <title level="a">Encoding Maps.</title> SLST 481: Existence and Anxiety in Dostoevsky, University of Victoria, January 29, 2015.</bibl>
+               </listBibl>
+               <listBibl>
+                  <head>Workshops</head>
+                  <bibl>
+                     <title level="a">How to End Your Digital Project (three day workshop).</title> Co-taught with Janelle Jenstad. DH@Guelph 2023 Workshop Series, University of Guelph, May 10–12, 2023.</bibl>
+                  <bibl>
+                     <title level="a">Unlocking XML Data with XPath.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, March 29, 2023.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to the Text Encoding Initiative (TEI): What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, October 26, 2022.</bibl>
+                  <bibl>
+                     <title level="a">Minimal Computing, or When Wordpress No Longer Sparks Joy.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, November 17, 2020.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to the Text Encoding Initiative: What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, July 7, 2020.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to Encoding for Literary Studies.</title> Department of English Language and Literatures, University of British Columbia, April 15, 2019.</bibl>
+                  <bibl>
+                     <title level="a">So I Want To Use the TEI . . . Now What?</title> Pixelating DH Mixer and Workshop, University of British Columbia, October 25, 2018.</bibl>
+                  <bibl>
+                     <title level="a">What is the TEI and Why Should I Care?</title> Pixelating DH Mixer and Workshop, University of British Columbia, September 20, 2018.</bibl>
+                  <bibl>
+                     <title level="a">Ending Your Digital Humanities Project from the Start.</title> Pixelating DH Mixer and Workshop, University of British Columbia, June 28, 2018.</bibl>
+                  <bibl>
+                     <title level="a">Introduction to TEI Projects Workshop (full day workshop).</title> Co-taught with Janelle Jenstad. TEI 2017 conference,  University of Victoria, November 11, 2017.</bibl>
+               </listBibl>
+               <listBibl>
+                  <head>Teaching Assistantships</head>
+                  <bibl>ENGL 110: Introduction to Media Studies. University of British Columbia, September–December, 2018.</bibl>
+                  <bibl>ENGL 110: Indigenous and Multicultural Literature in Canada. University of British Columbia, September–December, 2017.</bibl>
+               </listBibl>
                <note>
                   <list>
                      <head>Grants</head>
                      <item>
-                Co-Applicant. SSHRC Connection Grant, <title level="a">Onoto Watanna’s CATTLE at 100: Indomitable Women in the West During the Chinese Exclusion Era</title>. (Principal Investigator: Mary Chapman)
+                Co-Applicant. SSHRC Connection Grant, <title level="a">Onoto Watanna’s CATTLE at 100: Indomitable Women in the West During the Chinese Exclusion Era,</title> $24,983. (Principal Investigator: Mary Chapman)
              (<date when="2021-05">2021-05</date>)</item>
-                     <item>Collaborator. SSHRC Partnership Engage Grant, <title level="a">Engaging Public and Academic Audiences to Recover Lost Voices of Scottish History: <title level="a">The Lyon in Mourning</title> Manuscript and the Jacobite Networks of the 1745 Rising</title>. (Principal Investigator: Leith Davis) (<date when="2020-05">2020-05</date>)</item>
-                     <item>Applicant. SSHRC Canadian Graduate Scholarship-Masters Grant, <title level="a">Literary Ecologies of Decolonization in Canada</title>. (<date when="2016">2016</date>)</item>
+                     <item>Collaborator. SSHRC Partnership Engage Grant, <title level="a">Engaging Public and Academic Audiences to Recover Lost Voices of Scottish History: <title level="a">The Lyon in Mourning</title> Manuscript and the Jacobite Networks of the 1745 Rising</title>, $18,000. (Principal Investigator: Leith Davis) (<date when="2020-05">2020-05</date>)</item>
                   </list>
                </note>
-               <listBibl>
-                  <head>Guest Lectures</head>
-                  <bibl>
-                     <title level="a">Encoding Screenplays.</title> ENGL 501: Digital Methods for Literary Study: Recovering Early Chinese Canadian Literature and History, University of British Columbia, March 17, 2023.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Text Encoding and Textual Editing.</title> ENGL 820: Eighteenth-Century Media: An Embodied Humanities Approach, Simon Fraser University, November 11, 2021.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Textual Editing.</title> ENGL 490: Digital Methods for Literary Study: Recovering Early Asian North American Literature, University of British Columbia, October 28, 2021.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Text Encoding.</title> ENGL 820: Studies in Print Culture Theory, Simon Fraser University, November 23, 2020.</bibl>
-                  <bibl>
-                     <title level="a">Remediating Bills of Mortality.</title> ENGL 362: Popular Literature in the Renaissance, University of Victoria, February 3, 2016.</bibl>
-                  <bibl>
-                     <title level="a">Encoding Maps.</title> SLST 481: Existence and Anxiety in Dostoevsky, University of Victoria, January 29, 2015.</bibl>
-               </listBibl>
-               <listBibl>
-                  <head>Workshops</head>
-                  <bibl>
-                     <title level="a">How to End Your Digital Project (three day workshop).</title> Co-taught with Janelle Jenstad. DH@Guelph 2023 Workshop Series, University of Guelph, May 10–12, 2023.</bibl>
-                  <bibl>
-                     <title level="a">Unlocking XML Data with XPath.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, March 29, 2023.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to the Text Encoding Initiative (TEI): What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, October 26, 2022.</bibl>
-                  <bibl>
-                     <title level="a">Minimal Computing, or When Wordpress No Longer Sparks Joy.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, November 17, 2020.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to the Text Encoding Initiative: What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, July 7, 2020.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Encoding for Literary Studies.</title> Department of English Language and Literatures, University of British Columbia, April 15, 2019.</bibl>
-                  <bibl>
-                     <title level="a">So I Want To Use the TEI . . . Now What?</title> Pixelating DH Mixer and Workshop, University of British Columbia, October 25, 2018.</bibl>
-                  <bibl>
-                     <title level="a">What is the TEI and Why Should I Care?</title> Pixelating DH Mixer and Workshop, University of British Columbia, September 20, 2018.</bibl>
-                  <bibl>
-                     <title level="a">Ending Your Digital Humanities Project from the Start.</title> Pixelating DH Mixer and Workshop, University of British Columbia, June 28, 2018.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to TEI Projects Workshop (full day workshop).</title> Co-taught with Janelle Jenstad. TEI 2017 conference,  University of Victoria, November 11, 2017.</bibl>
-               </listBibl>
-               <listBibl>
-                  <head>Teaching Assistantships</head>
-                  <bibl>ENGL 110: Introduction to Media Studies. University of British Columbia, September–December, 2018.</bibl>
-                  <bibl>ENGL 110: Indigenous and Multicultural Literature in Canada. University of British Columbia, September–December, 2017.</bibl>
-               </listBibl>
-               <listBibl>
-                  <head>Guest Lectures</head>
-                  <bibl>
-                     <title level="a">Encoding Screenplays.</title> ENGL 501: Digital Methods for Literary Study: Recovering Early Chinese Canadian Literature and History, University of British Columbia, March 17, 2023.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Text Encoding and Textual Editing.</title> ENGL 820: Eighteenth-Century Media: An Embodied Humanities Approach, Simon Fraser University, November 11, 2021.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Textual Editing.</title> ENGL 490: Digital Methods for Literary Study: Recovering Early Asian North American Literature, University of British Columbia, October 28, 2021.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Text Encoding.</title> ENGL 820: Studies in Print Culture Theory, Simon Fraser University, November 23, 2020.</bibl>
-                  <bibl>
-                     <title level="a">Remediating Bills of Mortality.</title> ENGL 362: Popular Literature in the Renaissance, University of Victoria, February 3, 2016.</bibl>
-                  <bibl>
-                     <title level="a">Encoding Maps.</title> SLST 481: Existence and Anxiety in Dostoevsky, University of Victoria, January 29, 2015.</bibl>
-               </listBibl>
-               <listBibl>
-                  <head>Workshops</head>
-                  <bibl>
-                     <title level="a">How to End Your Digital Project (three day workshop).</title> Co-taught with Janelle Jenstad. DH@Guelph 2023 Workshop Series, University of Guelph, May 10–12, 2023.</bibl>
-                  <bibl>
-                     <title level="a">Unlocking XML Data with XPath.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, March 29, 2023.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to the Text Encoding Initiative (TEI): What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, October 26, 2022.</bibl>
-                  <bibl>
-                     <title level="a">Minimal Computing, or When Wordpress No Longer Sparks Joy.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, November 17, 2020.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to the Text Encoding Initiative: What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, July 7, 2020.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to Encoding for Literary Studies.</title> Department of English Language and Literatures, University of British Columbia, April 15, 2019.</bibl>
-                  <bibl>
-                     <title level="a">So I Want To Use the TEI . . . Now What?</title> Pixelating DH Mixer and Workshop, University of British Columbia, October 25, 2018.</bibl>
-                  <bibl>
-                     <title level="a">What is the TEI and Why Should I Care?</title> Pixelating DH Mixer and Workshop, University of British Columbia, September 20, 2018.</bibl>
-                  <bibl>
-                     <title level="a">Ending Your Digital Humanities Project from the Start.</title> Pixelating DH Mixer and Workshop, University of British Columbia, June 28, 2018.</bibl>
-                  <bibl>
-                     <title level="a">Introduction to TEI Projects Workshop (full day workshop).</title> Co-taught with Janelle Jenstad. TEI 2017 conference,  University of Victoria, November 11, 2017.</bibl>
-               </listBibl>
-               <listBibl>
-                  <head>Teaching Assistantships</head>
-                  <bibl>ENGL 110: Introduction to Media Studies. University of British Columbia, September–December, 2018.</bibl>
-                  <bibl>ENGL 110: Indigenous and Multicultural Literature in Canada. University of British Columbia, September–December, 2017.</bibl>
-               </listBibl>
                <note>
                   <list>
-                     <head>Honours and Awards</head>
+                     <head>Awards</head>
+                     <item>SSHRC Canadian Graduate Scholarship-Masters (<date when="2016">2016</date>)</item>
                      <item>University of Victoria Department of English Medal of Excellence (<date when="2016">2016</date>)</item>
                      <item>Frank Hori Foundation Scholarship (<date when="2015">2015</date>)</item>
                      <item>Allardice Lancaster Scholarship (<date when="2015">2015</date>)</item>
@@ -313,7 +308,7 @@
                <occupation type="unpaid" from="2023-05">
                   <p>Member at Public Knowledge Project Technical Committee.</p>
                </occupation>
-               <occupation type="unpaid" from="2023-01" to="2027-12">
+               <occupation type="unpaid" from="2023-01">
                   <p>Elected Member at TEI-C Technical Council.</p>
                </occupation>
                <occupation type="unpaid" from="2022-05">

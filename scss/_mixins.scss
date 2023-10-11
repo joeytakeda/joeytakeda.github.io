@@ -1,0 +1,7 @@
+@mixin icon-link($icon){
+    &:before{
+        content: url($icon);
+        padding-right: 0.2em;
+        font-size: 0.3rem;
+    }
+}

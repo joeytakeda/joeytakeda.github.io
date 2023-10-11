@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project basedir="." name="Build CV" default="all">
+<project basedir="." name="Build CV" default="allButPush">
   
   <property name="echo.separator" value="****************************"/>
   <property name="message" value="'Updating CV.'"/>
@@ -33,9 +33,12 @@
         </exec>
     </target>
     
-    <target name="all">
+    <target name="allButPush">
         <antcall target="createCv"/>
         <antcall target="makeCvIndex"/>
-        <antcall target="pushToGit"/>
+    </target>
+    
+    <target name="all">
+        <antcall target="createCv"/>
     </target>
 </project>

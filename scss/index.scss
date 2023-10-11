@@ -1,0 +1,98 @@
+@use 'reset';
+@use 'mixins';
+
+@font-face{
+    font-family: "PP Eiko";
+    src: url("fonts/PPEiko-LightItalic.woff");
+    font-weight: 300;    
+}
+
+@font-face{
+    font-family: "PP Neue Montreal";
+    src: url("fonts/PPNeueMontreal-Book.woff2")
+}
+
+body{
+    background-color: #FAFAF9;
+    min-height:100vh;
+    display:flex;
+    font-family: "PP Neue Montreal", Arial, Helvetica, sans-serif
+}
+
+main{
+    display: flex;
+    max-width: 48rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
+    flex: 1 1 0;
+    margin: auto;
+    margin-top: 33vh;
+}
+
+article{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 1.5rem;
+margin:auto;
+}
+
+header{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 1rem;
+align-self: stretch;
+}
+
+h1{
+    font-family: "PP Eiko", Garamond, Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 4rem;
+    margin-right: -1rem;
+    text-align:center;
+}
+
+
+
+ul{
+    list-style:none;
+    display: flex;
+    flex-direction:row;
+justify-content: space-evenly;
+align-items: center;
+align-self: stretch;
+padding:0;
+margin:0;
+gap: 0.2em;
+}
+
+li{
+    padding: 0 0.5rem;
+}
+
+li + li{
+    border-left: 1px solid #78716c;
+}
+
+
+li{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    gap: 0.2em;
+    line-height: 1;
+}
+
+a:link, a:visited, a:hover, a:active{
+    color: #3b82f6;
+    text-decoration:none;
+}
+
+
+
