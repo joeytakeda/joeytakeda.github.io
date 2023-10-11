@@ -1,4 +1,4 @@
-name: Build Lyrical Ballads Site
+name: Build site
 
 on: [push, workflow_dispatch]
 
@@ -21,7 +21,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Setup node
-        run: actions/setup-node@v3
+        uses: actions/setup-node@v3
       - name: NPM install
         run: npm install
       - name: Compile
