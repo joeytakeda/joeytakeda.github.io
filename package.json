@@ -22,6 +22,6 @@
   "homepage": "https://github.com/joeytakeda/joeytakeda.github.io#readme",
   "devDependencies": {
     "sass": "^1.69.2",
-    "vite": "^4.4.11"
+    "vite": "^4.5.2"
   }
 }
