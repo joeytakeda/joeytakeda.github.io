@@ -11,7 +11,8 @@
     <section type="education">
         <head>Education</head>
         <listDegrees>
-            <degree from="2022">
+            <degree from="2022" to="2026">
+                <expected locus="to"/>
                 <name>Masters of Library and Information Science</name>
                 <institution>University of Alberta<!--, Edmonton, Alberta--></institution>
             </degree>
@@ -212,15 +213,15 @@
         <section type="publications">
             <head>Publications</head>
             <listPublications>
-                <publication>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Shauna Irani, Dana Lai, Emma Trotter, and Julianna Wagar. <title level="a">A New Approach to Old Networks: Applying Digital Humanities Methodologies to Analyze Robert Forbes’s ‘The Lyon in Mourning’ Manuscript</title>. <title level="m">Shaping Jacobitism: Memory, Culture, Networks</title>, edited by Leith Davis and Kevin James, University of Edinburgh Press, forthcoming.</publication>
-                <publication>Lines, Sydney, and <ref target="#me">Joey Takeda</ref>. <title level="a">Recovering a Future Artifact: <title level="m">The Winnifred Eaton Archive</title> and a Genealogy of Care.</title> <title level="m">Legacy: A Journal of American Women Writers</title>, forthcoming.</publication>
-                <publication>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles.</title> <title level="m">Digital Humanities Quarterly</title> (DHQ), volume 17, issue 1, 2023. <ptr target="https://digitalhumanities.org/dhq/vol/17/1/000668/000668.html"/></publication>
-                <publication><ref target="#me">Takeda, Joey</ref>. <title level="a">The Digital Lyon in Mourning.</title> <title level="m">International Review of Scottish Studies</title> (IRSS), volume 47, 2022. <ptr target="https://www.irss.uoguelph.ca/index.php/irss/article/view/7442"/></publication>
-                <publication>Davis, Leith, Taylor Breckles, Shauna Irani, Dana Graham Lai, <ref target="#me">Joey Takeda</ref>, Emma Trotter, and Julianna Wagar. <title level="a"><title level="a">Female Rebels</title>: Highlighting Women’s Voices in Robert Forbes’s <title level="a">The Lyon in Mourning</title>.</title> <title level="m">International Review of Scottish Studies</title> (IRSS), volume 47, 2022. <ptr target="https://www.irss.uoguelph.ca/index.php/irss/article/view/7443"/></publication>
-                <publication><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Serverless Searching with XSLT and JavaScript: Introducing staticSearch.</title> <title level="m">Proceedings of Balisage: The Markup Conference 2022</title>. Balisage Series on Markup Technologies, volume 27, 2022. <ptr target="https://doi.org/10.4242/BalisageVol27.Takeda01"/></publication>
-                <publication>Roberts-Smith, Jennifer, Mark Kaethler, and Toby Malone with Liza Giffen, Martin Holmes, Janelle Jenstad, and <ref target="#me">Joey Takeda</ref>. <title level="a">Tagging Time and Space: TEI and the Canadian Stratford Festival Promptbooks.</title> <title level="m">Digital Studies/le Champ Numérique</title>, volume 9, issue 1, 2019. <ptr target="https://doi.org/10.16995/dscn.307"/></publication>
-                <publication>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</title> <title level="m">Digital Scholarship in the Humanities</title> (DSH), volume 34, issue supp. 1, 2019. i100–i109. <ptr target="https://doi.org/10.1093/llc/fqz011"/></publication>
-                <publication>Jenstad, Janelle, and <ref target="#me">Joey Takeda</ref>. <title level="a">Making the RA Matter: Pedagogy, Interface, and Practices.</title> <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>, edited by Jentery Sayers, University of Minnesota Press, 2018, pp. 71–85. <ptr target="https://doi.org/10.5749/j.ctt1pwt6wq.10"/></publication>
+                <publication>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Shauna Irani, Dana Lai, Emma Trotter, and Julianna Wagar. <title level="a">A New Approach to Old Networks: Applying Digital Humanities Methodologies to Analyze Robert Forbes’s ‘The Lyon in Mourning’ Manuscript</title>. <title level="m">Shaping Jacobitism: Memory, Culture, Networks</title>, edited by Leith Davis and Kevin James, University of Edinburgh Press, <date notBefore="2024">forthcoming</date>.</publication>
+                <publication>Lines, Sydney, and <ref target="#me">Joey Takeda</ref>. <title level="a">Recovering a Future Artifact: <title level="m">The Winnifred Eaton Archive</title> and a Genealogy of Care.</title> <title level="m">Legacy: A Journal of American Women Writers</title>, volume 40, numbers 1–2, 2023. <ptr target="https://doi.org/10.1353/leg.2023.a917946"/>. </publication>
+                <publication>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles.</title> <title level="m">Digital Humanities Quarterly</title> (DHQ), volume 17, issue 1, <date when="2023">2023</date>. <ptr target="https://digitalhumanities.org/dhq/vol/17/1/000668/000668.html"/></publication>
+                <publication><ref target="#me">Takeda, Joey</ref>. <title level="a">The Digital Lyon in Mourning.</title> <title level="m">International Review of Scottish Studies</title> (IRSS), volume 47, <date when="2022">2022</date>. <ptr target="https://www.irss.uoguelph.ca/index.php/irss/article/view/7442"/></publication>
+                <publication>Davis, Leith, Taylor Breckles, Shauna Irani, Dana Graham Lai, <ref target="#me">Joey Takeda</ref>, Emma Trotter, and Julianna Wagar. <title level="a"><title level="a">Female Rebels</title>: Highlighting Women’s Voices in Robert Forbes’s <title level="a">The Lyon in Mourning</title>.</title> <title level="m">International Review of Scottish Studies</title> (IRSS), volume 47, <date when="2022">2022</date>. <ptr target="https://www.irss.uoguelph.ca/index.php/irss/article/view/7443"/></publication>
+                <publication><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Serverless Searching with XSLT and JavaScript: Introducing staticSearch.</title> <title level="m">Proceedings of Balisage: The Markup Conference <date when="2022">2022</date></title>. Balisage Series on Markup Technologies, volume 27, <date when="2022">2022</date>. <ptr target="https://doi.org/10.4242/BalisageVol27.Takeda01"/></publication>
+                <publication>Roberts-Smith, Jennifer, Mark Kaethler, and Toby Malone with Liza Giffen, Martin Holmes, Janelle Jenstad, and <ref target="#me">Joey Takeda</ref>. <title level="a">Tagging Time and Space: TEI and the Canadian Stratford Festival Promptbooks.</title> <title level="m">Digital Studies/le Champ Numérique</title>, volume 9, issue 1, <date when="2019">2019</date>. <ptr target="https://doi.org/10.16995/dscn.307"/></publication>
+                <publication>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</title> <title level="m">Digital Scholarship in the Humanities</title> (DSH), volume 34, issue supp. 1, <date when="2019">2019</date>. i100–i109. <ptr target="https://doi.org/10.1093/llc/fqz011"/></publication>
+                <publication>Jenstad, Janelle, and <ref target="#me">Joey Takeda</ref>. <title level="a">Making the RA Matter: Pedagogy, Interface, and Practices.</title> <title level="m">Making Things and Drawing Boundaries: Experiments in the Digital Humanities</title>, edited by Jentery Sayers, University of Minnesota Press, <date when="2018">2018</date>, pp. 71–85. <ptr target="https://doi.org/10.5749/j.ctt1pwt6wq.10"/></publication>
                 
                 <!-- <publication><ref target="#me">Takeda, Joey</ref>. "The MoEML Finding Aid to the Bills of Mortality." <title level="m">The Map of Early Modern London</title>. Ed. Janelle Jenstad. University of Victoria. Forthcoming.</publication>
             
@@ -235,43 +236,45 @@
         <section>
             <head>Invited Presentations</head>
             <listConferences>
-                <conference>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">Encountering Epithets: On Encoding (and Not Encoding) Racialized Language in the Winnifred Eaton Archive.</title> Antiracist Markup Practices Symposium, Women Writers Project, Northeastern University, May 15, 2023.</conference>
-                <conference>Moore, Alison J., <ref target="#me">Joey Takeda</ref>, and Julianna Wagar. <title level="a">Unlock Your Research Impact: Digital Humanities for the Public.</title> Knowledge Mobilization Lunch and Learn Series, Simon Fraser University Library, February 1, 2023.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Sustainable StoryMaps: A Case Study in Staticization with StoryMapJS.</title> GIS Day 2021, Simon Fraser University and the University of British Columbia, November 19, 2021.</conference>
-                <conference>Dowson, Rebecca, and <ref target="#me">Joey Takeda</ref>. <title level="a">Where Do We Go From Here? Incubating Digital Scholarship in the Library.</title> Lightning talk. The Canadian Digital Scholarship Community of Practice Meeting. October 21, 2021.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">The Landscapes of Injustice Digital Archive.</title> Landscapes of Injustice Digital Archive Launch, University of Victoria, March 31, 2021.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">The Landscapes of Injustice Digital Archive.</title> Landscapes of Injustice Digital Archive Launch, University of Victoria, March 28, 2021.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Introduction to the Digital Archive.</title> The Winnifred Eaton Archive Public Launch, University of British Columbia, September 16, 2020.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Ending MoEML.</title> Panel presentation for <title level="m">MoEML at Twenty</title> with Mark Kaethler and Janelle Jenstad. Canadian Society for Digital Humanities/Société Canadienne Des Humanités Numériques (CSDH-SCHN) Conference. Congress of the Humanities and Social Sciences, University of British Columbia, June 03, 2019.</conference>
-                <conference>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Winnifred Eaton Archive.</title> UBC Pixelating Project Showcase, University of British Columbia, May 20, 2020.</conference>
-                <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">How To Do Things with 6000 Toponyms.</title> Presented by Janelle Jenstad and <ref target="#me">Joey Takeda</ref>. How To Do Things with Millions Of Words Conference, University of British Columbia, November 03, 2016.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. Invited panelist on <title level="a">Research Careers Outside the Tenure Track</title>. UBC Arts Amplifier. <date when="2023-11-28">November 28, 2023</date>.</conference>
+                <conference>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">Encountering Epithets: On Encoding (and Not Encoding) Racialized Language in the Winnifred Eaton Archive.</title> Antiracist Markup Practices Symposium, Women Writers Project, Northeastern University, <date when="2023-05-15">May 15, 2023</date>.</conference>
+                <conference>Moore, Alison J., <ref target="#me">Joey Takeda</ref>, and Julianna Wagar. <title level="a">Unlock Your Research Impact: Digital Humanities for the Public.</title> Knowledge Mobilization Lunch and Learn Series, Simon Fraser University Library, <date when="2023-02-01">February 1, 2023</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Sustainable StoryMaps: A Case Study in Staticization with StoryMapJS.</title> GIS Day 2021, Simon Fraser University and the University of British Columbia, <date when="2021-11-19">November 19, 2021</date>.</conference>
+                <conference>Dowson, Rebecca, and <ref target="#me">Joey Takeda</ref>. <title level="a">Where Do We Go From Here? Incubating Digital Scholarship in the Library.</title> Lightning talk. The Canadian Digital Scholarship Community of Practice Meeting. <date when="2021-10-21">October 21, 2021</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">The Landscapes of Injustice Digital Archive.</title> Landscapes of Injustice Digital Archive Launch, University of Victoria, <date when="2021-03-31">March 31, 2021</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">The Landscapes of Injustice Digital Archive.</title> Landscapes of Injustice Digital Archive Launch, University of Victoria, <date when="2021-03-28">March 28, 2021</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Introduction to the Digital Archive.</title> The Winnifred Eaton Archive Public Launch, University of British Columbia, <date when="2020-09-16">September 16, 2020</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Ending MoEML.</title> Panel presentation for <title level="m">MoEML at Twenty</title> with Mark Kaethler and Janelle Jenstad. Canadian Society for Digital Humanities/Société Canadienne Des Humanités Numériques (CSDH-SCHN) Conference. Congress of the Humanities and Social Sciences, University of British Columbia, <date when="2019-06-03">June 03, 2019</date>.</conference>
+                <conference>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Winnifred Eaton Archive.</title> UBC Pixelating Project Showcase, University of British Columbia, <date when="2020-05-20">May 20, 2020</date>.</conference>
             </listConferences>
         </section>
         <section>
             <head>Refereed Presentations</head>
             <listConferences>
-                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Mary Chapman. <title level="a">Lights, Camera, Slugline?: Encoding Screenplays in TEI</title>. Encoding Cultures: Joint Text Encoding Initiative (TEI-MEC) Conference. Paderborn University. September 8, 2023.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, Leith Davis, and the Lyon in Mourning Team. <title level="a">Building Networks: The Lyon in Mourning Project and Institutional Collaborations.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Victoria, BC, Canada. January 17, 2023.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Granting Agency: Opportunities and Challenges of Named Grant Collaborations</title>. Keeping it ReAL 2022: LIS and Collaboration, University of British Columbia and Simon Fraser University, November 17, 2022.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Serverless Searching with XSLT and JavaScript</title>. Balisage: The Markup Conference 2022. August 1, 2022.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a"><title level="a">An Exact and Faithful Copy</title>?: Encoding, Transcribing, and Using the Digital <title level="a">Lyon in Mourning</title></title>. New Perspectives on Robert Forbes’s <title level="a">The Lyon in Mourning</title> Manuscript. Institute for Advanced Studies in the Humanities, University of Edinburgh. June 30, 2022.</conference>
-                <conference>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <title level="a">NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</title> Poster Session. Text Encoding Initiative (TEI) 2021 Conference. October 26, 2021.</conference>
-                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Nine Projects, One Codebase: A Static Search Engine for Digital Editions.</title>  Collaboration: Digital Humanities Conference. University of British Columbia. October 31, 2020.</conference>
-                <conference>Joyce, Michael, <ref target="#me">Joey Takeda</ref>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. <title level="a">Collaboration in the Middle.</title> Collaboration: Digital Humanities Conference. University of British Columbia. October 29, 2020.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities.</title> DHSI Conference and Colloquium 2020. June 06, 2020.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, and Sydney Lines. <title level="a">Using Github and its Integrations to Create, Test, and Deploy a Digital Edition.</title> Presented by <ref target="#me">Joey Takeda</ref>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
-                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Prefabricated Website: Who Needs a Server Anyway?</title> Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 19, 2019.</conference>
-                <conference>Jenstad, Janelle, <ref target="#me">Joey Takeda</ref>, Brett Greatley-Hirsch, and James Mardock. <title level="a">What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts.</title> Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</conference>
-                <conference>Roberts-Smith, Jennifer, <ref target="#me">Joey Takeda</ref>, Mark Kaethler, Toby Malone, and Janelle Jenstad. <title level="a">Reconceiving TEI Models of Theatrical Performance Text with Reference to Promptbooks.</title> Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. September 18, 2019.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, and Jennifer Roberts-Smith. <title level="a">One More Time With Feeling: Revisiting XPointers to Address the Complexities of Promptbook Encoding.</title> Presented by Jennifer Roberts-Smith. Digital Humanities 2019 (DH2019) Conference. Utrecht University. July 12, 2019.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Unsettling Geologic Vision.</title> Association of Canadian College and University Teachers of English (ACCUTE) Conference. Congress of the Humanities and Social Sciences. University of British Columbia. June 03, 2019.</conference>
-                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Why Do I Need Four Search Engines?</title> Presented by Martin Holmes. Japanese Association for Digital Humanities conference. September 13, 2018. <ref target="http://joeytakeda.github.io/pdf/JADH_2018.pdf">PDF</ref>.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a"><title level="a">Depth and width between the surface</title>: Reading Vertical Mobility in François Mandeville’s <title level="a">How Copper Was Discovered</title> and Marie Clements’ <title level="m">Burning Vision</title>.</title> Endnotes 2018 conference. University of British Columbia. May 05, 2018.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Rethinking Protocols: Networking, Temporality, Decolonization.</title> Qualicum History Conference. Parksville, British Columbia. January 27, 2018.</conference>
-                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</title> Digital Humanities 2017 Conference. McGill University. August 11, 2017.<!--<ref target="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.--></conference>
-                <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">Mapping the STC with MoEML and DEEP.</title> Digital Humanities 2017 Conference. Presented by Tye Landels-Gruenewald and <ref target="#me">Joey Takeda</ref>. McGill University. August 09, 2017. <ref target="http://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf">PDF</ref>.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">The Fragility of Reconciliation: Reading <title level="m">The Book of Jessica</title>.</title> CSPT Graduate Conference. University of Victoria. May 05, 2017.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>.</title> Qualicum History Conference. Parksville, British Columbia. January 28, 2017.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Alison J. Moore, Andrew Gardener, and Rebecca Dowson. <title level="a">Upgrading Everything, Everywhere, All At Once</title>. Access 2023. Halifax, NS, <date when="2023-10-24">October 24, 2023</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Mary Chapman. <title level="a">Lights, Camera, Slugline?: Encoding Screenplays in TEI</title>. Encoding Cultures: Joint Text Encoding Initiative (TEI-MEC) Conference. Paderborn University. <date when="2023-09-08">September 8, 2023</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Leith Davis, and the Lyon in Mourning Team. <title level="a">Building Networks: The Lyon in Mourning Project and Institutional Collaborations.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Victoria, BC, Canada. <date when="2023-01-17">January 17, 2023</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Granting Agency: Opportunities and Challenges of Named Grant Collaborations</title>. Keeping it ReAL 2022: LIS and Collaboration, University of British Columbia and Simon Fraser University, <date when="2022-11-17">November 17, 2022</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Serverless Searching with XSLT and JavaScript</title>. Balisage: The Markup Conference 2022. <date when="2022-08-01">August 1, 2022</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a"><title level="a">An Exact and Faithful Copy</title>?: Encoding, Transcribing, and Using the Digital <title level="a">Lyon in Mourning</title></title>. New Perspectives on Robert Forbes’s <title level="a">The Lyon in Mourning</title> Manuscript. Institute for Advanced Studies in the Humanities, University of Edinburgh. <date when="2022-06-30">June 30, 2022</date>.</conference>
+                <conference>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <title level="a">NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</title> Poster Session. Text Encoding Initiative (TEI) 2021 Conference. <date when="2021-10-26">October 26, 2021</date>.</conference>
+                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Nine Projects, One Codebase: A Static Search Engine for Digital Editions.</title>  Collaboration: Digital Humanities Conference. University of British Columbia. <date when="2020-10-31">October 31, 2020</date>.</conference>
+                <conference>Joyce, Michael, <ref target="#me">Joey Takeda</ref>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. <title level="a">Collaboration in the Middle.</title> Collaboration: Digital Humanities Conference. University of British Columbia. <date when="2020-10-29">October 29, 2020</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities.</title> DHSI Conference and Colloquium 2020. <date when="2020-06-06">June 06, 2020</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, and Sydney Lines. <title level="a">Using Github and its Integrations to Create, Test, and Deploy a Digital Edition.</title> Presented by <ref target="#me">Joey Takeda</ref>. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. <date when="2019-09-19">September 19, 2019</date>.</conference>
+                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Prefabricated Website: Who Needs a Server Anyway?</title> Presented by Martin Holmes. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. <date when="2019-09-19">September 19, 2019</date>.</conference>
+                <conference>Jenstad, Janelle, <ref target="#me">Joey Takeda</ref>, Brett Greatley-Hirsch, and James Mardock. <title level="a">What is a Line? Encoding and Counting Lines in Early Modern Dramatic Texts.</title> Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. <date when="2019-09-18">September 18, 2019</date>.</conference>
+                <conference>Roberts-Smith, Jennifer, <ref target="#me">Joey Takeda</ref>, Mark Kaethler, Toby Malone, and Janelle Jenstad. <title level="a">Reconceiving TEI Models of Theatrical Performance Text with Reference to Promptbooks.</title> Presented by Janelle Jenstad. Text Encoding Initiative (TEI) 2019 Conference. University of Graz. <date when="2019-09-18">September 18, 2019</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, and Jennifer Roberts-Smith. <title level="a">One More Time With Feeling: Revisiting XPointers to Address the Complexities of Promptbook Encoding.</title> Presented by Jennifer Roberts-Smith. Digital Humanities 2019 (DH2019) Conference. Utrecht University. <date when="2019-07-12">July 12, 2019</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Unsettling Geologic Vision.</title> Association of Canadian College and University Teachers of English (ACCUTE) Conference. Congress of the Humanities and Social Sciences. University of British Columbia. <date when="2019-06-03">June 03, 2019</date>.</conference>
+                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Why Do I Need Four Search Engines?</title> Presented by Martin Holmes. Japanese Association for Digital Humanities conference. <date when="2018-09-13">September 13, 2018</date>. <ref target="http://joeytakeda.github.io/pdf/JADH_2018.pdf">PDF</ref>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a"><title level="a">Depth and width between the surface</title>: Reading Vertical Mobility in François Mandeville’s <title level="a">How Copper Was Discovered</title> and Marie Clements’ <title level="m">Burning Vision</title>.</title> Endnotes 2018 conference. University of British Columbia. <date when="2018-05-05">May 05, 2018</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Rethinking Protocols: Networking, Temporality, Decolonization.</title> Qualicum History Conference. Parksville, British Columbia. <date when="2018-01-27">January 27, 2018</date>.</conference>
+                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</title> Digital Humanities 2017 Conference. McGill University. <date when="2017-08-11">August 11, 2017</date>.<!--<ref target="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.--></conference>
+                <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">Mapping the STC with MoEML and DEEP.</title> Digital Humanities 2017 Conference. Presented by Tye Landels-Gruenewald and <ref target="#me">Joey Takeda</ref>. McGill University. <date when="2017-08-09">August 09, 2017</date>. <ref target="http://joeytakeda.github.io/pdf/Beyond_Validation-2017.pdf">PDF</ref>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">The Fragility of Reconciliation: Reading <title level="m">The Book of Jessica</title>.</title> CSPT Graduate Conference. University of Victoria. <date when="2017-05-05">May 05, 2017</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>.</title> Qualicum History Conference. Parksville, British Columbia. <date when="2017-01-28">January 28, 2017</date>.</conference>
+                <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">How To Do Things with 6000 Toponyms.</title> Presented by Janelle Jenstad and <ref target="#me">Joey Takeda</ref>. How To Do Things with Millions Of Words Conference, University of British Columbia, <date when="2016-11-03">November 03, 2016</date>.</conference>
             </listConferences>
         </section>
     </section>
@@ -360,6 +363,7 @@
         <section type="workshops">
             <head>Workshops</head>
             <listConferences>
+                <conference><title level="a">Creating Digital Editions using TEI</title>. Digital Humanities Workshop Skill Series, Simon Fraser University Library, November 7, 2023.</conference>
                 <conference><title level="a">How to End Your Digital Project (three day workshop).</title> Co-taught with Janelle Jenstad. DH@Guelph 2023 Workshop Series, University of Guelph, May 10–12, 2023.</conference>
                 <conference><title level="a">Unlocking XML Data with XPath.</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, March 29, 2023.</conference>
                 <conference><title level="a">Introduction to the Text Encoding Initiative (TEI): What is it and why should I care?</title> Digital Humanities Workshop Skill Series, Simon Fraser University Library, October 26, 2022.</conference>
@@ -368,7 +372,6 @@
                 <conference><title level="a">Introduction to Encoding for Literary Studies.</title> Department of English Language and Literatures, University of British Columbia, April 15, 2019.</conference>
                 <conference><title level="a">So I Want To Use the TEI . . . Now What?</title> Pixelating DH Mixer and Workshop, University of British Columbia, October 25, 2018.</conference>
                 <conference><title level="a">What is the TEI and Why Should I Care?</title> Pixelating DH Mixer and Workshop, University of British Columbia, September 20, 2018.</conference>
-                
                 <conference><title level="a">Ending Your Digital Humanities Project from the Start.</title> Pixelating DH Mixer and Workshop, University of British Columbia, June 28, 2018.</conference>
                 <conference><title level="a">Introduction to TEI Projects Workshop (full day workshop).</title> Co-taught with Janelle Jenstad. TEI 2017 conference,  University of Victoria, November 11, 2017.</conference>
                 
@@ -399,6 +402,7 @@
     <section>
         <head>Honours and Awards</head>
         <listAwards>
+            <award from="2023" to="2025">Association of Research Libraries Kaleidoscope Program Scholar</award>
             <award when="2016">University of Victoria Department of English Medal of Excellence</award>
             <award when="2015">Frank Hori Foundation Scholarship</award>
             <award when="2015">Allardice Lancaster Scholarship</award>
@@ -413,69 +417,91 @@
     
     <section type="service">
         <head>Service</head>
-        <listJobs>
-            <job from="2023-05">
-                <job_title>Member</job_title>
-                <workplace>Public Knowledge Project Technical Committee</workplace>
-            </job>
-            <job from="2023-01" to="2027-12">
-                <job_title>Elected Member</job_title>
-                <workplace>TEI-C Technical Council</workplace>
-            </job>
-            <job from="2022-05">
-                <job_title>Peer Reviewer</job_title>
-                <workplace>The Advanced Research Consortium<!-- (Texas A&amp;M University)--></workplace>
-            </job>
-            <job from="2021-02">
-                <job_title>International Advisory Board Member</job_title>
-                <workplace>TEI By Example<!-- (University of Edinburgh)--></workplace>
-            </job>
-<!--            <job from="2020-01">
-                <job_title>Consulting Programmer and Designer</job_title>
-                <workplace>Linked Early Modern Drama Online<!-\- (University of Victoria)-\-></workplace>
-            </job>-->
-            <job from="2019-01">
-                <job_title>Technical Director</job_title>
-                <workplace>The Winnifred Eaton Archive<!-- (University of British Columbia)--></workplace>
-            </job>
-            <job from="2019-01" to="2020-02">
-                <job_title>Peer Reviewer</job_title>
-                <workplace>Journal of the Text Encoding Initiative</workplace>
-            </job>
-            <job from="2018-09" to="2019-09">
-                <job_title>Member</job_title>
-                <workplace>Works in Progress Committee, English Graduate Caucus, University of British Columbia</workplace>
-            </job>
-            <job from="2018-09" to="2018-12">
-                <job_title>Union Representative</job_title>
-                <workplace>English Graduate Caucus, University of British Columbia</workplace>
-            </job>
-            <job from="2017-09" to="2018-09">
-                <job_title>Communications Coordinator</job_title>
-                <workplace>English Graduate Caucus, University of British Columbia</workplace>
-            </job>
-            <job from="2016-09" to="2017-06">
-                <job_title>Co-organizer</job_title>
-                <workplace>Endnotes Graduate Conference, University of British Columbia</workplace>
-            </job>
-           <job from="2015-09" to="2016-06">
-                <job_title>Editor-in-chief</job_title>
-                <workplace>The Albatross English Undergraduate Journal, University of Victoria</workplace>
-            </job>
-            <job from="2015-09" to="2016-06">
-                <job_title>Executive Editor</job_title>
-                <workplace>The Warren Undergraduate Review, University of Victoria</workplace>                
-            </job>
-            <job from="2014-09" to="2015-06">
-                <job_title>Vice-President of Academic Affairs</job_title>
-                <workplace>English Students’ Association, University of Victoria</workplace>
+        <section>
+            <head>Service to the Profession</head>
+            <listJobs>
                 
-            </job>
-            <job from="2014-09" to="2015-06">
-                <job_title>Criticism Editor</job_title>
-                <workplace>The Warren Undergraduate Review, University of Victoria</workplace>
-            </job>
-        </listJobs>
+                <job from="2023-05">
+                    <job_title>Technical Committee Member</job_title>
+                    <workplace>Public Knowledge Project (PKP)</workplace>
+                </job>
+                <job from="2023-01" to="2027-12">
+                    <job_title>Elected Member</job_title>
+                    <workplace>TEI-C Technical Council</workplace>
+                </job>
+                <job from="2019-01">
+                    <job_title>Technical Director</job_title>
+                    <workplace>The Winnifred Eaton Archive<!-- (University of British Columbia)--></workplace>
+                </job>
+                <job when="2022">
+                    <job_title>Peer Reviewer</job_title>
+                    <workplace>The Advanced Research Consortium<!-- (Texas A&amp;M University)--></workplace>
+                </job>
+                <job when="2021">
+                    <job_title>International Advisory Board Member</job_title>
+                    <workplace>TEI By Example<!-- (University of Edinburgh)--></workplace>
+                </job>
+                <job from="2017" to="2018">
+                    <job_title>Peer Reviewer</job_title>
+                    <workplace>Journal of the Text Encoding Initiative</workplace>
+                </job>
+            </listJobs>
+        </section>
+        <section>
+            <head>Simon Fraser University</head>
+            <listJobs>
+                <job from="2022">
+                    <job_title>Member</job_title>
+                    <workplace>Open Scholarship Planning Team</workplace>
+                </job>
+                <job from="2022" to="2022">
+                    <job_title>Member</job_title>
+                    <workplace>Web and Data Services Developer Hiring Committee</workplace>
+                </job>
+                <job from="2022" to="2022">
+                    <job_title>Co-chair</job_title>
+                    <workplace>Digital Fellow Hiring Committee</workplace>
+                </job>
+            </listJobs>
+        </section>
+        <section>
+            <head>Editorial and Other Service</head>
+            <listJobs>
+                <job from="2018-09" to="2019-09">
+                    <job_title>Member</job_title>
+                    <workplace>Works in Progress Committee, English Graduate Caucus, University of British Columbia</workplace>
+                </job>
+                <job from="2018-09" to="2018-12">
+                    <job_title>Union Representative</job_title>
+                    <workplace>English Graduate Caucus, University of British Columbia</workplace>
+                </job>
+                <job from="2017-09" to="2018-09">
+                    <job_title>Communications Coordinator</job_title>
+                    <workplace>English Graduate Caucus, University of British Columbia</workplace>
+                </job>
+                <job from="2016-09" to="2017-06">
+                    <job_title>Co-organizer</job_title>
+                    <workplace>Endnotes Graduate Conference, University of British Columbia</workplace>
+                </job>
+                <job from="2015-09" to="2016-06">
+                    <job_title>Editor-in-chief</job_title>
+                    <workplace>The Albatross English Undergraduate Journal, University of Victoria</workplace>
+                </job>
+                <job from="2015-09" to="2016-06">
+                    <job_title>Executive Editor</job_title>
+                    <workplace>The Warren Undergraduate Review, University of Victoria</workplace>                
+                </job>
+                <job from="2014-09" to="2015-06">
+                    <job_title>Vice-President of Academic Affairs</job_title>
+                    <workplace>English Students’ Association, University of Victoria</workplace>
+                </job>
+                <job from="2014-09" to="2015-06">
+                    <job_title>Criticism Editor</job_title>
+                    <workplace>The Warren Undergraduate Review, University of Victoria</workplace>
+                </job>
+            </listJobs>
+           
+        </section>
     </section>
     
     <!--<section type="affiliations">
@@ -492,10 +518,10 @@
             </job>
         </listJobs>
     </section>-->
-   <!-- <section type="references">
+    <section type="references">
         <head>References</head>
         <listReferences>
-            <!-\-Not available through GitHub repo. Please contact me if you would like to see full references.-\->
+            <!--Not available through GitHub repo. Please contact me if you would like to see full references.-->
         </listReferences>
-    </section>-->
+    </section>
 </cv>
