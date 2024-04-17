@@ -18,15 +18,11 @@
     <target name="createCv">
         <ant antfile="../cv/build.xml" inheritall="true" usenativebasedir="true"/>
     </target>
-  
-    
     <target name="makeCvIndex">
         <echo message="${echo.separator}"/>
         <echo message="Creating CV index page..."/>
         <copy file="docs/CV.html" tofile="index.html"/>
     </target>
-    
-    
     <target name="pushToGit">
         <exec executable="/bin/bash">
             <arg line="scripts/git.sh ${message}"/>
@@ -35,7 +31,7 @@
     
     <target name="allButPush">
         <antcall target="createCv"/>
-        <antcall target="makeCvIndex"/>
+        <!--<antcall target="makeCvIndex"/>-->
     </target>
     
     <target name="all">
