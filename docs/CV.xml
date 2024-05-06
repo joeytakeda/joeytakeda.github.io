@@ -8,7 +8,7 @@
             <title>Joey (Joseph) Takeda's Curriculum Vitae</title>
          </titleStmt>
          <publicationStmt>
-            <p> Last generated 2024-04-17.</p>
+            <p> Last generated 2024-05-05.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital, but generated using XSLT.</p>
@@ -86,11 +86,17 @@
                <listBibl>
                   <head>Invited Presentations</head>
                   <bibl>
+                     <ref target="#me">Takeda, Joey</ref>. <title level="a">Between Modularity and Minimalism: Sustainability, Platforms, and Ecosystems.</title> Crossing Fonds Symposium. Vancouver, BC, April 26, 2024.</bibl>
+                  <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Sustaining DH: Endings, Dependencies, Infrastructure.</title> Maryland Institute for Technology in the Humanities (MITH) Digital Dialogues Series. April 9, 2024.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. Invited panelist on <title level="a">Research Careers Outside the Tenure Track.</title> UBC Arts Amplifier. November 28, 2023.</bibl>
                   <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">Encountering Epithets: On Encoding (and Not Encoding) Racialized Language in the Winnifred Eaton Archive.</title> Antiracist Markup Practices Symposium, Women Writers Project, Northeastern University, May 15, 2023.</bibl>
                   <bibl>Moore, Alison J., <ref target="#me">Joey Takeda</ref>, and Julianna Wagar. <title level="a">Unlock Your Research Impact: Digital Humanities for the Public.</title> Knowledge Mobilization Lunch and Learn Series, Simon Fraser University Library, February 1, 2023.</bibl>
+                  <bibl>
+                     <ref target="#me">Takeda, Joey</ref>. <title level="a">
+                        <title level="a">An Exact and Faithful Copy</title>?: Encoding, Transcribing, and Using the Digital <title level="a">Lyon in Mourning</title>
+                     </title>. New Perspectives on Robert Forbes’s <title level="a">The Lyon in Mourning</title> Manuscript. Institute for Advanced Studies in the Humanities, University of Edinburgh. June 30, 2022.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Sustainable StoryMaps: A Case Study in Staticization with StoryMapJS.</title> GIS Day 2021, Simon Fraser University and the University of British Columbia, November 19, 2021.</bibl>
                   <bibl>Dowson, Rebecca, and <ref target="#me">Joey Takeda</ref>. <title level="a">Where Do We Go From Here? Incubating Digital Scholarship in the Library.</title> Lightning talk. The Canadian Digital Scholarship Community of Practice Meeting. October 21, 2021.</bibl>
@@ -100,9 +106,9 @@
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">The Landscapes of Injustice Digital Archive.</title> Landscapes of Injustice Digital Archive Launch, University of Victoria, March 28, 2021.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Introduction to the Digital Archive.</title> The Winnifred Eaton Archive Public Launch, University of British Columbia, September 16, 2020.</bibl>
+                  <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Winnifred Eaton Archive.</title> UBC Pixelating Project Showcase, University of British Columbia, May 20, 2020.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Ending MoEML.</title> Panel presentation for <title level="m">MoEML at Twenty</title> with Mark Kaethler and Janelle Jenstad. Canadian Society for Digital Humanities/Société Canadienne Des Humanités Numériques (CSDH-SCHN) Conference. Congress of the Humanities and Social Sciences, University of British Columbia, June 03, 2019.</bibl>
-                  <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Winnifred Eaton Archive.</title> UBC Pixelating Project Showcase, University of British Columbia, May 20, 2020.</bibl>
                </listBibl>
                <listBibl>
                   <head>Refereed Presentations</head>
@@ -110,8 +116,6 @@
                      <ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Leean Wu. <title level="a">
                         <title level="a">Roll on, reels of celluloid, as the great earth rolls on!</title>: Preserving Early Hollywood Archives and Enacting Social Scholarship with the Winnifred Eaton Archive.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Montreal, QC, Canada. June 17, 2024.</bibl>
                   <bibl>Dowson, Rebecca, Alison J. Moore, <ref target="#me">Joey Takeda</ref>, and Andrew Gardener. <title level="a">Beyond the Start Up: Sustainable Approaches to Open Social Scholarship</title>. Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Montreal, QC, Canada. June 17, 2024.</bibl>
-                  <bibl>
-                     <ref target="#me">Takeda, Joey</ref>. <title level="a">Between Modularity and Minimalism: Sustainability, Platforms, and Ecosystems.</title> Crossing Fonds Symposium. Vancouver, BC, April 26, 2024.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>, Alison J. Moore, Andrew Gardener, and Rebecca Dowson. <title level="a">Upgrading Everything, Everywhere, All At Once.</title> Access 2023. Halifax, NS, October 24, 2023.</bibl>
                   <bibl>
@@ -122,10 +126,6 @@
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Granting Agency: Opportunities and Challenges of Named Grant Collaborations.</title> Keeping it ReAL 2022: LIS and Collaboration, University of British Columbia and Simon Fraser University, November 17, 2022.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Serverless Searching with XSLT and JavaScript.</title> Balisage: The Markup Conference 2022. August 1, 2022.</bibl>
-                  <bibl>
-                     <ref target="#me">Takeda, Joey</ref>. <title level="a">
-                        <title level="a">An Exact and Faithful Copy</title>?: Encoding, Transcribing, and Using the Digital <title level="a">Lyon in Mourning</title>
-                     </title>. New Perspectives on Robert Forbes’s <title level="a">The Lyon in Mourning</title> Manuscript. Institute for Advanced Studies in the Humanities, University of Edinburgh. June 30, 2022.</bibl>
                   <bibl>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <title level="a">NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</title> Poster Session. Text Encoding Initiative (TEI) 2021 Conference. October 26, 2021.</bibl>
                   <bibl>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Nine Projects, One Codebase: A Static Search Engine for Digital Editions.</title> Collaboration: Digital Humanities Conference. University of British Columbia. October 31, 2020.</bibl>
                   <bibl>Joyce, Michael, <ref target="#me">Joey Takeda</ref>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. <title level="a">Collaboration in the Middle.</title> Collaboration: Digital Humanities Conference. University of British Columbia. October 29, 2020.</bibl>
@@ -157,11 +157,17 @@
                <listBibl>
                   <head>Invited Presentations</head>
                   <bibl>
+                     <ref target="#me">Takeda, Joey</ref>. <title level="a">Between Modularity and Minimalism: Sustainability, Platforms, and Ecosystems.</title> Crossing Fonds Symposium. Vancouver, BC, April 26, 2024.</bibl>
+                  <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Sustaining DH: Endings, Dependencies, Infrastructure.</title> Maryland Institute for Technology in the Humanities (MITH) Digital Dialogues Series. April 9, 2024.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. Invited panelist on <title level="a">Research Careers Outside the Tenure Track.</title> UBC Arts Amplifier. November 28, 2023.</bibl>
                   <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">Encountering Epithets: On Encoding (and Not Encoding) Racialized Language in the Winnifred Eaton Archive.</title> Antiracist Markup Practices Symposium, Women Writers Project, Northeastern University, May 15, 2023.</bibl>
                   <bibl>Moore, Alison J., <ref target="#me">Joey Takeda</ref>, and Julianna Wagar. <title level="a">Unlock Your Research Impact: Digital Humanities for the Public.</title> Knowledge Mobilization Lunch and Learn Series, Simon Fraser University Library, February 1, 2023.</bibl>
+                  <bibl>
+                     <ref target="#me">Takeda, Joey</ref>. <title level="a">
+                        <title level="a">An Exact and Faithful Copy</title>?: Encoding, Transcribing, and Using the Digital <title level="a">Lyon in Mourning</title>
+                     </title>. New Perspectives on Robert Forbes’s <title level="a">The Lyon in Mourning</title> Manuscript. Institute for Advanced Studies in the Humanities, University of Edinburgh. June 30, 2022.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Sustainable StoryMaps: A Case Study in Staticization with StoryMapJS.</title> GIS Day 2021, Simon Fraser University and the University of British Columbia, November 19, 2021.</bibl>
                   <bibl>Dowson, Rebecca, and <ref target="#me">Joey Takeda</ref>. <title level="a">Where Do We Go From Here? Incubating Digital Scholarship in the Library.</title> Lightning talk. The Canadian Digital Scholarship Community of Practice Meeting. October 21, 2021.</bibl>
@@ -171,9 +177,9 @@
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">The Landscapes of Injustice Digital Archive.</title> Landscapes of Injustice Digital Archive Launch, University of Victoria, March 28, 2021.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Introduction to the Digital Archive.</title> The Winnifred Eaton Archive Public Launch, University of British Columbia, September 16, 2020.</bibl>
+                  <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Winnifred Eaton Archive.</title> UBC Pixelating Project Showcase, University of British Columbia, May 20, 2020.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Ending MoEML.</title> Panel presentation for <title level="m">MoEML at Twenty</title> with Mark Kaethler and Janelle Jenstad. Canadian Society for Digital Humanities/Société Canadienne Des Humanités Numériques (CSDH-SCHN) Conference. Congress of the Humanities and Social Sciences, University of British Columbia, June 03, 2019.</bibl>
-                  <bibl>Chapman, Mary, Sydney Lines, and <ref target="#me">Joey Takeda</ref>. <title level="a">The Winnifred Eaton Archive.</title> UBC Pixelating Project Showcase, University of British Columbia, May 20, 2020.</bibl>
                </listBibl>
                <listBibl>
                   <head>Refereed Presentations</head>
@@ -181,8 +187,6 @@
                      <ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Leean Wu. <title level="a">
                         <title level="a">Roll on, reels of celluloid, as the great earth rolls on!</title>: Preserving Early Hollywood Archives and Enacting Social Scholarship with the Winnifred Eaton Archive.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Montreal, QC, Canada. June 17, 2024.</bibl>
                   <bibl>Dowson, Rebecca, Alison J. Moore, <ref target="#me">Joey Takeda</ref>, and Andrew Gardener. <title level="a">Beyond the Start Up: Sustainable Approaches to Open Social Scholarship</title>. Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering. Montreal, QC, Canada. June 17, 2024.</bibl>
-                  <bibl>
-                     <ref target="#me">Takeda, Joey</ref>. <title level="a">Between Modularity and Minimalism: Sustainability, Platforms, and Ecosystems.</title> Crossing Fonds Symposium. Vancouver, BC, April 26, 2024.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>, Alison J. Moore, Andrew Gardener, and Rebecca Dowson. <title level="a">Upgrading Everything, Everywhere, All At Once.</title> Access 2023. Halifax, NS, October 24, 2023.</bibl>
                   <bibl>
@@ -193,10 +197,6 @@
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Granting Agency: Opportunities and Challenges of Named Grant Collaborations.</title> Keeping it ReAL 2022: LIS and Collaboration, University of British Columbia and Simon Fraser University, November 17, 2022.</bibl>
                   <bibl>
                      <ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Serverless Searching with XSLT and JavaScript.</title> Balisage: The Markup Conference 2022. August 1, 2022.</bibl>
-                  <bibl>
-                     <ref target="#me">Takeda, Joey</ref>. <title level="a">
-                        <title level="a">An Exact and Faithful Copy</title>?: Encoding, Transcribing, and Using the Digital <title level="a">Lyon in Mourning</title>
-                     </title>. New Perspectives on Robert Forbes’s <title level="a">The Lyon in Mourning</title> Manuscript. Institute for Advanced Studies in the Humanities, University of Edinburgh. June 30, 2022.</bibl>
                   <bibl>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <title level="a">NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</title> Poster Session. Text Encoding Initiative (TEI) 2021 Conference. October 26, 2021.</bibl>
                   <bibl>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Nine Projects, One Codebase: A Static Search Engine for Digital Editions.</title> Collaboration: Digital Humanities Conference. University of British Columbia. October 31, 2020.</bibl>
                   <bibl>Joyce, Michael, <ref target="#me">Joey Takeda</ref>, Frédérik Lesage, Michelle Levy, and Rémi Castonguay. <title level="a">Collaboration in the Middle.</title> Collaboration: Digital Humanities Conference. University of British Columbia. October 29, 2020.</bibl>
@@ -225,6 +225,9 @@
                      <ref target="#me">Takeda, Joey</ref>. <title level="a">Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>.</title> Qualicum History Conference. Parksville, British Columbia. January 28, 2017.</bibl>
                   <bibl>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">How To Do Things with 6000 Toponyms.</title> Presented by Janelle Jenstad and <ref target="#me">Joey Takeda</ref>. How To Do Things with Millions Of Words Conference, University of British Columbia, November 03, 2016.</bibl>
                </listBibl>
+               <occupation type="unpaid" when="2024">
+                  <p>Peer Reviewer at RIDE—A Review Journal of Digital Editions and Resources.</p>
+               </occupation>
                <occupation type="unpaid" from="2023-05">
                   <p>Technical Committee Member at Public Knowledge Project (PKP).</p>
                </occupation>
@@ -278,6 +281,9 @@
                </occupation>
                <occupation type="unpaid" from="2014-09" to="2015-06">
                   <p>Criticism Editor at The Warren Undergraduate Review, University of Victoria.</p>
+               </occupation>
+               <occupation type="unpaid" when="2024">
+                  <p>Peer Reviewer at RIDE—A Review Journal of Digital Editions and Resources.</p>
                </occupation>
                <occupation type="unpaid" from="2023-05">
                   <p>Technical Committee Member at Public Knowledge Project (PKP).</p>
@@ -430,8 +436,9 @@
                <note>
                   <list>
                      <head>Grants</head>
+                     <item>External Partner. UBC PhD CoLab. <title level="a">The Adaptive Text Encoding Initiative Network: Antiracist, Decolonial, and Inclusive Markup Interventions.</title> (Principal Investigators: Sydney Lines and Mary Chapman) (<date when="2024-04">2024-04</date>)</item>
                      <item>
-                Co-Applicant. SSHRC Connection Grant, <title level="a">Onoto Watanna’s CATTLE at 100: Indomitable Women in the West During the Chinese Exclusion Era</title>. (Principal Investigator: Mary Chapman)
+                Co-Applicant. SSHRC Connection Grant, <title level="a">Onoto Watanna’s CATTLE at 100: Indomitable Women in the West During the Chinese Exclusion Era.</title> (Principal Investigator: Mary Chapman)
              (<date when="2021-05">2021-05</date>)</item>
                      <item>Collaborator. SSHRC Partnership Engage Grant, <title level="a">Engaging Public and Academic Audiences to Recover Lost Voices of Scottish History: <title level="a">The Lyon in Mourning</title> Manuscript and the Jacobite Networks of the 1745 Rising</title>. (Principal Investigator: Leith Davis) (<date when="2020-05">2020-05</date>)</item>
                      <item>Applicant. SSHRC Canadian Graduate Scholarship-Masters Grant, <title level="a">Literary Ecologies of Decolonization in Canada</title>. (<date when="2016">2016</date>)</item>
