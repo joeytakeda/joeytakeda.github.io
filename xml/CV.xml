@@ -167,7 +167,6 @@
                 <desc>
                     <list>
                         <item>Developed tools and workflows, including widely-cited Endings Principles, for producing archivable, static projects from long-running projects</item>
-                        <item>Co-developed staticSearch, an open-source search engine geared toward static site development in the digital humanities, which has been used by over a dozen projects internationally</item>
                     </list>
                 </desc>
             </project>
@@ -182,6 +181,16 @@
                     <list>
                         <item>Connected six distinct datasets in collaboration with Landscapes of Injustice research clusters (including the Nikkei National Museum) to build and develop a comprehensive archive (over 40,000 documents) of historical documents related to the dispossession of Japanese Canadians, including an index of over 27,000 Japanese Canadians.</item>
                     </list> 
+                </desc>
+            </project>
+            <project>
+                <project_name>Static Search</project_name>
+                <role from="2019">Co-Developer</role>
+                <ptr target="https://github.com/projectEndings/staticSearch"/>
+                <desc>
+                    <list>
+                        <item>Developing and maintaining an open-source search engine geared toward static site development in the digital humanities, which has been used by over a dozen projects internationally</item>
+                    </list>
                 </desc>
             </project>
             <project>
@@ -255,7 +264,7 @@
             <listPublications>
                 <publication><ref target="#me">Takeda, Joey</ref>. <title level="a"><title level="a">Becoming Canadian</title>: Re-assessing Winnifred Eaton’s Alberta Years.</title> <title level="m">Recasting Winnifred Eaton: New Approaches to Onoto Watanna</title>, edited by Rena Heinrich, Dominika Ferrens, and Shoshannah Ganz. McGill-Queens University Press, <date notBefore="2026">forthcoming</date>.</publication>
                 <publication><ref target="#me">Takeda, Joey</ref>, and Sydney Lines. <title level="a">How We Came to Build the <title level="m">Winnifred Eaton Archive</title>.</title> <title level="m">Recasting Winnifred Eaton: New Approaches to Onoto Watanna</title>, edited by Rena Heinrich, Dominika Ferrens, and Shoshannah Ganz. McGill-Queens University Press, <date notBefore="2026">forthcoming</date>.</publication>
-                <publication>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Shauna Irani, Dana Lai, Emma Trotter, and Julianna Wagar. <title level="a">A New Approach to Old Networks: Applying Digital Humanities Methodologies to Analyze Robert Forbes’s ‘The Lyon in Mourning’ Manuscript.</title> <title level="m">Shaping Jacobitism: Memory, Culture, Networks</title>, edited by Leith Davis and Kevin James, University of Edinburgh Press, 2025. <ptr target="http://doi.org/10.1515/9781399525800-022"/></publication>
+                <publication>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Shauna Irani, Dana Lai, Emma Trotter, and Julianna Wagar. <title level="a">A New Approach to Old Networks: Applying Digital Humanities Methodologies to Analyze Robert Forbes’s ‘The Lyon in Mourning’ Manuscript.</title> <title level="m">Shaping Jacobitism: Memory, Culture, Networks</title>, edited by Leith Davis and Kevin James, University of Edinburgh Press, 2025, pp. 237–248. <ptr target="https://doi.org/10.1515/9781399525800-022"/></publication>
                 <publication>Lines, Sydney, and <ref target="#me">Joey Takeda</ref>. <title level="a">Recovering a Future Artifact: <title level="m">The Winnifred Eaton Archive</title> and a Genealogy of Care.</title> <title level="m">Legacy: A Journal of American Women Writers</title>, volume 40, numbers 1–2, 2023. <ptr target="https://doi.org/10.1353/leg.2023.a917946"/></publication>
                 <publication>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles.</title> <title level="m">Digital Humanities Quarterly</title> (DHQ), volume 17, issue 1, <date when="2023">2023</date>. <ptr target="https://digitalhumanities.org/dhq/vol/17/1/000668/000668.html"/></publication>
                 <publication><ref target="#me">Takeda, Joey</ref>. <title level="a">The Digital <title level="a">Lyon in Mourning</title>.</title> <title level="m">International Review of Scottish Studies</title> (IRSS), volume 47, <date when="2022">2022</date>. <ptr target="https://www.irss.uoguelph.ca/index.php/irss/article/view/7442"/></publication>
@@ -296,14 +305,16 @@
         <section xml:id="presentations_refereed">
             <head>Refereed Presentations</head>
             <listConferences>
-                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, Ekatarina Grgurić, and Rebeccca Dowson. <title level="a">Interlibrary Collaborations: Forging Antiracist, Decolonial, and Inclusive Markup Interventions in Partnership.</title> Text Encoding Initiative (TEI) 2024 Conference, Buenos Aires, Argentina, <date when="2024-10-10">October 10, 2024</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Andrew Gardener, and Rebecca Dowson. <title level="a">What does reproducibility look like for a DH project?</title> 1st Canadian Conference on Open Science and Open Scholarship, University of Concordia, Montreal, QC, <date when="2025-10-10">October 10, 2025</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Dispatches from the TEI's GIS Working Group</title>. Text Encoding Initiative (TEI) 2025 Conference, Kraków, Poland, <date when="2025-09-18">September 18, 2025</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, Ekatarina Grgurić, and Rebeccca Dowson. <title level="a">Interlibrary Collaborations: Forging Antiracist, Decolonial, and Inclusive Markup Interventions in Partnership.</title> Presented by <ref target="#me">Joey Takeda</ref> and Sydney Lines. Text Encoding Initiative (TEI) 2024 Conference, Buenos Aires, Argentina, <date when="2024-10-10">October 10, 2024</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">C is for Co(nsortium|uncil|llaboration|ntributors|mmunity), or What Can GitHub Issues Tell Us About the TEI?</title> Text Encoding Initiative (TEI) 2024 Conference, Universidad del Salvador, Buenos Aires, Argentina, <date when="2024-10-09">October 9, 2024</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Leean Wu. <title level="a"><title level="a">Roll on, reels of celluloid, as the great earth rolls on!</title>: Preserving Early Hollywood Archives and Enacting Social Scholarship with the <title level="m">Winnifred Eaton Archive</title>.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Congress of the Humanities and Social Sciences, Montreal, QC, <date when="2024-06-17">June 17, 2024</date>.</conference>
                 <conference>Dowson, Rebecca, Alison J. Moore, <ref target="#me">Joey Takeda</ref>, and Andrew Gardener. <title level="a">Beyond the Start Up: Sustainable Approaches to Open Social Scholarship.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Congress of the Humanities and Social Sciences, Montreal, QC, <date when="2024-06-17">June 17, 2024</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>, Alison J. Moore, Andrew Gardener, and Rebecca Dowson. <title level="a">Upgrading Everything, Everywhere, All At Once.</title> Access 2023, Halifax, NS, <date when="2023-10-24">October 24, 2023</date>.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Mary Chapman. <title level="a">Lights, Camera, Slugline?: Encoding Screenplays in TEI.</title> Encoding Cultures: Joint Text Encoding Initiative (TEI-MEC) Conference, Paderborn University, Paderborn, Germany, <date when="2023-09-08">September 8, 2023</date>.</conference>
-                <conference>Moore, Alison J., and <ref target="#me">Joey Takeda</ref>. <title level="a"><title level="a">Just come talk to use</title>: Revisiting How Digital Scholarship Services Structure Collaboration.</title> Canadian Association of Professional Academic Librarians (CAPAL) Conference, Congress of the Humanities and Social Sciences, Toronto, ON, <date when="2023-07-08">June 8, 2023</date>.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, Leith Davis, and the Lyon in Mourning Team. <title level="a">Building Networks: The Lyon in Mourning Project and Institutional Collaborations.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Victoria, BC, <date when="2023-01-17">January 17, 2023</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Mary Chapman. <title level="a">Lights, Camera, Slugline?: Encoding Screenplays in TEI.</title> Presented by <ref target="#me">Joey Takeda</ref>. Encoding Cultures: Joint Text Encoding Initiative (TEI-MEC) Conference, Paderborn University, Paderborn, Germany, <date when="2023-09-08">September 8, 2023</date>.</conference>
+                <conference>Moore, Alison J., and <ref target="#me">Joey Takeda</ref>. <title level="a"><title level="a">Just come talk to use</title>: Revisiting How Digital Scholarship Services Structure Collaboration.</title> Presented by Alison J. Moore. Canadian Association of Professional Academic Librarians (CAPAL) Conference, Congress of the Humanities and Social Sciences, Toronto, ON, <date when="2023-07-08">June 8, 2023</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Leith Davis, and the Lyon in Mourning Team. <title level="a">Building Networks: The Lyon in Mourning Project and Institutional Collaborations.</title> Presented by <ref target="#me">Joey Takeda</ref>. Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Victoria, BC, <date when="2023-01-17">January 17, 2023</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Granting Agency: Opportunities and Challenges of Named Grant Collaborations.</title> Keeping it ReAL 2022: LIS and Collaboration, University of British Columbia and Simon Fraser University, virtual, <date when="2022-11-17">November 17, 2022</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Serverless Searching with XSLT and JavaScript.</title> Balisage: The Markup Conference 2022, virtual, <date when="2022-08-01">August 1, 2022</date>.</conference>
                 <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Nine Projects, One Codebase: A Static Search Engine for Digital Editions.</title> Collaboration: Digital Humanities Conference, University of British Columbia, virtual, <date when="2020-10-31">October 31, 2020</date>.</conference>
@@ -328,7 +339,9 @@
         <section xml:id="presentations_posters">
             <head>Posters</head>
             <listConferences>
-                <conference>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <title level="a">NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</title> Poster session, Text Encoding Initiative (TEI) 2021 Conference, University of Newcastle, virtual, <date when="2021-10-26">October 26, 2021</date>.</conference>
+                <conference>Moore, Alison J., Carla Graebner, Janice Banser, <ref target="#me">Joey Takeda</ref>, Melissa Salrin, Nicole White, Nina Saklikar, Rebecca Dowson, and Sarah Zhang. <title level="a">The Digital Scholarship Centre Working Group: Advancing research and open scholarship at SFU Library</title>. 1st Canadian Conference on Open Science and Open Scholarship, University of Concordia, Montreal, QC, <date when="2025-10-09">October 9, 2025</date>. 
+                </conference>
+                <conference>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <title level="a">NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</title> Text Encoding Initiative (TEI) 2021 Conference, University of Newcastle, virtual, <date when="2021-10-26">October 26, 2021</date>.</conference>
             </listConferences>
         </section>
     </section>
@@ -398,14 +411,14 @@
         <section>
             <head>Workshop Series and Courses</head>
             <listConferences>
-                <conference>TEI Summer Session workshop series (three half-day sessions). Co-organized with Sydney Lines. University of British Columbia and Simon Fraser University Library. <date from="2025-06" to="2025-08">June–August, 2025</date>
+                <conference>TEI Summer Session workshop series (three half-day sessions). Co-organized with Sydney Lines. University of British Columbia and Simon Fraser University Library. <date from="2025-06" to="2025-08">June–August, 2025</date>. <!--<ptr target="https://disa-dhil.github.io/tei-summer-sessions/"/>-->
                     <list>
                         <item><title level="a">Critical Editing and Interpretation in TEI</title> (June 27, 2025)</item>
                         <item><title level="a">Encoding Entities: People, Organizations, Time, and Place</title> (July 23, 2025)</item>
                         <item><title level="a">Encoding Language</title> (August 11, 2025)</item>
                     </list>
                 </conference>
-                <conference><title level="a">How to End Your Digital Project</title> (three day workshop). Co-taught with Janelle Jenstad. DH@Guelph 2023 Workshop Series, University of Guelph, <date from="2023-05-10" to="2023-05-12">May 10–12, 2023</date>.</conference>
+                <conference><title level="a">How to End Your Digital Project</title> (three day workshop). Co-taught with Janelle Jenstad. DH@Guelph 2023 Workshop Series, University of Guelph, <date from="2023-05-10" to="2023-05-12">May 10–12, 2023</date>. <!--<ptr target="https://projectEndings.github.io/dh-guelph-2023/"/>--></conference>
             </listConferences>
         </section>
         <section xml:id="teaching_workshops">
@@ -564,7 +577,7 @@
         <listAwards>
             <award from="2023" to="2025">Association of Research Libraries Kaleidoscope Program Scholar</award>
             <award when="2025">SFU Staff Achievement Award</award>
-            <award when="2022" to="2025">SFU Library Diversity Development Award</award>
+            <award from="2022" to="2025">SFU Library Diversity Development Award</award>
             <award when="2016">University of Victoria Department of English Medal of Excellence</award>
             <award when="2015">Frank Hori Foundation Scholarship</award>
             <award when="2015">Allardice Lancaster Scholarship</award>
