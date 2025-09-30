@@ -17,18 +17,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Self checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v5
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5
       - name: Setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
       - name: NPM install
         run: npm install
       - name: Compile
         run: npm run build
       - name: Upload artifacts
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ${{ github.workspace }}/dist
       - name: Deploy
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
