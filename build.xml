@@ -5,6 +5,8 @@
   <property name="message" value="'Updating CV.'"/>
   <property name="displayReferences">false</property>
   <property name="displayDesc">false</property>
+ 
+
     
     <tstamp>
         <format property="date" pattern="yyyy-MM-dd" locale="en"/>
@@ -12,12 +14,14 @@
     
     <property name="source.dir" value="xml"/>
     <property name="out.dir" location="docs"/>
+    <property name="cv.name" value="CV.xml"/>
     <!--Files-->
-    <property name="source.cv" value="${source.dir}/CV.xml"/>
+    <property name="source.cv" value="${source.dir}/${cv.name}"/>
     
     <target name="createCv">
         <ant antfile="../cv/build.xml" inheritall="true" usenativebasedir="true"/>
     </target>
+    
     <target name="makeCvIndex">
         <echo message="${echo.separator}"/>
         <echo message="Creating CV index page..."/>
@@ -37,4 +41,9 @@
     <target name="all">
         <antcall target="createCv"/>
     </target>
+    
+    <!--
+        ant -DdisplayReferences=true -DdisplayDesc=true -DfontFamily='BemboMTPro-Regular' -Dfontsize=12
+    -->
+    
 </project>

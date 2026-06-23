@@ -21,8 +21,8 @@
                 <thesis>Winnifred Eaton Reeve’s <title level="m">His Royal Nibs</title>: A Critical Digital Edition</thesis>
             </degree>
             <degree from="2012" to="2016">
-                <name>Bachelor of Arts (Honours with Distinction)</name>
-                <discipline>English &amp; Women’s Studies (minor)</discipline>
+                <name>Bachelor of Arts (Honours with Distinction) in English</name>
+                <!--<discipline>English &amp; Women’s Studies (minor)</discipline>-->
                 <location ref="#UVic"/>
                 <!--   <thesis>Colonial Entanglements and Cruel Reconciliation: Marie Clements’ <title level="m">Burning Vision</title> and Decolonial Responsibility</thesis>-->
             </degree>
@@ -305,12 +305,15 @@
         <section xml:id="presentations_refereed">
             <head>Refereed Presentations</head>
             <listConferences>
-                <conference><ref target="#me">Takeda, Joey</ref>, Andrew Gardener, and Rebecca Dowson. <title level="a">What does reproducibility look like for a DH project?</title> 1st Canadian Conference on Open Science and Open Scholarship, University of Concordia, Montreal, QC, <date when="2025-10-10">October 10, 2025</date>.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Dispatches from the TEI's GIS Working Group</title>. Text Encoding Initiative (TEI) 2025 Conference, Kraków, Poland, <date when="2025-09-18">September 18, 2025</date>.</conference>
+                <conference>Dowson, Rebecca, and <ref target="#me">Joey Takeda</ref>. "How Do You (Continue to) Implement a New Knowledge Environment? Re-aligning and Sustaining Digital Scholarship." Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Montréal, QC, <date when="2026-06-05">June 5, 2026</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, Raffaele Viglianti, and Kaitlyn MacInnis. <title level="a">No Element is Neutral: Challenging the TEI's &lt;foreign&gt; Element.</title> Presented by Joey Takeda and Sydney Lines. Conference of the Canadian Society of Digital Humanities / Société canadienne des humanités numériques, Montréal, QC, <date when="2026-06-03">June 3, 2026</date>.</conference>
+                <conference>Dowson, Rebecca, <ref target="#me">Joey Takeda</ref>, Sydney Lines, Christine D'Onofrio, Eka Grgurić, Abirami Muthukumar, and Holly Pickering. <title level="a">Supporting TEI-enabled Projects through Cross-Institutional Collaboration.</title> CRKN Virtual Conference: Creative Collaborations, Collective Momentum, Canadian Research Knowledge Network (CRKN), virtual, <date when="2026-05-13">May 13, 2026</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Andrew Gardener, and Rebecca Dowson. <title level="a">What does reproducibility look like for a DH project?</title> 1st Canadian Conference on Open Science and Open Scholarship, University of Concordia, Montréal, QC, <date when="2025-10-10">October 10, 2025</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, and Martin Holmes. <title level="a">Dispatches from the TEI's GIS Working Group</title>. Text Encoding Initiative (TEI) 2025 Conference, Kraków, Poland, <date when="2025-09-18">September 18, 2025</date>. <ptr target="https://doi.org/10.5281/zenodo.17220760"/></conference>
                 <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, Ekatarina Grgurić, and Rebeccca Dowson. <title level="a">Interlibrary Collaborations: Forging Antiracist, Decolonial, and Inclusive Markup Interventions in Partnership.</title> Presented by <ref target="#me">Joey Takeda</ref> and Sydney Lines. Text Encoding Initiative (TEI) 2024 Conference, Buenos Aires, Argentina, <date when="2024-10-10">October 10, 2024</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">C is for Co(nsortium|uncil|llaboration|ntributors|mmunity), or What Can GitHub Issues Tell Us About the TEI?</title> Text Encoding Initiative (TEI) 2024 Conference, Universidad del Salvador, Buenos Aires, Argentina, <date when="2024-10-09">October 9, 2024</date>.</conference>
-                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Leean Wu. <title level="a"><title level="a">Roll on, reels of celluloid, as the great earth rolls on!</title>: Preserving Early Hollywood Archives and Enacting Social Scholarship with the <title level="m">Winnifred Eaton Archive</title>.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Congress of the Humanities and Social Sciences, Montreal, QC, <date when="2024-06-17">June 17, 2024</date>.</conference>
-                <conference>Dowson, Rebecca, Alison J. Moore, <ref target="#me">Joey Takeda</ref>, and Andrew Gardener. <title level="a">Beyond the Start Up: Sustainable Approaches to Open Social Scholarship.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Congress of the Humanities and Social Sciences, Montreal, QC, <date when="2024-06-17">June 17, 2024</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Leean Wu. <title level="a"><title level="a">Roll on, reels of celluloid, as the great earth rolls on!</title>: Preserving Early Hollywood Archives and Enacting Social Scholarship with the <title level="m">Winnifred Eaton Archive</title>.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Congress of the Humanities and Social Sciences, Montréal, QC, <date when="2024-06-17">June 17, 2024</date>.</conference>
+                <conference>Dowson, Rebecca, Alison J. Moore, <ref target="#me">Joey Takeda</ref>, and Andrew Gardener. <title level="a">Beyond the Start Up: Sustainable Approaches to Open Social Scholarship.</title> Reviewing, Revising, and Refining Open Social Scholarship: An Implementing New Knowledge Environments (INKE) Partnership Gathering, Congress of the Humanities and Social Sciences, Montréal, QC, <date when="2024-06-17">June 17, 2024</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>, Alison J. Moore, Andrew Gardener, and Rebecca Dowson. <title level="a">Upgrading Everything, Everywhere, All At Once.</title> Access 2023, Halifax, NS, <date when="2023-10-24">October 24, 2023</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>, Sydney Lines, and Mary Chapman. <title level="a">Lights, Camera, Slugline?: Encoding Screenplays in TEI.</title> Presented by <ref target="#me">Joey Takeda</ref>. Encoding Cultures: Joint Text Encoding Initiative (TEI-MEC) Conference, Paderborn University, Paderborn, Germany, <date when="2023-09-08">September 8, 2023</date>.</conference>
                 <conference>Moore, Alison J., and <ref target="#me">Joey Takeda</ref>. <title level="a"><title level="a">Just come talk to use</title>: Revisiting How Digital Scholarship Services Structure Collaboration.</title> Presented by Alison J. Moore. Canadian Association of Professional Academic Librarians (CAPAL) Conference, Congress of the Humanities and Social Sciences, Toronto, ON, <date when="2023-07-08">June 8, 2023</date>.</conference>
@@ -329,8 +332,8 @@
                 <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Why Do I Need Four Search Engines?</title> Presented by Martin Holmes. Japanese Association for Digital Humanities Conference, <date when="2018-09-13">September 13, 2018</date>. <!--<ref target="http://joeytakeda.github.io/pdf/JADH_2018.pdf">PDF</ref>.--></conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a"><title level="a">Depth and width between the surface</title>: Reading Vertical Mobility in François Mandeville’s <title level="a">How Copper Was Discovered</title> and Marie Clements’ <title level="m">Burning Vision</title>.</title> Endnotes 2018, University of British Columbia, Vancouver, BC, <date when="2018-05-05">May 05, 2018</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Rethinking Protocols: Networking, Temporality, Decolonization.</title> Qualicum History Conference, Parksville, BC, <date when="2018-01-27">January 27, 2018</date>.</conference>
-                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</title> Digital Humanities 2017 (DH2017) Conference, McGill University, Montreal, QC, <date when="2017-08-11">August 11, 2017</date>.<!--<ref target="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.--></conference>
-                <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">Mapping the STC with MoEML and DEEP.</title> Digital Humanities 2017 (DH2017) Conference, McGill University, Montreal, QC, <date when="2017-08-09">August 9, 2017</date>.</conference>
+                <conference>Holmes, Martin, and <ref target="#me">Joey Takeda</ref>. <title level="a">Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project.</title> Digital Humanities 2017 (DH2017) Conference, McGill University, Montréal, QC, <date when="2017-08-11">August 11, 2017</date>.<!--<ref target="http://joeytakeda.github.io/pdf/Mapping_the_STC-2017.pdf">PDF</ref>. <ref target="https://github.com/projectEndings/diagnostics">Repository</ref>.--></conference>
+                <conference>Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">Mapping the STC with MoEML and DEEP.</title> Digital Humanities 2017 (DH2017) Conference, McGill University, Montréal, QC, <date when="2017-08-09">August 9, 2017</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">The Fragility of Reconciliation: Reading <title level="m">The Book of Jessica</title>.</title> Cultural, Social, &amp; Political Thought (CSPT) Graduate Conference, University of Victoria, Victoria, BC, <date when="2017-05-05">May 05, 2017</date>.</conference>
                 <conference hidden="true"><ref target="#me">Takeda, Joey</ref>. <title level="a">Viewing Jewish and Trans Identity: History, Genetics, and Jill Soloway’s <title level="m">Transparent</title>.</title> Qualicum History Conference, Parksville, BC, <date when="2017-01-28">January 28, 2017</date>.</conference>
                 <conference hidden="true">Jenstad, Janelle, Tye Landels-Gruenewald, and <ref target="#me">Joey Takeda</ref>. <title level="a">How To Do Things with 6000 Toponyms.</title> <!--Presented by Janelle Jenstad and <ref target="#me">Joey Takeda</ref>.--> How To Do Things with Millions Of Words Conference, University of British Columbia, Vancouver, BC, <date when="2016-11-03">November 03, 2016</date>.</conference>
@@ -339,7 +342,9 @@
         <section xml:id="presentations_posters">
             <head>Posters</head>
             <listConferences>
-                <conference>Moore, Alison J., Carla Graebner, Janice Banser, <ref target="#me">Joey Takeda</ref>, Melissa Salrin, Nicole White, Nina Saklikar, Rebecca Dowson, and Sarah Zhang. <title level="a">The Digital Scholarship Centre Working Group: Advancing research and open scholarship at SFU Library</title>. 1st Canadian Conference on Open Science and Open Scholarship, University of Concordia, Montreal, QC, <date when="2025-10-09">October 9, 2025</date>. 
+                <conference><ref target="#me">Takeda, Joey</ref>, Andrew Gardener, and Rebecca Dowson. <title level="a">Seeking Server Space: Using Alliance Infrastructure to Support Digital Humanities Development.</title> Conference of the Canadian Society of Digital Humanities / Société canadienne des humanités numériques, Montréal, QC, <date when="2026-06-04">June 4, 2026</date>. 
+                </conference>
+                <conference>Moore, Alison J., Carla Graebner, Janice Banser, <ref target="#me">Joey Takeda</ref>, Melissa Salrin, Nicole White, Nina Saklikar, Rebecca Dowson, and Sarah Zhang. <title level="a">The Digital Scholarship Centre Working Group: Advancing research and open scholarship at SFU Library</title>. 1st Canadian Conference on Open Science and Open Scholarship, University of Concordia, Montréal, QC, <date when="2025-10-09">October 9, 2025</date>. <ptr target="https://doi.org/10.5281/zenodo.17400660"/>
                 </conference>
                 <conference>Davis, Leith, <ref target="#me">Joey Takeda</ref>, Jasmyn Bojakli, Taylor Breckles, Alyssa Bridgman, and Kaitlyn MacInnis. <title level="a">NextGen Meets OldGen: Encoding an Eighteenth-Century Metadata Project.</title> Text Encoding Initiative (TEI) 2021 Conference, University of Newcastle, virtual, <date when="2021-10-26">October 26, 2021</date>.</conference>
             </listConferences>
@@ -362,6 +367,7 @@
         <section type="teaching_guest">
             <head>Guest Lectures</head>
             <listConferences>
+                <conference><title level="a">Introduction to TEI.</title> ENGL832: Studies in Eighteenth-Century Literature, Simon Fraser University, <date when="2026-04-01">April 1, 2026</date>.</conference>
                 <conference><title level="a">Data: Structures, Shapes, and Forms.</title> CMNS 858: Reimagining Data, Simon Fraser University, <date when="2025-05-13">May 13, 2025</date>.</conference>
                 <conference><title level="a">Introduction to TEI.</title> ENGL 502A: Studies in Criticism, University of British Columbia, <date when="2025-03-19">March 19, 2025</date>.</conference>
                 <conference><title level="a">Encoding Screenplays.</title> ENGL 501: Digital Methods for Literary Study: Recovering Early Chinese Canadian Literature and History, University of British Columbia, <date when="2023-03-17">March 17, 2023</date>.</conference>
@@ -454,6 +460,10 @@
         <section xml:id="service_profession">
             <head>Professional Service</head>
             <listJobs>
+                <job from="2025" to="2026">
+                    <job_title>Conference Chair</job_title>
+                    <workplace>TEI 2026 Conference</workplace>
+                </job>
                 <job from="2024-11">
                     <job_title>Co-Organizer</job_title>
                     <workplace>TEI Community Calls</workplace>
@@ -462,7 +472,7 @@
                     <job_title>Chair</job_title>
                     <workplace>TEI GIS Working Group</workplace>
                 </job>
-                <job from="2023-05">
+                <job from="2023-05" to="2025-12">
                     <job_title>Technical Committee Member</job_title>
                     <workplace>Public Knowledge Project (PKP)</workplace>
                 </job>
@@ -561,11 +571,13 @@
     <section type="awards" xml:id="grants">
         <head>Grants</head>
         <listAwards>
+            <award when="2026"><hi rend="bold">Collaborator</hi>. SSHRC Connections Grant, <title level="a">Static Websites for Sustainable Knowledge Mobilization</title>. (Principal Investigator: Deanna Reder)</award>
+            <award when="2026"><hi rend="bold">Co-investigator</hi>. SSHRC Connections Grant, <title level="a">TEI 2026: Creating Connections, Unsettling Practices</title>. (Principal Investigator: Mary Chapman)</award>
             <award when="2025"><hi rend="bold">Collaborator</hi>. SSHRC Insight Grant, <title level="a">Computational Dostoevsky.</title> (Principal Investigator: Katherine Bowers)</award>
             <award when="2024-04"><hi rend="bold">External Partner</hi>. UBC PhD CoLab. <title level="a">The Adaptive Text Encoding Initiative Network: Antiracist, Decolonial, and Inclusive Markup Interventions.</title> (Principal Investigators: Sydney Lines and Mary Chapman)</award>
             
             <award when="2021-05">
-                <hi rend="bold">Co-Applicant</hi>. SSHRC Connection Grant, <title level="a">Onoto Watanna’s CATTLE at 100: Indomitable Women in the West During the Chinese Exclusion Era.</title><!-- $24,983--> (Principal Investigator: Mary Chapman)
+                <hi rend="bold">Co-investigator</hi>. SSHRC Connection Grant, <title level="a">Onoto Watanna’s CATTLE at 100: Indomitable Women in the West During the Chinese Exclusion Era.</title><!-- $24,983--> (Principal Investigator: Mary Chapman)
             </award>
             <award when="2020-05"><hi rend="bold">Collaborator</hi>. SSHRC Partnership Engage Grant, <title level="a">Engaging Public and Academic Audiences to Recover Lost Voices of Scottish History: <title level="a">The Lyon in Mourning</title> Manuscript and the Jacobite Networks of the 1745 Rising.</title><!--, $18,000--> (Principal Investigator: Leith Davis)</award>
             <award when="2016"><hi rend="bold">Applicant</hi>. SSHRC Canadian Graduate Scholarship-Masters Grant, <title level="a">Literary Ecologies of Decolonization in Canada.</title><!--, $17,500--></award>
