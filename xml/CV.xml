@@ -106,7 +106,7 @@
         </listJobs>
     </section>
     
-    <section xml:id="projects">
+    <section xml:id="projects" n="Projects">
         <head>Selected Digital Projects and Software</head>
         <listProjects>
             <project>
