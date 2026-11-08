@@ -2,7 +2,7 @@
 <?xml-model href="../../cv/schema/CV.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../cv/schema/CV.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <cv xmlns="http://joeytakeda.github.io/ns/">
-    <name xml:id="me">Joey (Joseph) <surname>Takeda</surname></name>
+    <name xml:id="me">Joey <surname>Takeda</surname></name>
     <email>joey.takeda@gmail.com</email>
 <!--    <phone></phone>-->
     <github>joeytakeda</github>
@@ -33,7 +33,11 @@
     <section type="employment" xml:id="professional_experience">
         <head>Professional Experience</head>
         <listJobs>
-            <job from="2020-01">
+            <job from="2026-09" to="2027-09">
+                <job_title>Digital Scholarship Librarian</job_title>
+                <location ref="#SFULib"/>
+            </job>
+            <job from="2020-01" to="2026-09">
                 <job_title>Developer</job_title>
                 <workplace>Digital Humanities Innovation Lab</workplace>
                 <location ref="#SFULib"/>
@@ -286,6 +290,8 @@
         <section xml:id="presentations_invited">
             <head>Invited Presentations</head>
             <listConferences>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Acid-Free Web Pages: Ending, Sustaining, and Preserving Digital Scholarship.</title> Humanities Innovation Lab Monday Lecture Series, University of Lethbridge, <date when="2026-10-26">October 26, 2026</date>.</conference>
+                <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Digital Dowsing: Some Textual and Technical Considerations.</title> Studied for Action? The Library of William Dowsing, 1596–1668, Simon Fraser University, Vancouver, BC, <date when="2026-09-18">September 18, 2026</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Between Modularity and Minimalism: Sustainability, Platforms, and Ecosystems.</title> Crossing Fonds Symposium, Simon Fraser University, Vancouver, BC, <date when="2024-04-26">April 26, 2024</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. <title level="a">Sustaining DH: Endings, Dependencies, Infrastructure.</title> Maryland Institute for Technology in the Humanities (MITH) Digital Dialogues Series, University of Maryland, College Park, MD, <date when="2024-04-09">April 9, 2024</date>.</conference>
                 <conference><ref target="#me">Takeda, Joey</ref>. Invited panelist on <title level="a">Research Careers Outside the Tenure Track.</title> UBC Arts Amplifier, University of British Columbia, virtual, <date when="2023-11-28">November 28, 2023</date>.</conference>
@@ -344,6 +350,7 @@
         <section xml:id="presentations_posters">
             <head>Posters</head>
             <listConferences>
+                <conference>Dowson, Rebecca, <ref target="#me">Joey Takeda</ref>, Nicole White, and Donald Taylor. <title level="a">Equal Partners in Open Scholarship: Streamlining the SFU LIbrary Digital Project Intake Process.</title> 2nd Canadian Open Science Conference (COSC 2026), University of Ottawa, Ottawa, ON, <date when="2026-10-27">October 27-29, 2026</date>. </conference>
                 <conference><ref target="#me">Takeda, Joey</ref>, Andrew Gardener, and Rebecca Dowson. <title level="a">Seeking Server Space: Using Alliance Infrastructure to Support Digital Humanities Development.</title> Conference of the Canadian Society of Digital Humanities / Société canadienne des humanités numériques, Montréal, QC, <date when="2026-06-04">June 4, 2026</date>. 
                 </conference>
                 <conference>Moore, Alison J., Carla Graebner, Janice Banser, <ref target="#me">Joey Takeda</ref>, Melissa Salrin, Nicole White, Nina Saklikar, Rebecca Dowson, and Sarah Zhang. <title level="a">The Digital Scholarship Centre Working Group: Advancing research and open scholarship at SFU Library.</title> 1st Canadian Conference on Open Science and Open Scholarship, University of Concordia, Montréal, QC, <date when="2025-10-09">October 9, 2025</date>. <ptr target="https://doi.org/10.5281/zenodo.17400660"/>
@@ -498,6 +505,10 @@
         <section xml:id="service_SFU">
             <head>Simon Fraser University</head>
             <listJobs>
+                <job from="2026" to="2026">
+                    <job_title>Member</job_title>
+                    <workplace>Research, Instruction, and Outreach Librarian Hiring Committee</workplace>
+                </job>
                 <job from="2025">
                     <job_title>Member</job_title>
                     <workplace>Digital Scholarship Centre Working Group</workplace>
